@@ -1,0 +1,97 @@
+I"ã<h2 id="resources">Resources</h2>
+<ul>
+  <li>Article: <a href="https://development.robinwinslow.uk/2014/01/10/agile-philosophy/">Agile philosophy: A summary</a></li>
+  <li>Video: <a href="https://www.youtube.com/watch?v=CcDpxG_Wz-k">AARRR</a></li>
+  <li>Video: <a href="https://youtu.be/Z8MOwcqZuuU">Design Sprint Introduction</a></li>
+</ul>
+
+<h2 id="agile"><a href="https://en.wikipedia.org/wiki/Agile_software_development">agile</a></h2>
+<p>A professional alternative to waterfall development workflows.</p>
+
+<h3 id="core-principles">Core Principles</h3>
+<ul>
+  <li><strong>Individuals and Interactions</strong> over processes and tools</li>
+  <li><strong>Working Software over</strong> comprehensive documentation</li>
+  <li><strong>Customer Collaboration</strong> over contract negotiation</li>
+  <li><strong>Responding to Change</strong> over following a plan</li>
+</ul>
+
+<p>Agile comes in many flavours but here are three weâ€™ll talk about:</p>
+<ul>
+  <li>Lean
+    <ul>
+      <li>Resources
+        <ul>
+          <li>Article: <a href="http://theleanstartup.com/principles">Lean Methodology</a></li>
+          <li>Video: <a href="https://youtu.be/7o8uYdUaFR4">Lean Canvas</a></li>
+          <li>Tools:
+            <ul>
+              <li><a href="https://leanstack.com">Leanstack</a></li>
+              <li><a href="https://canvanizer.com">Canvanizer</a></li>
+            </ul>
+          </li>
+        </ul>
+      </li>
+      <li>Core Principles
+        <ul>
+          <li>Define</li>
+          <li>Learn</li>
+          <li>Experiment</li>
+        </ul>
+      </li>
+      <li>In practice:
+        <ul>
+          <li>Document your Plan A</li>
+          <li>Identify the riskiest parts of your plan</li>
+          <li>Systematically test your plan</li>
+        </ul>
+      </li>
+    </ul>
+  </li>
+  <li><a href="https://www.scrum.org/">Scrum</a>
+    <ul>
+      <li>Core Principles
+        <ul>
+          <li>Transparency</li>
+          <li>Inspection</li>
+          <li>Adaptation</li>
+        </ul>
+      </li>
+      <li>In practice
+        <ul>
+          <li>Cycles are sprints</li>
+          <li>Standup meetings</li>
+          <li>Product Ownership</li>
+        </ul>
+      </li>
+    </ul>
+  </li>
+  <li><a href="https://en.wikipedia.org/wiki/Kanban">Kanban</a>
+    <ul>
+      <li>Core Principles
+        <ul>
+          <li>Understanding</li>
+          <li>Agreement</li>
+          <li>Respect</li>
+          <li>Leadership</li>
+          <li>Flow</li>
+          <li>Customer Focus</li>
+          <li>Transparency</li>
+          <li>Balance</li>
+          <li>Collaboration</li>
+        </ul>
+      </li>
+      <li>In practice:
+        <ul>
+          <li>Each process issues requests (kanban) to its suppliers when it consumes its supplies.</li>
+          <li>Each process produces according to the quantity and sequence of incoming requests.</li>
+          <li>No items are made or transported without a request.</li>
+          <li>The request associated with an item is always attached to it.</li>
+          <li>Processes must not send out defective items, to ensure that the finished products will be defect-free.</li>
+          <li>Limiting the number of pending requests makes the process more sensitive and reveals inefficiencies.</li>
+        </ul>
+      </li>
+    </ul>
+  </li>
+</ul>
+:ET

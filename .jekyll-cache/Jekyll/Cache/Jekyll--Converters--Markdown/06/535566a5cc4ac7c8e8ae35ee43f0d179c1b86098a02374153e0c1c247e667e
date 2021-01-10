@@ -1,0 +1,114 @@
+I"�<h2 id="housekeeping">Housekeeping</h2>
+<ul>
+  <li><a href="https://github.com/sait-wbdv/assessments/blob/master/cpnt260/assignment-3/feedback-key.md">260 Assignment 3 Feeback Key</a> (so far)</li>
+</ul>
+
+<h2 id="homework">Homework</h2>
+<ol>
+  <li>Numbers and Strings:
+    <ul>
+      <li>Read: <a href="https://developer.mozilla.org/en-US/docs/Learn/JavaScript/First_steps/Math">Basic math in JavaScript — numbers and operators</a></li>
+      <li>Read: <a href="https://developer.mozilla.org/en-US/docs/Learn/JavaScript/First_steps/Strings">Handling text - strings in Javascript</a></li>
+      <li>Read: <a href="https://developer.mozilla.org/en-US/docs/Learn/JavaScript/First_steps/Useful_string_methods">Useful string methods</a></li>
+      <li>Watch: <a href="https://youtu.be/09BwruU4kiY">JavaScript Strings</a> by Mosh</li>
+      <li>Watch: <a href="https://youtu.be/VRz0nbax0uI">20 String Methods in 7 Minutes</a> by Free Code Camp</li>
+      <li>Read: <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Template_literals">Template literals</a> on MDN</li>
+    </ul>
+  </li>
+  <li>Coersion and Sameness
+    <ul>
+      <li>Read: <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Boolean">Boolean values</a> on MDN</li>
+      <li>Read: <a href="https://developer.mozilla.org/en-US/docs/Glossary/Type_coercion">Type coercion</a> on MDN</li>
+      <li>Read: <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript/Equality_comparisons_and_sameness">Equality comparisons and sameness</a></li>
+      <li>Watch: <a href="https://youtu.be/mat1O5JI2fg">JS Type Casting, Converting, and Coercion</a> by Steve Griffith</li>
+    </ul>
+  </li>
+</ol>
+
+<hr />
+
+<h2 id="terminology">Terminology</h2>
+<dl>
+  <dt>Dynamic Types</dt>
+  <dd>
+    <p>You don’t tell the engine what type of data a variable holds. It figures it out while your code is running.&lt;/dd&gt;</p>
+    <dt>Coercion</dt>
+    <dd>
+      <p>Converting a value from one type to another.&lt;/dd&gt;</p>
+      <dt>Expression</dt>
+      <dd>
+        <p>A line of code that returns a value.&lt;/dd&gt;</p>
+        <dt>Operator</dt>
+        <dd>
+          <p>A special function that usually takes two arguments (operands) from either side of the operator (infix notation).
+    &lt;dl&gt;
+      &lt;dt&gt;Comparison Operator&lt;/dt&gt;
+      &lt;dd&gt;Compares its operands and returns a boolean value based on whether the comparison is true or false.&lt;/dd&gt;
+      &lt;dt&gt;Arithmetic Operator&lt;/dt&gt;
+      &lt;dd&gt;Takes numerical values (either literals or variables) as their operands and returns a single numerical value.&lt;/dd&gt;
+    &lt;/dl&gt;</p>
+        </dd>
+        <dt>Equal</dt>
+        <dd>
+          <p>Where two values are “equal” but the value types are not compared.&lt;/dd&gt;</p>
+          <dt>Identical</dt>
+          <dd>
+            <p>Where two values are equal AND the value types are also identical.&lt;/dd&gt;</p>
+            <dt>Concatenation</dt>
+            <dd>
+              <p>Joining two or more strings into one.&lt;/dd&gt;</p>
+              <dt>Template Literal</dt>
+              <dd>
+                <p>The ES6 method of concatenation, replacing the need for using the <code>+</code> operator on strings.&lt;/dd&gt;
+&lt;/dl&gt;</p>
+
+                <hr />
+
+                <h2 id="coersion-and-sameness">1. Coersion and Sameness</h2>
+                <p>Live Demo: Comparison operators and coersion</p>
+
+                <p>See: <a href="https://gist.github.com/prof3ssorSt3v3/253a945ce2bed2b92805d4e43b5a7614">Casting Sample Code</a> by Steve Griffith in <a href="https://youtu.be/mat1O5JI2fg">JS Type Casting, Converting, and Coercion</a></p>
+
+                <h3 id="key-takeaways">Key Takeaways</h3>
+                <ul>
+                  <li>Use <code>===</code> instead of <code>==</code> whenever possible (or until you understand the difference).</li>
+                  <li>Avoid chaining comparison operators for 3 or more operands.</li>
+                  <li><code>NaN</code> and another <code>NaN</code> are never equal.</li>
+                </ul>
+
+                <hr />
+
+                <h2 id="string-methods">2. String methods</h2>
+                <p><strong>Sample Code</strong>: <a href="https://github.com/sait-wbdv/sample-code/tree/master/js-base/strings/string-methods.js">String methods</a>, copied from <a href="https://youtu.be/VRz0nbax0uI">20 String Methods in 7 Minutes</a> by Free Code Camp</p>
+
+                <hr />
+
+                <h2 id="arithmetic-operators-and-concatenation">3. Arithmetic operators and concatenation</h2>
+                <p>Live Demo: Adding text content to a page using the DOM.</p>
+
+                <p>See: <a href="https://github.com/sait-wbdv/sample-code/tree/master/frontend/form-name-food/">Food form starter code</a></p>
+
+                <hr />
+
+                <h2 id="activities">Activities</h2>
+                <ol>
+                  <li>MDN: Test your skills:
+                    <ul>
+                      <li><a href="https://developer.mozilla.org/en-US/docs/Learn/JavaScript/First_steps/Test_your_skills:_Strings">Strings</a></li>
+                      <li><a href="https://developer.mozilla.org/en-US/docs/Learn/JavaScript/First_steps/Test_your_skills:_Math">Math</a></li>
+                    </ul>
+                  </li>
+                  <li>You Don’t Know JS Exercises: <a href="https://ydkjs-exercises.com/types-grammar/ch4/q1">Types and Grammar</a></li>
+                  <li>Free Code Camp: Starting at <a href="https://www.freecodecamp.org/learn/javascript-algorithms-and-data-structures/basic-javascript/add-two-numbers-with-javascript">Adding two numbers</a> complete lessons 8-36 of the Free Code Camp <a href="https://www.freecodecamp.org/learn/javascript-algorithms-and-data-structures/basic-javascript/">Basic Javascript</a> course. You can stop at <a href="https://www.freecodecamp.org/learn/javascript-algorithms-and-data-structures/basic-javascript/store-multiple-values-in-one-variable-using-javascript-arrays">Store Multiple Values in one Variable using JavaScript Arrays</a>.</li>
+                </ol>
+
+                <hr />
+              </dd>
+            </dd>
+          </dd>
+        </dd>
+      </dd>
+    </dd>
+  </dd>
+</dl>
+:ET

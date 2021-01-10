@@ -1,0 +1,28 @@
+body {
+  font-family: "Mukta", serif;
+  font-size: 20px;
+}
+
+body > .wrapper {
+  max-width: 90ch;
+  margin: auto;
+}
+
+body > .wrapper > header {
+  display: flex;
+  align-items: center;
+
+  border-bottom: 1px solid #aaa;
+  padding: 1em;
+  margin-bottom: 2em;
+}
+
+img.sait-logo {
+  width: 150px;
+}
+
+main {
+  margin: auto;
+  max-width: 90ch;
+}
+

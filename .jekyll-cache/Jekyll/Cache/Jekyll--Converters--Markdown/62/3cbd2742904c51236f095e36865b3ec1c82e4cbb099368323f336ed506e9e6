@@ -1,0 +1,308 @@
+I"�&<h2 id="what-is-seo">What Is Seo?</h2>
+<ul>
+  <li>Methods, principles, and techniques used by people to organically
+rank their web pages in search results</li>
+</ul>
+
+<h2 id="seo-factors">Seo Factors</h2>
+<h3 id="on-page-seo">On-Page SEO</h3>
+<ul>
+  <li>Any type of search engine optimization that is done on the page.
+    <ul>
+      <li>Structuring URLs, adding alt text to images, using keywords in your content, posting new content regularly
+        <h3 id="off-page-seo">Off-Page SEO</h3>
+      </li>
+    </ul>
+  </li>
+  <li>Any kind of optimization that is done off the page
+    <ul>
+      <li>Guest blogging, link building, social media, content marketing</li>
+    </ul>
+  </li>
+</ul>
+
+<h2 id="seo-best-practices">Seo Best Practices</h2>
+<ul>
+  <li>Get Google to trust your website
+    <ul>
+      <li>Provide Value (content, content, content)</li>
+      <li>Build Trust
+        <ul>
+          <li>age (age of domain, how fresh is your content)</li>
+          <li>authority (trusted websites link back to us)</li>
+        </ul>
+      </li>
+    </ul>
+  </li>
+</ul>
+
+<h2 id="the-algorithm">The Algorithm</h2>
+<p>Google changes its algorithm often so that low quality sites can’t “beat the system” and rank high on search results.</p>
+
+<h2 id="some-algorithm-updates-in-2018">Some Algorithm Updates In 2018</h2>
+<ul>
+  <li>Page speed became a ranking factor for mobile results (July 9, 2018)</li>
+  <li>Google changed snippets (meta descriptions) shown on search results page to have a max limit of 150-160 characters (May 13, 2018)</li>
+  <li>Mobile versions of websites (instead of desktop) are used to rank pages (March 26, 2018)</li>
+</ul>
+
+<p>Source: https://moz.com/google-algorithm-change</p>
+
+<h2 id="black-hat-seo">Black Hat Seo</h2>
+<p>Practices that go against SEO guidelines in order to get a site ranking higher in search results.</p>
+<ul>
+  <li>keyword stuffing</li>
+  <li>cloaking</li>
+  <li>using private link networks</li>
+</ul>
+
+<h3 id="keyword-stuffing">KEYWORD STUFFING</h3>
+<p>Filling your content with irrelevant keywords to manipulate page
+rank.</p>
+<ul>
+  <li>lists of phone numbers without substantial added value</li>
+  <li>blocks of text listing cities and states a web page is trying to rank for</li>
+  <li>repeating the same words or phrases so often that it sounds unnatural</li>
+</ul>
+
+<p>“We are in the business of selling <strong>web development software</strong>. <strong>Web development software</strong> is what we sell. If you are thinking of getting <strong>web development software</strong> get in touch with one of our <strong>web development software</strong> consultants.”</p>
+
+<h3 id="cloaking">CLOAKING</h3>
+<p>Showing one piece of content to users and a different piece of
+content to search engines.</p>
+
+<p>Treat search engine crawlers the same as your human visitors.</p>
+
+<h3 id="sneaky-redirects">Sneaky Redirects</h3>
+<p>Sending a visitor to a different URL than the one they initially clicked on.</p>
+<ul>
+  <li>Redirects have a purpose and are supposed to help visitors, not confuse or lie to them</li>
+</ul>
+
+<h3 id="link-exchanges">Link Exchanges</h3>
+<p>Link exchanges used to be common SEO practice, but are now
+usually a sign of Black Hat SEO.</p>
+<ul>
+  <li>They don’t help your rankings as much as one-way links.</li>
+  <li>Usually just a list of links and rarely actually relevant.</li>
+</ul>
+
+<h2 id="how-to-do-keyword-research-for-seo">How To Do Keyword Research For Seo</h2>
+
+<h3 id="step-1-make-a-list-of-important-relevant-topics">Step 1: Make A List Of Important, Relevant Topics</h3>
+<ul>
+  <li>Come up with 5-10 topics you think are important to the business.</li>
+  <li>What topics do you want to rank for in search results?</li>
+  <li>What do you blog about?</li>
+  <li>What topics come up most often in sales conversations?</li>
+</ul>
+
+<p>“web design”, “custom CSS”, “WordPress”, “business”, “developer collaboration”, “blogging”, “e-commerce”</p>
+
+<h2 id="step-2-fill-in-those-topics-with-keywords">Step 2: Fill In Those Topics With Keywords</h2>
+<p>“web design”</p>
+<ul>
+  <li>web design inspiration</li>
+  <li>web design tips</li>
+  <li>web design layout</li>
+  <li>web design tutorials</li>
+  <li>web design trends</li>
+  <li>WordPress web design</li>
+  <li>responsive web design</li>
+  <li>how to tell if you need a new web design web design tools</li>
+  <li>how to create a winning web design how to find a good web designer</li>
+</ul>
+
+<h2 id="step-3-research-related-search-terms">Step 3: Research Related Search Terms</h2>
+
+<h2 id="step-4-check-for-a-mix-of-head-terms-and-long-tail-keywords">STEP 4: CHECK FOR A MIX OF HEAD TERMS AND LONG-TAIL KEYWORDS</h2>
+<ul>
+  <li><strong>head terms</strong>: keyword phrases that are generally shorter and more generic (1-3 words in length)</li>
+  <li><strong>long-tail keywords</strong>: phrases that contain 3 or more words</li>
+</ul>
+
+<p>“web design” vs “how to optimize your web design”</p>
+
+<h2 id="step-5-check-out-the-competition">Step 5: Check Out The Competition</h2>
+<p>Use tools like https://www.semrush.com/ and https://serpstat.com/
+to see what keywords your competition is ranking for</p>
+
+<h2 id="step-6-focus-on-specific-keywords">Step 6: Focus On Specific Keywords</h2>
+<p>Use Tools Like:</p>
+<ul>
+  <li>https://moz.com/explorer/</li>
+  <li>https://trends.google.com/trends/</li>
+  <li>https://www.google.com/trends/correlate</li>
+</ul>
+
+<p>These will help you see how well a keyword is doing and whether or not it’s worth trying to rank for.</p>
+
+<h2 id="step-7-adding-keywords-to-your-content">Step 7: Adding Keywords To Your Content</h2>
+<ol>
+  <li>Heading Tags (<code>h1</code>, <code>h2</code>, <code>h3</code>)</li>
+  <li><code>&lt;title&gt;&lt;/title&gt;</code></li>
+  <li>Throughout content</li>
+  <li><code>&lt;strong&gt;&lt;/strong&gt;</code></li>
+  <li>text in links</li>
+  <li>image filenames</li>
+</ol>
+
+<h2 id="return-on-investment-roi">RETURN ON INVESTMENT (ROI)</h2>
+<h3 id="calculating-roi">CALCULATING ROI</h3>
+<p>Sales Income - Costs = ROI</p>
+
+<p>Costs include:</p>
+<ul>
+  <li>web development costs</li>
+  <li>hosting</li>
+  <li>staff</li>
+  <li>maintenance equipment</li>
+  <li>rental advertising</li>
+</ul>
+
+<h2 id="how-do-websites-generate-revenue">How Do Websites Generate Revenue</h2>
+<ul>
+  <li>Getting sales leads</li>
+  <li>selling digital products (software, ebooks, music, etc.)</li>
+  <li>selling services (web development, web design, SEO)</li>
+  <li>advertising revenue (banner ads, Google Ads)</li>
+  <li>donations (generally for non-profits)</li>
+  <li>online courses</li>
+  <li>affiliate marketing (Amazon, companies you partner with)</li>
+</ul>
+
+<h2 id="copyright">COPYRIGHT</h2>
+<h3 id="tip-1">TIP #1</h3>
+<p>Make sure you have the right to use every piece of content when
+developing the website.</p>
+<ul>
+  <li>Text</li>
+  <li>Images</li>
+  <li>Video</li>
+  <li>Audio</li>
+</ul>
+
+<h2 id="tip-2">TIP #2</h2>
+<p>Add a clause to your contract.</p>
+<blockquote>
+  <p>“You guarantee that all elements of text, images or other artwork you provide are either owned by your good selves, or that you’ve permission to use them. When you provide text, images or other artwork to us, you agree to protect us from any claim by a third party that we’re using their intellectual property.”
+— Killer Contract</p>
+</blockquote>
+
+<h2 id="tip-3">TIP #3</h2>
+<p>Remind your clients about copyright when collecting content from
+them.</p>
+
+<h2 id="favicon">FAVICON</h2>
+
+<h3 id="how-to-add-a-favicon">HOW TO ADD A FAVICON</h3>
+<ol>
+  <li>Start with a simplified version of your logo. Size: 260px 260px</li>
+  <li>Use https://realfavicongenerator.net/ to create favicons.</li>
+  <li>Configure generator settings for different devices</li>
+  <li>Generate favicon</li>
+  <li>Donload the favicon package into the root of your website folder.</li>
+  <li>Add the HTML code to the head section of your website.</li>
+</ol>
+
+<h2 id="print-styles">Print Styles</h2>
+
+<ol>
+  <li>
+    <p>Use A Media Query</p>
+
+    <pre><code> @media print {
+     // print styles go here
+ }
+</code></pre>
+  </li>
+  <li>
+    <p>Make Color Changes Explicit</p>
+
+    <pre><code> @media print {
+   body {
+       background: #FFFFFF;
+       color: #000000;
+   }
+ }
+</code></pre>
+  </li>
+  <li>
+    <p>Remove Unneeded Page Elements.</p>
+
+    <pre><code> @media print {
+   nav, .search-form {
+       display: none;
+   }
+ }
+</code></pre>
+  </li>
+  <li>
+    <p>SET PAGE WIDTH AND MARGINS</p>
+
+    <pre><code> @media print {
+   @page {
+       margin: 1cm; // Use centimeters or inches, not pixels
+   }
+   body {
+     width: 100%;
+     margin: 0;
+     padding: 0; 
+   }
+ }
+</code></pre>
+  </li>
+  <li>
+    <p>AVOID ODD PAGE BREAKS.</p>
+
+    <pre><code> @media print {
+   h1, h2, h3, h4, h5, h6 {
+     page-break-after: avoid; // Prevent headings from being printed at the bottom of the page
+   }
+
+   article {
+     page-break-before: always; // Always start new articles on a new page
+   }
+
+   img {
+     page-break-inside: avoid; // Prevent images from being split up
+   } 
+ }
+</code></pre>
+  </li>
+  <li>
+    <p>FORCE BACKGROUND IMAGES AND COLORS.</p>
+
+    <pre><code> @media print and (color) { 
+   * {
+       -webkit-print-color-adjust: exact; 
+       print-color-adjust: exact;
+   } 
+ }
+</code></pre>
+  </li>
+  <li>
+    <p>DISPLAY LINK URLS.</p>
+
+    <pre><code> @media print { 
+   a[href^=http]:after {
+     font-style: italic;
+     content: " &lt; " attr(href) " &gt; "; 
+   }
+ }
+</code></pre>
+  </li>
+</ol>
+
+<p>To add to WordPress sites: https://www.jotform.com/blog/css-perfect-print-stylesheet-98272/</p>
+
+<h2 id="testing-print-stylesheets">Testing Print Stylesheets</h2>
+<p><img src="assets/chrome-print-styles.png" alt="screen cap" /></p>
+
+<ol>
+  <li>Open Chrome DevTools.</li>
+  <li>Click on the three dots icon and then select “More Tools” and
+“Rendering”.</li>
+  <li>You can then select print under Emulate CSS Media.</li>
+</ol>
+:ET

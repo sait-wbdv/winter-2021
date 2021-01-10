@@ -1,0 +1,80 @@
+I"<h2 id="step-by-step-generating-a-random-colour-with-js-and-css-variables">Step-by-Step: Generating a random colour with JS and CSS Variables</h2>
+<ol>
+  <li>
+    <p>CSS: Create a CSS Variable with a default value:</p>
+
+    <pre><code class="language-css"> :root {
+   --hue: 180;
+ }
+</code></pre>
+  </li>
+  <li>
+    <p>Use <code>--hue</code> to add colour with <code>hsl()</code>:</p>
+
+    <pre><code class="language-css"> body {
+   background-color: hsl(var(--hue), 100%, 50%);
+ }
+</code></pre>
+  </li>
+  <li>
+    <p>JS: Generate a random number from 0-359 (your new hue angle):</p>
+
+    <pre><code class="language-js"> const randHue = Math.floor(Math.random() * Math.floor(360));
+</code></pre>
+  </li>
+  <li>
+    <p>Set the value of your CSS variable to this random hue angle:</p>
+
+    <pre><code class="language-js"> document.documentElement.style.setProperty('--hue', randHue);
+</code></pre>
+
+    <p>Note: <code>document.documentElement</code> is a shortcut to using <code>document.querySelector(':root')</code>.</p>
+  </li>
+  <li>
+    <p>Level Up: Try using this same hue angle to rotate an element!</p>
+  </li>
+</ol>
+
+<h2 id="resources">Resources</h2>
+<ul>
+  <li>Documentation
+    <ul>
+      <li>MDN: <a href="https://developer.mozilla.org/en-US/docs/Web/CSS/Using_CSS_custom_properties">Using CSS custom properties (variables)</a>
+        <ul>
+          <li><a href="https://developer.mozilla.org/en-US/docs/Web/CSS/Using_CSS_custom_properties#Values_in_JavaScript">CSS Variables and Javascript</a></li>
+        </ul>
+      </li>
+    </ul>
+  </li>
+  <li><a href="https://acidtone.github.io/css-variables/">Tony’s experiements and projects</a></li>
+  <li><a href="https://youtu.be/kZOJCVvyF-4">Secrets of CSS Variables</a> by Lea Verou
+    <ul>
+      <li><a href="https://youtu.be/kZOJCVvyF-4?t=60">Takeaway #1: CSS variables work like normal CSS properties</a></li>
+      <li><a href="https://youtu.be/kZOJCVvyF-4?t=351">Takeaway #2: CSS variables are inherited properties (but you can change that)</a></li>
+      <li><a href="https://youtu.be/kZOJCVvyF-4?t=437">Takeaway #3: CSS variables + url() = poop</a></li>
+      <li><a href="https://youtu.be/kZOJCVvyF-4?t=685">Takeaway #4: Invalid at computed-value time = initial</a></li>
+      <li><a href="https://youtu.be/kZOJCVvyF-4?t=923">Takeaway #5: Cycles make variables invalid at computed-value time</a></li>
+      <li><a href="https://youtu.be/kZOJCVvyF-4?t=1035">Takeaway #6: Use variables for pure data, not CSS values</a></li>
+      <li><a href="https://youtu.be/kZOJCVvyF-4?t=1532">Takeaway #7: CSS variables + animations = poop</a></li>
+      <li><a href="https://youtu.be/kZOJCVvyF-4?t=1855">Takeaway #8: CSS variables enable theming independent of CSS structure</a></li>
+      <li><a href="https://youtu.be/kZOJCVvyF-4?t=2079">Takeaway #9: Default default values are possible</a></li>
+      <li><a href="https://youtu.be/kZOJCVvyF-4?t=2200">Takeaway #10: CSS variables make responsive design easier</a></li>
+      <li><a href="https://youtu.be/kZOJCVvyF-4?t=2259">Takeaway #11: CSS variables enable you to set multiple properties at once</a></li>
+      <li><a href="https://youtu.be/kZOJCVvyF-4?t=2366">Takeaway #12: CSS variables let you create single property mixins (like function carrying, in programmerese)</a></li>
+      <li><a href="https://youtu.be/kZOJCVvyF-4?t=2539">Takeaway #13: CSS variables enable you to define your own longhand properties</a></li>
+      <li><a href="https://youtu.be/kZOJCVvyF-4?t=2607">Takeaway #14: CSS variables + SVG = love</a></li>
+      <li><a href="https://youtu.be/kZOJCVvyF-4?t=2690">Takeaway #15: CSS variables are a revolution for separation of style and behaviour</a></li>
+    </ul>
+  </li>
+  <li>Advanced CSS with Kevin Powell
+    <ul>
+      <li><a href="https://youtu.be/PHO6TBq_auI">An Introduction to CSS Variables</a></li>
+      <li><a href="https://youtu.be/V9yP0QG0NWI">Using CSS Variables in the real world and a cool trick</a></li>
+      <li><a href="https://youtu.be/19e7_3UmQrI">CSS vs Sass - variables inside media queries</a></li>
+      <li><a href="https://youtu.be/kCmL-O2T7DY">CSS Variables and Browser Fallbacks</a></li>
+      <li><a href="https://youtu.be/wI80oS3KLxY">Sass to the rescue for fallbacks</a></li>
+      <li><a href="https://youtu.be/cZ0yt67A7OM">Manipulating CSS Variables with JavaScript</a></li>
+    </ul>
+  </li>
+</ul>
+:ET

@@ -1,0 +1,273 @@
+I"TN<p>The primary goal of creating visual hierarchies is to make content more scannable.</p>
+
+<blockquote>
+  <p>An important way to make pages easy to grasp in a hurry is to make sure that the appearance of the things on the page - all of the visual cues - accurately portray the relationships between the things on the page.</p>
+
+  <p>Pages with clear visual hierarchy have three traits:</p>
+  <ol>
+    <li>The more <strong>important</strong> something is, the more <strong>prominent</strong> it is.</li>
+    <li>Things that are related <strong>logically</strong> are related <strong>visually</strong>.</li>
+    <li>Things are "<strong>nested</strong>" visually to show what's <strong>part of</strong> what.</li>
+  </ol>
+  <address>
+    <p>Source: Steve Krug, Don’t Make Me Think; p.33&lt;/address&gt;
+&lt;/blockquote&gt;</p>
+
+    <h2 id="principles-of-visual-hierarchy">11 Principles of Visual Hierarchy</h2>
+    <p>You can find many videos online about “Top X” principles of visual hierarchy. The number ranges from 5 to 15 or more, so these are not hard and fast rules.</p>
+
+    <p>The following examples were taken from <a href="https://youtu.be/ZXItTIjC0Wk">11 Visual Hierarchy Principles</a> by <a href="https://www.youtube.com/channel/UC2isRzoZisjBS6PaGWTDV0Q">Visme</a>:</p>
+
+    <h2 id="size-and-scale">1. Size and Scale</h2>
+    <p>Size can drive emotion and signify importance. The greater the scale, the greater the emphasis.</p>
+
+    <h3 id="meh">Meh</h3>
+    <figure>
+      <p><img src="images/md/1-size-scale-bad.png" alt="Some text that is all equal size" /></p>
+      <figcaption>
+        <p>Figure 1: The text is the same size so there is no focal point and no way to tell what’s most important.&lt;/figcaption&gt;
+&lt;/figure&gt;</p>
+
+        <h3 id="better">Better</h3>
+        <figure>
+          <p><img src="images/md/1-size-scale-better.png" alt="Some text that is NOT all equal size" /></p>
+          <figcaption>
+            <p>Figure 2: “Hierarchy” is the largest word in this design and, therefore, dictates the focus of the design.&lt;/figcaption&gt;
+&lt;/figure&gt;</p>
+
+            <h2 id="perspective">2. Perspective</h2>
+            <p>Perspective creates the illusion of depth, which can lead to a perceived difference in importance.</p>
+
+            <h3 id="meh-1">Meh</h3>
+            <figure>
+              <p><img src="images/md/2-perspective-bad.png" alt="A very flat image" /></p>
+              <figcaption>
+                <p>Figure 3: With no depth of field or contrast, the text in this image is very difficult to read.&lt;/figcaption&gt;
+&lt;/figure&gt;</p>
+
+                <h3 id="better-1">Better</h3>
+                <figure>
+                  <p><img src="images/md/2-perspective-better.png" alt="Image with a blurred background" /></p>
+                  <figcaption>
+                    <p>Figure 4: This new design by the same company employs the <a href="https://en.wikipedia.org/wiki/Bokeh">Bokeh Effect</a> to convey depth of field, making the text easier to read.&lt;/figcaption&gt;
+&lt;/figure&gt;</p>
+
+                    <h3 id="the-effect-of-contrast">The effect of contrast</h3>
+                    <figure>
+                      <p><img src="images/md/2-perspective-contrast.png" alt="Image with a blurred background" /></p>
+                      <figcaption>
+                        <p>Figure 5: Colours can also create depth. Bright colours look closer on a dark background while the opposite is true with a light background.&lt;/figcaption&gt;
+&lt;/figure&gt;</p>
+
+                        <h2 id="colour-and-contrast">3. Colour and Contrast</h2>
+                        <p>Similar to size and scale, colour and contrast can also draw attention by providing a focal point for the user.</p>
+
+                        <h2 id="meh-2">Meh</h2>
+                        <figure>
+                          <p><img src="images/md/3-colour-contrast-bad.png" alt="Image with a blurred background" /></p>
+                          <figcaption>
+                            <p>Figure 6: The contrast between the figures in this population statistic are barely noticeable. None of the figures look any more important than the others.&lt;/figcaption&gt;
+&lt;/figure&gt;</p>
+
+                            <h3 id="better-2">Better</h3>
+                            <figure>
+                              <p><img src="images/md/3-colour-contrast-better.png" alt="Figure 6" /></p>
+                              <figcaption>
+                                <p>Figure 6: The contrast between the figures in this population statistic are barely noticeable. None of the figures look any more important than the others.&lt;/figcaption&gt;
+&lt;/figure&gt;</p>
+
+                                <h2 id="better-3">Better</h2>
+                                <figure>
+                                  <p><img src="images/md/3-colour-contrast-better.png" alt="figure 7" /></p>
+                                  <figcaption>
+                                    <p>Figure 7: Increasing the contrast between the same figures makes it obvious to the user what they should be paying attention to.&lt;/figcaption&gt;
+&lt;/figure&gt;</p>
+
+                                    <h2 id="typography">4. Typography</h2>
+                                    <p>Choosing contrasting fonts (with contrasting size and colour) conveys importance to the user.</p>
+
+                                    <h2 id="meh-3">Meh</h2>
+                                    <figure>
+                                      <p><img src="images/md/4-typography-bad.png" alt="figure 8" /></p>
+                                      <figcaption>
+                                        <p>Figure 8: This resume gives no hint to the reader about what is most important to know.&lt;/figcaption&gt;
+&lt;/figure&gt;</p>
+
+                                        <h3 id="better-4">Better</h3>
+                                        <figure>
+                                          <p><img src="images/md/4-typography-better.png" alt="figure 9" /></p>
+                                          <figcaption>
+                                            <p>Figure 9: This resume uses contrasting typography, font size and colour to clearly identify where to find the information the reader (i.e. potential employer) is looking for.&lt;/figcaption&gt;
+&lt;/figure&gt;</p>
+
+                                            <h2 id="proximity">5. Proximity</h2>
+                                            <p>Items that are closer together in proximity also seem more alike.</p>
+
+                                            <h2 id="meh-4">Meh</h2>
+                                            <figure>
+                                              <p><img src="images/md/5-proximity-bad.png" alt="figure 10" /></p>
+                                              <figcaption>
+                                                <p>Figure 10: There is no indication, based on proximity, which of these 4 image components are related.&lt;/figcaption&gt;
+&lt;/figure&gt;</p>
+
+                                                <h3 id="better-5">Better</h3>
+                                                <figure>
+                                                  <p><img src="images/md/5-proximity-better.png" alt="figure 11" /></p>
+                                                  <figcaption>
+                                                    <p>Figure 11: Proximity tells the reader that the heading is related to the body text and that the image comes with a caption.&lt;/figcaption&gt;
+&lt;/figure&gt;</p>
+
+                                                    <h2 id="negative-space">6. Negative Space</h2>
+                                                    <p>Negative space (closely related to proximity) will naturally draw the eye by <em>removing</em> information.</p>
+
+                                                    <h2 id="meh-5">Meh</h2>
+                                                    <figure>
+                                                      <p><img src="images/md/6-negative-space-bad.png" alt="figure 12" /></p>
+                                                      <figcaption>
+                                                        <p>Figure 12: This image has little to no negative space and, therefore, the text is difficult to read and understand.&lt;/figcaption&gt;
+&lt;/figure&gt;</p>
+
+                                                        <h3 id="better-6">Better</h3>
+                                                        <figure>
+                                                          <p><img src="images/md/6-negative-space-better.png" alt="figure 13" /></p>
+                                                          <figcaption>
+                                                            <p>Figure 13: This new design is made much more meaningful with concise text and a lot of negative space.&lt;/figcaption&gt;
+&lt;/figure&gt;</p>
+
+                                                            <h2 id="alignment">7. Alignment</h2>
+                                                            <p>Users who write in a left-right direction like to read in an <em>F pattern</em></p>
+
+                                                            <p>TODO: Definition Slide</p>
+
+                                                            <h2 id="meh-6">Meh</h2>
+                                                            <figure>
+                                                              <p><img src="images/md/7-alignment-bad.png" alt="figure 14" /></p>
+                                                              <figcaption>
+                                                                <p>Figure 14: Mixing text alignment often violates the F pattern.&lt;/figcaption&gt;
+&lt;/figure&gt;</p>
+
+                                                                <h3 id="better-7">Better</h3>
+                                                                <figure>
+                                                                  <p><img src="images/md/7-alignment-better.png" alt="figure 15" /></p>
+                                                                  <figcaption>
+                                                                    <p>Figure 15: Left aligned text flows naturally into an F pattern.&lt;/figcaption&gt;
+&lt;/figure&gt;</p>
+
+                                                                    <h2 id="rule-of-odds">8. Rule of Odds</h2>
+                                                                    <p>Images are more appealing when an odd number of them are applied.</p>
+
+                                                                    <h2 id="meh-7">Meh</h2>
+                                                                    <figure>
+                                                                      <p><img src="images/md/8-rule-of-odds-bad.png" alt="figure 16" /></p>
+                                                                      <figcaption>
+                                                                        <p>Figure 16: Two items often appear imbalanced and boring.&lt;/figcaption&gt;
+&lt;/figure&gt;</p>
+
+                                                                        <h3 id="better-8">Better</h3>
+                                                                        <figure>
+                                                                          <p><img src="images/md/8-rule-of-odds-better.png" alt="figure 17" /></p>
+                                                                          <figcaption>
+                                                                            <p>Figure 17: Three items is much more appealing because reasons.&lt;/figcaption&gt;
+&lt;/figure&gt;</p>
+
+                                                                            <h2 id="repetition">9. Repetition</h2>
+                                                                            <p>Repetition creates a feeling of unity and cohesiveness by creating patterns for the user to recognize (consciously or not).</p>
+
+                                                                            <h2 id="meh-8">Meh</h2>
+                                                                            <figure>
+                                                                              <p><img src="images/md/9-repetition-bad.png" alt="figure 18" /></p>
+                                                                              <figcaption>
+                                                                                <p>Figure 18: There are no patterns to be had in these presentation slides.&lt;/figcaption&gt;
+&lt;/figure&gt;</p>
+
+                                                                                <h3 id="better-9">Better</h3>
+                                                                                <figure>
+                                                                                  <p><img src="images/md/9-repetition-better.png" alt="figure 19" /></p>
+                                                                                  <figcaption>
+                                                                                    <p>Figure 19: “Unity and cohesiveness” often come from consistent typography, imagery, colour schemes and layout.&lt;/figcaption&gt;
+&lt;/figure&gt;</p>
+
+                                                                                    <h2 id="leading-lines">10. Leading Lines</h2>
+                                                                                    <p>Leading lines grab the user’s attention by creating a sense of movement.</p>
+
+                                                                                    <h2 id="meh-9">Meh</h2>
+                                                                                    <figure>
+                                                                                      <p><img src="images/md/10-leading-lines-bad.png" alt="figure 20" /></p>
+                                                                                      <figcaption>
+                                                                                        <p>Figure 20: This is just bad layout. It’s not hard to imagine how to fix it.&lt;/figcaption&gt;
+&lt;/figure&gt;</p>
+
+                                                                                        <h3 id="better-10">Better</h3>
+                                                                                        <figure>
+                                                                                          <p><img src="images/md/10-leading-lines-better.png" alt="figure 21" /></p>
+                                                                                          <figcaption>
+                                                                                            <p>Figure 21: The human gaze is a powerful way to create leading lines. &lt;/figcaption&gt;
+&lt;/figure&gt;</p>
+
+                                                                                            <h2 id="the-rule-of-thirds">11. The Rule of Thirds</h2>
+                                                                                            <p>Divide your design into a 3x3 grid with each intersection being a potential focal point for the user.</p>
+
+                                                                                            <h2 id="meh-10">Meh</h2>
+                                                                                            <figure>
+                                                                                              <p><img src="images/md/11-rule-of-thirds-bad.png" alt="figure 22" /></p>
+                                                                                              <figcaption>
+                                                                                                <p>Figure 22: The model is centered horizontally and the text is centered vertically. There are no thirds.&lt;/figcaption&gt;
+&lt;/figure&gt;</p>
+
+                                                                                                <h3 id="better-11">Better</h3>
+                                                                                                <figure>
+                                                                                                  <p><img src="images/md/11-rule-of-thirds-better.png" alt="figure 23" /></p>
+                                                                                                  <figcaption>
+                                                                                                    <p>Figure 23: The model and text are more balanced. Notice that the intersections don’t have to be perfect. This “rule” (like everything in this list) is more of a guideline.&lt;/figcaption&gt;
+&lt;/figure&gt;</p>
+                                                                                                  </figcaption>
+                                                                                                </figure>
+                                                                                              </figcaption>
+                                                                                            </figure>
+                                                                                          </figcaption>
+                                                                                        </figure>
+                                                                                      </figcaption>
+                                                                                    </figure>
+                                                                                  </figcaption>
+                                                                                </figure>
+                                                                              </figcaption>
+                                                                            </figure>
+                                                                          </figcaption>
+                                                                        </figure>
+                                                                      </figcaption>
+                                                                    </figure>
+                                                                  </figcaption>
+                                                                </figure>
+                                                              </figcaption>
+                                                            </figure>
+                                                          </figcaption>
+                                                        </figure>
+                                                      </figcaption>
+                                                    </figure>
+                                                  </figcaption>
+                                                </figure>
+                                              </figcaption>
+                                            </figure>
+                                          </figcaption>
+                                        </figure>
+                                      </figcaption>
+                                    </figure>
+                                  </figcaption>
+                                </figure>
+                              </figcaption>
+                            </figure>
+                          </figcaption>
+                        </figure>
+                      </figcaption>
+                    </figure>
+                  </figcaption>
+                </figure>
+              </figcaption>
+            </figure>
+          </figcaption>
+        </figure>
+      </figcaption>
+    </figure>
+  </address>
+</blockquote>
+:ET

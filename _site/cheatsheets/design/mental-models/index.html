@@ -1,0 +1,156 @@
+<!DOCTYPE html>
+<html lang="en-US">
+  <head>
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <meta charset="utf-8">
+    <title>Mental Models - Web Dev Fast Track - Winter 2021</title>
+    <link rel="stylesheet" href="/assets/css/main.css">
+
+    <!-- Normalize -->
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/normalize/8.0.1/normalize.min.css">
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/normalize/8.0.1/normalize.min.css.map">
+
+    <!-- Code Highlghter -->
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/highlight.js/10.5.0/styles/monokai-sublime.min.css">
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/highlight.js/10.5.0/highlight.min.js"></script>
+    <script>hljs.initHighlightingOnLoad();</script>
+  </head>
+  <body>
+    <div class="wrapper">
+      <header>
+        <img class="sait-logo" src=/assets/images/sait-logo.png alt="SAIT Logo">
+        <div>
+          <h1>SAIT WBDV</h1>
+          <h2 class="tagline">Web Developer Fast Track - Winter 2021</h2>
+        </div>
+      </header>
+      <p>Source: <a href="https://youtu.be/9gM8K4ooavY">UX Design Basics: Mental Models</a> by <a href="https://www.youtube.com/channel/UCAoua8S8h1e4OkaafTEklMQ">Jamal Nichols</a></p>
+
+<h2 id="definitions">Definitions</h2>
+<dl>
+  <dt>Mental Model</dt>
+  <dd>
+    <p>A mental model is how you think something will work, based on your knowledge and experience.&lt;/dd&gt;</p>
+    <dt>System Model</dt>
+    <dd>
+      <p>How something works.&lt;/dd&gt;</p>
+      <dt>Interaction Model</dt>
+      <dd>
+        <p>How to use something.&lt;/dd&gt;
+&lt;/dl&gt;</p>
+
+        <blockquote>
+          <p>If the way something works lines up with your expectations, you’ll understand how to use it. And if it doesn’t, you will struggle.</p>
+        </blockquote>
+
+        <h2 id="the-rocket-switch-gearshift">The <em>Rocket Switch Gearshift</em></h2>
+
+        <figure>
+          <p><img src="images/md/1-rocket-switch.png" alt="Rocket Switch Gearshift" /></p>
+          <figcaption>
+            <p>Figure 1: The Rocket Switch Gearshift is an example of a good System Model but bad Interaction Model.&lt;/figcaption&gt;
+&lt;/figure&gt;</p>
+
+            <p>In early 2006. Fiat Chrysler Automobiles recalled over one million vehicles due to a new shifter design known as the “Rocket Switch Gearshift”.</p>
+
+            <p>It ratcheted through <em>park</em>, <em>reverse</em>, <em>neutral</em> and <em>drive</em> but <strong>it would return to the centre position</strong> (i.e. what most people would assume is <em>park</em>). Driver confusion led to <a href="https://www.freep.com/story/money/cars/chrysler/2016/06/28/fiat-chrysler-gearshift-probe-anton-yelchin/86460430/">266 crashes and 68 injuries</a>, including the death of actor Anton Yelchin.</p>
+
+            <p>It was a failure in interface design. But how did this happen?</p>
+
+            <h2 id="system-model-vs-interaction-model">System Model vs interaction Model</h2>
+
+            <figure>
+              <p><img src="images/md/2-system-action.png" alt="System vs Interaction Models" /></p>
+              <figcaption>
+                <p>Figure 2: The <strong>system model</strong> is how something <em>works</em> while the <strong>interaction model</strong> is how <em>we interact</em> with that something.&lt;/figcaption&gt;
+&lt;/figure&gt;</p>
+
+                <p>Engineers (the people who build products) usually have strong system models but they often have weak interaction models.</p>
+
+                <p>An automotive engineer will know how a car’s engine and drive train work but they won’t necessarily understand how an average person drives their car.</p>
+
+                <p>Conversely, the average driver prefers to be comfortable over knowledgeable.</p>
+
+                <h2 id="the-role-of-the-designer">The Role of the designer</h2>
+                <p>Designers fill the gap between the builders and the users. A great designer has strong <strong>system models</strong> <em>and</em> strong <strong>interaction models</strong>.</p>
+
+                <blockquote>
+                  <p>It’s a good idea for designers to learn how to code… You should, at least, have coded one project from start to finish… After that, you’ll understand systems much better and it’ll make you a better designer.</p>
+                </blockquote>
+
+                <h2 id="key-principle-if-youre-creating-something-unfamiliar-base-it-in-the-familiar">Key Principle: If you’re creating something unfamiliar, base it in the familiar</h2>
+                <h3 id="examples">Examples</h3>
+                <figure>
+                  <p><img src="images/md/4-familiar-notepad.png" alt="Apple Notes app" /></p>
+                  <figcaption>
+                    <p>Figure 3: Apple Notes app interface mimics a physical note pad.&lt;/figcaption&gt;
+&lt;/figure&gt;</p>
+
+                    <figure>
+                      <p><img src="images/md/5-familiar-address-book.png" alt="Apple Address Book app" /></p>
+                      <figcaption>
+                        <p>Figure 4: Apple Address Book app interface mimics a physical address book.&lt;/figcaption&gt;
+&lt;/figure&gt;</p>
+
+                        <figure>
+                          <p><img src="images/md/6-familiar-desktop.png" alt="Original Mac desktop" /></p>
+                          <figcaption>
+                            <p>Figure 5: The original Mac Desktop mimics a physical office space.&lt;/figcaption&gt;
+&lt;/figure&gt;</p>
+
+                            <figure>
+                              <p><img src="images/md/7-familiar-carriage.png" alt="One of the first cars" /></p>
+                              <figcaption>
+                                <p>Figure 6: The very first cars looked like horseless carriages.&lt;/figcaption&gt;
+&lt;/figure&gt;</p>
+
+                                <h2 id="fact-mental-models-can-evolve-over-time">Fact: Mental models can evolve over time</h2>
+                                <p>As a designer, you may get to a point where you can take full advantage of a digital interface. But, first users need to build up that knowledge.</p>
+
+                                <figure>
+                                  <p><img src="images/md/8-evolve-address-book.png" alt="Flat design of current Address Book app" /></p>
+                                  <figcaption>
+                                    <p>Figure 7: Eventually Apple was able to adopt a flat interface for its Address Book.&lt;/figcaption&gt;
+&lt;/figure&gt;</p>
+
+                                    <h2 id="evolving-the-gear-shifter">Evolving the gear shifter</h2>
+
+                                    <figure>
+                                      <p><img src="images/md/9-evolve-gearshifter.png" alt="Rotary gear shift dial" /></p>
+                                      <figcaption>
+                                        <p>Figure 8: Car makers are now moving to a rotary dial to completely replace the gear shifter entirely.&lt;/figcaption&gt;
+&lt;/figure&gt;</p>
+
+                                        <p>While this interface <a href="https://www.autoweek.com/news/a1860056/another-fca-gear-shifter-investigated-rollaway-risk-following-crashes/">still has its problems</a>, it has faired better than the Rocket Swift Gearshift. Why is that?</p>
+
+                                        <h2 id="key-takeaway">Key Takeaway</h2>
+                                        <p>If the mental model closely matches the actual behavior of the device or interface, then people can:</p>
+                                        <ol>
+                                          <li>make accurate predictions;</li>
+                                          <li>make correct decisions;</li>
+                                          <li>choose appropriate actions.</li>
+                                        </ol>
+                                      </figcaption>
+                                    </figure>
+                                  </figcaption>
+                                </figure>
+                              </figcaption>
+                            </figure>
+                          </figcaption>
+                        </figure>
+                      </figcaption>
+                    </figure>
+                  </figcaption>
+                </figure>
+              </figcaption>
+            </figure>
+          </figcaption>
+        </figure>
+      </dd>
+    </dd>
+  </dd>
+</dl>
+
+    </div>
+  </body>
+</html>

@@ -1,0 +1,35 @@
+---
+layout: default
+---
+
+<nav class="post">
+  <ul>
+{% if page.previous.url %}
+<li><a href="{{page.previous.url}}">Yesterday</a></li>
+{% else %}
+<li>Yesterday</li>
+{% endif %}
+{% if page.next.url %}
+<li><a href="{{page.next.url}}">Tomorrow</a></li>
+{% else %}
+<li>Tomorrow</li>
+{% endif %}
+  </ul>
+</nav>
+
+{{content}}
+
+<nav class="post">
+  <ul>
+{% if page.previous.url %}
+<li><a href="{{page.previous.url}}">Yesterday</a></li>
+{% else %}
+<li>Yesterday</li>
+{% endif %}
+{% if page.next.url %}
+<li><a href="{{page.next.url}}">Tomorrow</a></li>
+{% else %}
+<li>Tomorrow</li>
+{% endif %}
+  </ul>
+</nav>

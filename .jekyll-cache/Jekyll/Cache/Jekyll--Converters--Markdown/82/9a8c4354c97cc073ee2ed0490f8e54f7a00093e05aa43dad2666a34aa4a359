@@ -1,0 +1,48 @@
+I"\<h2 id="prerequisites">Prerequisites</h2>
+<ul>
+  <li>Git installed</li>
+  <li>VS Code installed</li>
+  <li>Github Account created</li>
+  <li>Remote GitHub repo linked to a local Git repo</li>
+  <li><a href="/cheatsheets/command-line">Command Line Cheatsheet</a></li>
+  <li><a href="/cheatsheets/naming-conventions">File Naming Conventions Cheatsheet</a></li>
+  <li><a href="/cheatsheets/git-gh">Git Cheatsheet</a></li>
+</ul>
+
+<h2 id="dev-life">Dev Life</h2>
+<p>In the course of an average professional project, a developer should be regularly:</p>
+<ul>
+  <li>pushing committed code to a remote repository (preferably daily), and</li>
+  <li>pulling new code recently contributed by team members (which you need to do before Git will allow you to push).</li>
+</ul>
+
+<h3 id="pulling-recent-commits-from-a-remote-repo">“Pulling” recent commits from a remote repo</h3>
+<p>In team projects (or if you work on multiple machines), you will need to <code>pull</code> recent updates from the remote repo before Git will allow you to push.</p>
+
+<pre><code>$ git pull
+</code></pre>
+
+<p>You will then be free to push contributions from your local repo.</p>
+
+<h3 id="committing-changes-to-a-remote-repo">“Committing” changes to a remote repo</h3>
+<p>An example routine most developers will follow in a given work-day:</p>
+<ol>
+  <li>Navigate to the project directory using a unix shell terminal.</li>
+  <li>Type <code>git status</code> to see an overview of the state of your repo.
+    <ul>
+      <li>If you haven’t made any changes since your last commit, you should see the message “<em>nothing to commit, working tree clean</em>”;</li>
+      <li>If no repo exists, you should see the message “fatal: not a git repository”. See: <a href="/cheatsheets/git-gh/creating-repos/">Creating local Git Repositories</a>;</li>
+      <li>Otherwise, you should see a list of staged/unstaged/untracked changes.</li>
+    </ul>
+  </li>
+  <li><code>git add &lt;relative file path&gt;</code> to stage your files to commit.</li>
+  <li><code>git status</code> to double-check your staged changes before you commit (probably listed in green).</li>
+  <li><code>git commit -m "concise description of your changes"</code> to commit your changes. If you forget to add the <code>-m "&lt;message&gt;"</code>, Git will probably open your default command line file editor (probably Vim) so you can add your change manually (not fun for beginners).</li>
+  <li><code>git status</code> again to confirm that you have a clean “working tree”.</li>
+  <li>Make some changes to your code and start again at Step 2. You should be committing your changes to your local repo at least at the end of a work day/session.</li>
+  <li>When you are ready, you can push your changes from your local repo to a remote repo using (assuming these repos are already linked) with the following command:</li>
+</ol>
+
+<pre><code>$ git push
+</code></pre>
+:ET

@@ -1,0 +1,393 @@
+I"n><p><img src="assets/search-console.png" alt="Screen cap: search console" /></p>
+<h2 id="relevant-resources">Relevant Resources</h2>
+<ul>
+  <li>Article: <a href="https://backlinko.com/google-search-console">Google Search Console: Definitive Guide</a></li>
+</ul>
+
+<h2 id="add-and-verify-your-site">Add And Verify Your Site</h2>
+<ol>
+  <li>Go to https://search.google.com/search-console/welcome</li>
+  <li>Follow the steps to add your site
+<img src="assets/verify-ownership.png" alt="Screen cap: verify ownership" /></li>
+</ol>
+
+<h2 id="create-a-site-map">Create A Site Map</h2>
+<h3 id="step-1-know-what-youre-looking-for">Step 1: Know What You’re Looking For</h3>
+<p><strong>Which pages should Google know about?</strong></p>
+
+<p>Home, About, Services - pages you want visitors to find in search pages</p>
+
+<p><strong>Which pages should Google not know about?</strong></p>
+
+<p>Login pages, Thank you pages, Author archives on a one-author blog, Admin pages, Internal search results, privacy policy, terms and conditions</p>
+
+<h2 id="step-2-collect-your-pages">Step 2: Collect Your Pages</h2>
+<p>Use a crawler like Screaming Frog to give you a list of URLs.</p>
+
+<p><strong>OR</strong></p>
+
+<p>Follow each of the site’s main navigation options down to their deepest level (human crawl).</p>
+
+<h2 id="step-3-group-your-pages">Step 3: Group Your Pages</h2>
+<ul>
+  <li>Home</li>
+  <li>About</li>
+  <li>Contact</li>
+  <li>Services
+    <ul>
+      <li>Design in a Day</li>
+      <li>SEO</li>
+      <li>Strategy Calls</li>
+    </ul>
+  </li>
+  <li>Blog
+    <ul>
+      <li>How Big of a Website Do You Really Need?</li>
+      <li>Four Considerations If You’re Planning a Website Redesign</li>
+      <li>What Are the Best Alternatives to WordPress?</li>
+    </ul>
+  </li>
+</ul>
+
+<h2 id="step-4-code-your-urls">Step 4: Code Your Urls</h2>
+<p>Open your text editor.</p>
+<pre><code>&lt;?xml version="1.0" encoding="UTF-8"?&gt;
+  &lt;urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"&gt;    
+    &lt;url&gt;
+      &lt;loc&gt;https://example.com/&lt;/loc&gt; 
+    &lt;/url&gt;
+    &lt;url&gt; 
+      &lt;loc&gt;https://example.com/about/&lt;/loc&gt;
+    &lt;/url&gt; 
+    &lt;url&gt;
+      &lt;loc&gt;https://example.com/contact/&lt;/loc&gt; 
+    &lt;/url&gt;
+    &lt;url&gt;
+      &lt;loc&gt;https://example.com/services/&lt;/loc&gt;
+    &lt;/url&gt; 
+    &lt;url&gt;
+      &lt;loc&gt;https://example.com/design-in-a-day/&lt;/loc&gt; 
+    &lt;/url&gt;
+    &lt;url&gt; 
+      &lt;loc&gt;https://example.com/seo/&lt;/loc&gt;
+    &lt;/url&gt;
+  &lt;/urlset&gt;
+</code></pre>
+<p>For more info: https://www.sitemaps.org/protocol.html</p>
+
+<h2 id="step-5-validate-your-sitemap">Step 5: Validate Your Sitemap</h2>
+<ul>
+  <li>Save your file as sitemap.xml</li>
+  <li>Validate at https://webmaster.yandex.com/tools/sitemap/?tab=file</li>
+</ul>
+
+<h2 id="step-6-add-your-sitemap-to-the-root">Step 6: Add Your Sitemap To The Root</h2>
+<p>Move your sitemap.xml file to the root folder of your website.</p>
+
+<h2 id="step-7-submit-your-sitemap">Step 7: Submit Your Sitemap</h2>
+<ol>
+  <li>Sign into your Google Search Console account.</li>
+  <li>Click Sitemaps.</li>
+  <li>Add your sitemap (yoursite.com/sitemap.xml)
+<img src="assets/sitemaps.png" alt="Screen cap: Sitemap" /></li>
+</ol>
+
+<h1 id="schemaorg---how-to-structure-your-data-for-google">Schema.org - How to structure your data for Google</h1>
+<h2 id="relevant-resources-1">Relevant Resources</h2>
+<ul>
+  <li><a href="https://schema.org/">Schema.org</a></li>
+</ul>
+
+<h2 id="how-to-use-schemaorg">How to Use Schema.org</h2>
+<p>Source: <a href="https://youtu.be/xQeRA-Ojq5c">How to use Schema.org to Create and Add Structured Data to Your Website</a></p>
+
+<ol>
+  <li><a href="https://youtu.be/xQeRA-Ojq5c?t=186">Determine your Schema type</a>
+    <ul>
+      <li>Schema.org: <a href="https://schema.org/docs/gs.html">Getting Started</a></li>
+    </ul>
+  </li>
+  <li><a href="https://youtu.be/xQeRA-Ojq5c?t=365">Map the elements</a>
+    <ul>
+      <li>Examples: <a href="https://schema.org/LocalBusiness">Local Business</a></li>
+      <li><a href="https://developers.google.com/search/docs/guides/sd-policies">Google’s Structured Data Guidelines</a></li>
+    </ul>
+  </li>
+  <li><a href="https://youtu.be/xQeRA-Ojq5c?t=541">Choose your approach (JSON-LD)</a>
+    <ul>
+      <li><a href="https://jsonld.com/">JSON-LD Snippets, Samples and Generator</a>
+        <ul>
+          <li>Example: <a href="https://jsonld.com/video/">Video content</a></li>
+        </ul>
+      </li>
+    </ul>
+  </li>
+  <li><a href="https://youtu.be/xQeRA-Ojq5c?t=660">Add to site</a>
+    <ul>
+      <li><a href="https://tagmanager.google.com/">Google Tag Manager</a></li>
+    </ul>
+  </li>
+  <li><a href="https://youtu.be/xQeRA-Ojq5c?t=832">Test</a>
+    <ul>
+      <li><a href="https://search.google.com/structured-data/testing-tool/u/0/">Google’s Structured Data Testing Tool</a></li>
+    </ul>
+  </li>
+  <li><a href="https://youtu.be/xQeRA-Ojq5c?t=910">Monitor</a>
+    <ul>
+      <li><a href="https://search.google.com/search-console/">Google Search Console</a></li>
+    </ul>
+  </li>
+</ol>
+
+<h2 id="validate-your-markup">Validate Your Markup</h2>
+<h3 id="markup-validator-tools">Markup Validator Tools</h3>
+<ul>
+  <li>HTML Validator - https://validator.w3.org/</li>
+  <li>CSS Validator - https://jigsaw.w3.org/css-validator/</li>
+</ul>
+
+<h2 id="assess-website-accessibility">Assess Website Accessibility</h2>
+<h3 id="wave-tool">WAVE TOOL</h3>
+<p>Go to https://wave.webaim.org/ to check the accessibility of your
+website.
+<img src="assets/webaim.png" alt="Screen cap: Wen AIM" /></p>
+
+<h2 id="add-a-search-engine">ADD A SEARCH ENGINE</h2>
+<h3 id="how-to-add-a-search-engine">HOW TO ADD A SEARCH ENGINE</h3>
+<ul>
+  <li>Many CMSs have built-in search engines you can use</li>
+  <li>Alternatively, use <a href="https://support.google.com/customsearch/answer/4513751">Google Custom Search</a></li>
+</ul>
+
+<h3 id="step-1-add-your-site">STEP 1: ADD YOUR SITE</h3>
+<p><img src="assets/custom-search.png" alt="Screen cap: Custom Search" /></p>
+
+<h3 id="step-2-determine-look-and-feel">Step 2: Determine Look And Feel</h3>
+<p><img src="assets/custom-search2.png" alt="Screen cap: Custom Search Step 2" /></p>
+
+<h3 id="step-3-get-code">Step 3: Get Code</h3>
+<p>Add this code on your site where you want the search bar to go.
+<img src="assets/custom-search3.png" alt="Screen cap: Custom Search Step 3" /></p>
+
+<h2 id="additional-optimization-tips">Additional Optimization Tips</h2>
+<ol>
+  <li>Ensure that each web page has a unique title and keyword focus.</li>
+  <li>Add alt tags to your images.</li>
+  <li>Test all links, multimedia, email, and forms.</li>
+  <li>Test your website on multiple browsers. Make sure everything functions correctly.</li>
+</ol>
+
+<h2 id="add-google-analytics">Add Google Analytics</h2>
+<h3 id="step-1-sign-up">Step 1: Sign Up</h3>
+<p>Go to https://analytics.google.com
+<img src="assets/google-analytics.png" alt="Screen cap: Google Analytics" /></p>
+
+<h3 id="step-2-create-account">Step 2: Create Account</h3>
+<p><img src="assets/google-analytics2.png" alt="Screen cap: Google Analytics Step 2" /></p>
+
+<h3 id="step-3-get-tracking-id">Step 3: Get Tracking ID</h3>
+<p><img src="assets/google-analytics3.png" alt="Screen cap: Google Analytics Step 3" /></p>
+
+<h3 id="step-4-add-code-to-website">Step 4: Add Code To Website</h3>
+<p>Unlike other JS code, this needs to go into the head section of your website.
+<img src="assets/google-analytics4.png" alt="Screen cap: Google Analytics Step 4" /></p>
+
+<h3 id="using-google-analytics">Using Google Analytics</h3>
+<p>Use Google Analytics to help you figure out where visitors are
+coming from and how they interact with your site.</p>
+<ol>
+  <li>What is your top content?</li>
+  <li>Identify your worst performing pages (so you can fix them).</li>
+  <li>Where do visitors abandon shopping carts?</li>
+  <li>Are mobile users staying on your site long enough?</li>
+  <li>What do visitors click on the most?</li>
+  <li>What online campaigns send more visitors your way?</li>
+</ol>
+
+<h3 id="google-analytics-tips">GOOGLE ANALYTICS TIPS</h3>
+<ul>
+  <li>It takes a while before trends start to show, so get Analytics on your website ASAP.</li>
+  <li><a href="https://analytics.google.com/analytics/academy/">Take the free Analytics courses with Google</a></li>
+</ul>
+
+<h2 id="google-adwords">Google Adwords</h2>
+<h3 id="paid-search-advertising">Paid Search Advertising</h3>
+<ul>
+  <li>There are over 3.5 billion search queries on Google everyday.</li>
+  <li>Paid search is one of the most popular and effective types of online advertising.</li>
+</ul>
+
+<p>Source: http://www.internetlivestats.com/google-search-statistics/</p>
+
+<h3 id="using-paid-search-advertising">Using Paid Search Advertising</h3>
+<ul>
+  <li>Google Adwords lets you display ads on Google search results</li>
+  <li>Businesses set a budget for advertising on the keywords that they choose, and pay when people click on their ad. (Pay Per Click or PPC)</li>
+  <li>Fewer than 20% of visitors click on PPC ads</li>
+  <li>Businesses with large advertising budgets can dominate the top placement of ads</li>
+  <li>It can be very expensive.</li>
+</ul>
+
+<p>SEO &gt; Online Ads when you’re starting out</p>
+
+<h3 id="google-adwords-training">GOOGLE ADWORDS TRAINING</h3>
+<p>If you find that this is an area of web services that you want to
+pursue, Google offers Adword training for free.</p>
+
+<p>https://landing.google.com/academyforads</p>
+
+<h2 id="add-a-newsletter">Add A Newsletter</h2>
+<h3 id="why-you-should-have-a-mailing-list">WHY YOU SHOULD HAVE A MAILING LIST</h3>
+<ul>
+  <li>Keeps you in contact with your customers on a regular basis</li>
+  <li>Builds repeat traffic to your site</li>
+  <li>Potential source of revenue, allowing you to market directly to your target audience</li>
+  <li>Builds a client list of potential customers for future sales and promotions</li>
+</ul>
+
+<h3 id="get-permission">Get Permission</h3>
+<ul>
+  <li>Businesses that build permission-based email lists enjoy high open and click-through rates on their campaigns.</li>
+  <li>You need to get consent before sending commercial email marketing messages.</li>
+  <li>Don’t just send advertisements. Send content of real value to them.</li>
+</ul>
+
+<h3 id="implied-vs-express-permission">Implied Vs Express Permission</h3>
+<p>You have <strong>implied permission</strong> to email someone if you have an
+existing business relationship with them.</p>
+<ul>
+  <li>current customer</li>
+  <li>they donate to your charity</li>
+  <li>active member of your organization</li>
+</ul>
+
+<p>You have <strong>express permission</strong> to email someone when they specifically give you permission to send them email campaigns.</p>
+<ul>
+  <li>entering their email address on your subscribe form</li>
+  <li>entering their details into in-store newsletter subscribe form</li>
+</ul>
+
+<h3 id="benefits-of-getting-permission">BENEFITS OF GETTING PERMISSION</h3>
+<ol>
+  <li>You’ll get better open and click-through rates (10x higher)</li>
+  <li>You’ll get a better return on investment from your email
+campaigns</li>
+  <li>You won’t destroy your deliverability rates (don’t get your emails thrown into SPAM jail)</li>
+</ol>
+
+<h2 id="google-maps">GOOGLE MAPS</h2>
+<h3 id="types-of-google-maps">TYPES OF GOOGLE MAPS</h3>
+<ul>
+  <li>Google Maps Embed API</li>
+  <li>Google Static Maps API</li>
+  <li>Google Maps JavaScript API</li>
+</ul>
+
+<h3 id="embedded-maps">Embedded Maps</h3>
+<ul>
+  <li>Creates a map that can be interacted with through an iframe on your website</li>
+  <li>Easily embedded, simple copy and pasting of code</li>
+  <li>If your website visitors are also logged into Google, they’ll see their saved places like “Home” or “Work” integrated into the map.</li>
+  <li>API Key not required</li>
+</ul>
+
+<h3 id="static-maps">Static Maps</h3>
+<ul>
+  <li>Creates a static map (an image) without any JavaScript or iframe required</li>
+  <li>Loaded like any other image</li>
+  <li>Not interactive or tailored to the user</li>
+  <li>Can be customized</li>
+  <li>API key required</li>
+</ul>
+
+<h3 id="javascript-maps">Javascript Maps</h3>
+<ul>
+  <li>Covers a wider range of map usage</li>
+  <li>Helps visualize data</li>
+  <li>Requires knowledge of HTML, CSS, and JavaScript</li>
+  <li>API key is required</li>
+</ul>
+
+<h3 id="static-map-maker">Static Map Maker</h3>
+<p>For a static map, you can use tools like:</p>
+<ul>
+  <li><a href="https://staticmapmaker.com/google/">Google Static Map Maker</a></li>
+  <li><a href="https://mapstyle.withgoogle.com/">Google Maps APIs Styling Wizard</a></li>
+  <li>Import styles from https://snazzymaps.com/
+211</li>
+</ul>
+
+<h2 id="add-a-social-bookmarking-widget">Add A Social Bookmarking Widget</h2>
+<p><img src="assets/social-bookmarking.png" alt="Screen cap: Social bookmarking" />
+Source: https://www.buzzfeed.com/lyapalater/how-is-this-pic-of-chris-evans-taking-a-selfie-with-his-dog</p>
+
+<h3 id="install-add-this">Install Add This</h3>
+<ol>
+  <li>Go to https://www.addthis.com/</li>
+  <li>Sign up for an account</li>
+  <li>Choose and customize social bookmarks</li>
+  <li>Get the code to install</li>
+</ol>
+
+<h2 id="evaluate-your-website">Evaluate Your Website</h2>
+<h3 id="what-does-success-mean">What Does Success Mean?</h3>
+<ul>
+  <li>Increasing the number of visitors</li>
+  <li>More visitors signing up for your newsletter</li>
+  <li>Visitors staying on the site longer</li>
+  <li>Higher website ranking</li>
+  <li>Increase in sales of specific products or services</li>
+  <li>Increase in customer conversion rate</li>
+  <li>Increased number of returning visitors</li>
+  <li>Reduction in the amount of phone support required to support a product</li>
+  <li>Increased brand awareness</li>
+  <li>Improved customer communication and awareness</li>
+  <li>Increase in the number of employees applying for jobs</li>
+</ul>
+
+<h3 id="success">Success</h3>
+<ul>
+  <li>You won’t see success right away. But you can track it over time with analytics.</li>
+  <li>Analytics won’t tell you why someone left your website or why something is failing.</li>
+</ul>
+
+<h2 id="testing-website-usability">Testing Website Usability</h2>
+<h3 id="test-your-site-on-real-people">Test Your Site On Real People</h3>
+<ul>
+  <li>Use analytics to tell you what your problem pages are.</li>
+  <li>Get help from 3-5 people</li>
+  <li>Ask questions</li>
+  <li>Take the feedback and use it find solutions</li>
+</ul>
+
+<h3 id="example-questions-to-ask">Example Questions To Ask</h3>
+<ol>
+  <li>Does the overall look of our home page support our position as a mid- to high-range provider?</li>
+  <li>Is the home page too “busy?”</li>
+  <li>Would a visitor rather search by using the search engine on the top left-hand side or navigate a tour page? Why?</li>
+  <li>Is the navigation from the home page easy to understand?</li>
+  <li>What is the worst thing on the home page?</li>
+  <li>What aspect of the site confused you?</li>
+</ol>
+
+<h3 id="activity-usability-check">Activity: Usability Check</h3>
+<p>Go To https://stayintech.com/UX and use the Usability Checklist to take a look through your website (or website of your choice).</p>
+
+<p>Get a feel for what things you should be looking for.</p>
+
+<h2 id="getting-feedback-from-your-visitors">Getting Feedback From Your Visitors</h2>
+<h3 id="ways-to-get-feedback">Ways To Get Feedback</h3>
+<ul>
+  <li>Give surveys to your visitors and people on your mailing list - Read blog comments</li>
+  <li>Encourage your mailing list to reply back with problems they’re having</li>
+  <li>Keep track of technical support issues and pay attention to patterns</li>
+</ul>
+
+<h3 id="tips-for-creating-surveys">Tips For Creating Surveys</h3>
+<ul>
+  <li>Keep them short.</li>
+  <li>Online form abandonment is at about 40%.</li>
+  <li>Offer a reward or discount for finishing the survey.</li>
+  <li>Keep in mind that not everyone tells the truth, so stick with questions that aren’t too personal if you can.</li>
+</ul>
+:ET

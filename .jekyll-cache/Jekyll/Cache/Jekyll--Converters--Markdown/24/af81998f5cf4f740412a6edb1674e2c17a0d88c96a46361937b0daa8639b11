@@ -1,0 +1,79 @@
+I"
+
+<h2 id="reference">Reference</h2>
+<ul>
+  <li>MDN: <a href="https://developer.mozilla.org/en-US/docs/Learn/CSS/Building_blocks/Values_and_units">Values and Unites</a></li>
+</ul>
+
+<h2 id="best-practices">Best practices</h2>
+<h3 id="classic-units">Classic units</h3>
+<ul>
+  <li><code>px</code>
+    <ul>
+      <li>96 pixels = 1 “inch”
+        <ul>
+          <li>Defined in the core browser settings. It’s rarely 1 inch.</li>
+        </ul>
+      </li>
+      <li>Often only used for:
+        <ul>
+          <li>Setting <code>font-size</code>;</li>
+          <li>Setting image <code>width</code> and <code>height</code>;</li>
+          <li>Setting a <code>1px</code> border.</li>
+        </ul>
+      </li>
+    </ul>
+  </li>
+  <li><code>%</code>
+    <ul>
+      <li>Represents a fraction of some other value. For example, when defined for <code>width</code>, it’s a fraction of the parent element’s width.</li>
+      <li>
+        <p>Most often used for repnsive images:</p>
+
+        <pre><code class="language-css">img {
+  max-width: 100%;
+}
+</code></pre>
+      </li>
+    </ul>
+  </li>
+</ul>
+
+<h3 id="font-based-units">Font-based units</h3>
+<ul>
+  <li><code>em</code>
+    <ul>
+      <li>If setting <code>font-size</code>: <code>1em</code> is equal to the  <code>font-size</code> of the parent element.
+        <ul>
+          <li>Avoid setting <code>font-size</code> in <code>em</code> units. Use <code>px</code> or <code>rem</code> instead.</li>
+        </ul>
+      </li>
+      <li>If setting a length for another property: <code>1em</code> is equal to the <code>font-size</code> of the element itself.</li>
+    </ul>
+  </li>
+  <li><code>rem</code>
+    <ul>
+      <li>Font size of the root element.</li>
+      <li>When in doubt, no one got fired for using <code>rem</code> units.</li>
+    </ul>
+  </li>
+  <li><code>ch</code>
+    <ul>
+      <li>The advance measure (width) of the glyph “0” of the element’s font.</li>
+      <li>Tony loooooves setting setting text boxes in <code>ch</code> units.</li>
+      <li>Warning: the value of <code>ch</code> changes with different <code>font-family</code> declarations. Don’t use <code>ch</code> if you need a consitent width.</li>
+      <li>See: <a href="https://codepen.io/browsertherapy/pen/RwRPrvm">Length comparison: rem vs ch</a></li>
+    </ul>
+  </li>
+</ul>
+
+<h1 id="viewport">Viewport</h1>
+<ul>
+  <li><code>vh</code>, <code>vw</code>, <code>vmin</code>, <code>vmax</code>
+    <ul>
+      <li>Used for global page layout.</li>
+      <li>They lose their effectiveness for local layouts.</li>
+    </ul>
+  </li>
+</ul>
+:ET

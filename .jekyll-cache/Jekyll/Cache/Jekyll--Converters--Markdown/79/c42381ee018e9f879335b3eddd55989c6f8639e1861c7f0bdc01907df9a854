@@ -1,0 +1,38 @@
+I"<h2 id="prerequisites">Prerequisites</h2>
+<ul>
+  <li>Git installed</li>
+</ul>
+
+<p>The following steps generally only need to be completed when you first install Git (e.g. when you buy a new machine), so they’re easy to forget.</p>
+
+<p>See: <a href="https://git-scm.com/book/en/v2/Getting-Started-First-Time-Git-Setup">First-Time Git Setup</a></p>
+
+<h2 id="setting-your-identity">Setting your identity</h2>
+<p>Setting your name (optional, but recommended) and email is required for some Git and GitHub features to operate properly.</p>
+
+<p>See: <a href="https://alvinalexander.com/git/git-show-change-username-email-address/">How to show or change your Git username or email address</a></p>
+
+<ol>
+  <li>
+    <p>Is your identity already set up? The following shell commands will print your settings for name and email address.</p>
+
+    <pre><code class="language-shell"> $ git config user.name
+ $ git config user.email
+</code></pre>
+  </li>
+  <li>
+    <p>To set these values:</p>
+
+    <pre><code class="language-shell"> $ git config --global user.name "Jenn Simmons"
+ $ git config --global user.email johndoe@example.com
+</code></pre>
+  </li>
+  <li>
+    <p>To list your global configuration settings:</p>
+
+    <pre><code class="language-shell"> $ git config --list
+</code></pre>
+  </li>
+</ol>
+
+:ET

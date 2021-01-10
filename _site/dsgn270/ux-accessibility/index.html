@@ -1,0 +1,243 @@
+<!DOCTYPE html>
+<html lang="en-US">
+  <head>
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <meta charset="utf-8">
+    <title>User Experience Design and Accessibility - Web Dev Fast Track - Winter 2021</title>
+    <link rel="stylesheet" href="/assets/css/main.css">
+
+    <!-- Normalize -->
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/normalize/8.0.1/normalize.min.css">
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/normalize/8.0.1/normalize.min.css.map">
+
+    <!-- Code Highlghter -->
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/highlight.js/10.5.0/styles/monokai-sublime.min.css">
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/highlight.js/10.5.0/highlight.min.js"></script>
+    <script>hljs.initHighlightingOnLoad();</script>
+  </head>
+  <body>
+    <div class="wrapper">
+      <header>
+        <img class="sait-logo" src=/assets/images/sait-logo.png alt="SAIT Logo">
+        <div>
+          <h1>SAIT WBDV</h1>
+          <h2 class="tagline">Web Developer Fast Track - Winter 2021</h2>
+        </div>
+      </header>
+      <nav class="post">
+  <ul>
+
+<li><a href="/dsgn270/visual-hierarchy-design/">Yesterday</a></li>
+
+
+<li>Tomorrow</li>
+
+  </ul>
+</nav>
+
+<h2 id="homework">Homework</h2>
+<ol>
+  <li>Watch: <a href="https://www.youtube.com/watch?v=9gM8K4ooavY">UX Design Basics - Mental Models</a> by Jamal Nichols</li>
+  <li>Find an example of product design (a handy tool, piece of equipment, etc) in your immediate(ish) area (home, office, vehicle, etc). You will be discussing your find in a group of 3 or 4 tomorrow.</li>
+  <li>Skim: <a href="http://ui-patterns.com/patterns">UI Design Patterns</a></li>
+  <li>Skim: Chapters 1, 2 and 3 of <em>Don’t Make Me Think</em> by Steve Krug (course textbook)</li>
+  <li>Read: <a href="https://developer.mozilla.org/en-US/docs/Learn/Accessibility/What_is_accessibility">What is accessibility?</a></li>
+  <li>Watch: Video: <a href="https://youtu.be/2PMuBQ7LyOw">JAWS Screen Reader Demo</a> by <a href="https://www.youtube.com/channel/UCKHMrCSX3thkIsb3oDD_aJw">Blind Inspirationcast</a></li>
+</ol>
+
+<hr />
+
+<p>Frontend development is unique in web because your software interacts directly with the user (the backend doesn’t have to deal with mouse clicks, for example). Knowing your user is the first step to designing intuitive and accessible applications.</p>
+
+<h2 id="objectives-for-the-day">Objectives for the day</h2>
+<ul>
+  <li>Define usability and explain it’s importance to web design.</li>
+  <li>Define a mental model.
+    <ul>
+      <li>Compare and contrast System Models and Interaction Models.</li>
+      <li>Discuss the role of a user experience designer.</li>
+    </ul>
+  </li>
+  <li>Define a usability convention.
+    <ul>
+      <li>List common website conventions.</li>
+      <li>Explain the relationship between information, organization and navigation.</li>
+    </ul>
+  </li>
+  <li>Define accessibility and why it’s important to web design.
+    <ul>
+      <li>Describe some of the ways that web content may be inaccessible to certain users.</li>
+      <li>List examples of devices that can be web-enabled.</li>
+    </ul>
+  </li>
+</ul>
+
+<h2 id="housekeeping">Housekeeping</h2>
+<ul>
+  <li>Entry ticket: <a href="https://padlet.com/acidtone/p77ondwmuxya71af">Ahead of the Game</a></li>
+  <li>Slack tour
+    <ul>
+      <li>best practices</li>
+    </ul>
+  </li>
+</ul>
+
+<h2 id="definitions">Definitions</h2>
+<dl kramdown="0">
+  <dt>Usability</dt>
+  <dd>
+    <p>A quality attribute that assesses how easy user interfaces are to use. The word “usability” also refers to methods for improving ease-of-use during the design process.</p>
+  </dd>
+  <dt>Mental Model</dt>
+  <dd>
+    <p>A mental model is how you think something will work, based on your knowledge and experience.</p>
+  </dd>
+  <dt>System Model</dt>
+  <dd>
+    <p>How something works.</p>
+  </dd>
+  <dt>Interaction Model</dt>
+  <dd>
+    <p>How to use something.</p>
+  </dd>
+  <dt>Convention</dt>
+  <dd>
+    <p>A widely used or standard design pattern. <cite>Don’t Make Me Think; Chapter 3</cite></p>
+  </dd>
+  <dt>Satisfice</dt>
+  <dd>
+    <p>When a user chooses the <em>first reasonable option</em> instead of the best option.  <cite>DMMT; Chapter 2</cite></p>
+  </dd>
+  <dt>Accessibility</dt>
+  <dd>
+    <p>Enabling as many people as possible to use Web sites, even when those people’s abilities are limited in some way. <cite><a href="https://developer.mozilla.org/en-US/docs/Web/Accessibility">MDN</a></cite></p>
+  </dd>
+</dl>
+
+<h2 id="1-mental-models-in-design">1. Mental Models in Design</h2>
+<p>Mental models are how your mind uses past experience to predict real-life outcomes, like unlocking your door. If the door knob was magically moved a few centimeters to the left or right, you would notice it instantly and your keys might still be in your pocket.</p>
+
+<p>If the world is just a little bit off, your mind has to wake up, pay attention and figure out what’s happening.</p>
+
+<p>See <a href="/cheatsheets/design/mental-models">Mental model cheatsheet</a></p>
+
+<h3 id="activity-1-mental-model-show-and-tell">Activity 1: Mental Model Show and Tell</h3>
+<p>In groups of 3 or 4, explore the concept of mental models in product design.</p>
+<ul>
+  <li>What is the problem that the Rocket Swift Gearshift was trying to solve?</li>
+  <li>Why did it fail, while the rotary dial gear shifter <a href="https://www.autoweek.com/news/a1860056/another-fca-gear-shifter-investigated-rollaway-risk-following-crashes/">failed less</a>?</li>
+</ul>
+
+<p>You found an example of product design in your home, office, etc (you may also find examples online):</p>
+<ul>
+  <li>What problem is the product trying to solve?</li>
+  <li>Describe its System Model and compare it to its Interaction Model.</li>
+  <li>Can you think of a product that has a good Interaction Model but bad System Model?</li>
+</ul>
+
+<h2 id="2-web-conventions">2. Web Conventions</h2>
+<p>How we really use the web (source: Don’t Make Me Think, Chapter 2):</p>
+<ol>
+  <li>We don’t read pages. we scan them.</li>
+  <li>We don’t make optimal choices. We satisfice.</li>
+  <li>We don’t figure out how things work. We muddle through.</li>
+</ol>
+
+<p>Conventions are popular design patterns that evolve over time as the user becomes more knowledgeable. Your audience will have pre-defined expectations that fall into three general categories:</p>
+<ul>
+  <li>Where things are located on a page. Example: login button -&gt; top right.</li>
+  <li>How things work. Example: the shopping cart metaphor.</li>
+  <li>How things look. Example: errors are red and like buttons are blue.</li>
+</ul>
+
+<h3 id="making-pages-scannable">Making Pages Scannable</h3>
+<ol>
+  <li>Create Visual Hierarchies
+    <ul>
+      <li>Prominence -&gt; importance</li>
+      <li>Logically related -&gt; visually related</li>
+      <li>Nesting -&gt; parent/child relationships</li>
+    </ul>
+  </li>
+  <li>Design Content for Cards (see <a href="https://www.smashingmagazine.com/2016/10/designing-card-based-user-interfaces/">Designing Card-Based User Interfaces</a>)
+    <ul>
+      <li>Break pages up into clearly defined areas</li>
+      <li>Use plenty of headings</li>
+      <li>Keep paragraphs short</li>
+      <li>Use bullet points and numbered lists</li>
+    </ul>
+  </li>
+  <li>Extras
+    <ul>
+      <li>Make it obvious what’s clickable</li>
+      <li>Highlight key terms</li>
+      <li>Keep text readable by increasing contrast with their background</li>
+    </ul>
+  </li>
+</ol>
+
+<h3 id="activity-2-an-introduction-to-github-issues">Activity 2: An introduction to GitHub Issues</h3>
+<p>Your instructor didn’t have time to write a cheatsheet of common web design conventions. Help him out (in groups of 3-4) by contributing to a GH Issue for the program website!</p>
+<ol>
+  <li>Browse through this is of <a href="http://ui-patterns.com/patterns">common UI Design Patterns</a>;</li>
+  <li>Take screencaps of real world examples from your favourite websites;</li>
+  <li>Post the images (with the accompanying design pattern) to [this issue].</li>
+</ol>
+
+<h2 id="3-accessibility">3. Accessibility</h2>
+<p>See: <a href="https://developer.mozilla.org/en-US/docs/Learn/Accessibility/What_is_accessibility">What is accessibility?</a></p>
+
+<h3 id="wgac-21-four-principles">WGAC 2.1 Four Principles</h3>
+<p>See: <a href="https://www.w3.org/WAI/WCAG21/Understanding/intro#understanding-the-four-principles-of-accessibility">Web Content Accessibility Guidelines</a></p>
+<ol>
+  <li><strong>Perceivable</strong>: Information and user interface components must be presentable to users in ways they can perceive.</li>
+  <li><strong>Operable</strong>: User interface components and navigation must be operable.</li>
+  <li><strong>Understandable</strong>: Information and the operation of user interface must be understandable.</li>
+  <li><strong>Robust</strong>: Content must be robust enough that it can be interpreted reliably by a wide variety of user agents, including assistive technologies.</li>
+</ol>
+
+<p>What are some types of disabilities that may affect how someone uses a website?</p>
+<ul>
+  <li>Sight: blind or low vision</li>
+  <li>Hearing: deaf or hard of hearing (caption on videos)</li>
+  <li>Mobility: unable to use mouse, only uses keyboard, uses voice commands</li>
+  <li>Cognitive disabilities:
+    <ul>
+      <li>brain injury/disease</li>
+      <li>dyslexia</li>
+      <li>memory</li>
+      <li>ADHD</li>
+    </ul>
+  </li>
+</ul>
+
+<h3 id="assistive-technology-examples">Assistive Technology Examples</h3>
+<ul>
+  <li>Screen reader</li>
+  <li>Screen magnification software</li>
+  <li>Text reader</li>
+  <li>Speech input software</li>
+  <li>Alternative input devices
+    <ul>
+      <li>Head pointer</li>
+      <li>Motion tracking/eye tracking</li>
+      <li>Single switch entry device</li>
+    </ul>
+  </li>
+</ul>
+
+
+
+<nav class="post">
+  <ul>
+
+<li><a href="/dsgn270/visual-hierarchy-design/">Yesterday</a></li>
+
+
+<li>Tomorrow</li>
+
+  </ul>
+</nav>
+    </div>
+  </body>
+</html>

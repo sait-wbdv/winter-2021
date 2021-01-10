@@ -1,0 +1,116 @@
+I"%<p><a href="https://squoosh.app">Quoosh.app</a></p>
+
+<h2 id="popular-tasks">Popular Tasks</h2>
+<p>Compress :</p>
+<ul>
+  <li><a href="#compress-an-image-with-webp-lossy"><em>high frequency</em> images with WebP</a> (Lossy)</li>
+  <li><a href="#compress-an-image-with-mozjpeg"><em>high frequency</em> images with MozJPEG</a></li>
+  <li><a href="#compress-an-image-with-webp-lossless"><em>low frequency</em> images with WebP</a> (Lossless)</li>
+  <li><a href="#compress-an-image-with-oxipng"><em>low frequency</em> images with OxiPNG</a></li>
+</ul>
+
+<h2 id="terminology">Terminology</h2>
+<dl>
+  <dt>Image encoder</dt>
+  <dd>
+    <p>A library/module that converts one image format to another. Not all encoders are created equal.&lt;/dd&gt;</p>
+    <dt>High Frequency Imagery</dt>
+    <dd>
+      <p>Parts of an image (or the whole image) where colour and contrast change a lot from one pixel to the next. Example: a photo of a busy intersection.&lt;/dd&gt;</p>
+      <dt>Low Frequency Imagery</dt>
+      <dd>
+        <p>Parts of an image (or the whole image) where colour and contrast change very little from one pixel to the next. Example: a vector logo or other image with a lot of flat colour.&lt;/dd&gt;</p>
+        <dt>Colour Data</dt>
+        <dd>
+          <p>The digital information in an image that controls pixel colour. Also called chroma data.&lt;/dd&gt;</p>
+          <dt>Brightness Data</dt>
+          <dd>
+            <p>The digital information in an image that controls pixel brightness.&lt;/dd&gt;
+&lt;/dl&gt;</p>
+
+            <h3 id="compress-an-image-with-webp-lossy">Compress an image with WebP (Lossy)</h3>
+            <ol>
+              <li>Pick a high frequency image (e.g. a “real” photo, not a logo) and upload it to Squoosh.</li>
+              <li>Zoom the image to the size it will be on the web page (and resist the urge to zoom).
+                <ul>
+                  <li>To account for high resolution displays, take the native size of your image and zoom out so it’s about 50% of its original size.</li>
+                </ul>
+              </li>
+              <li>Choose <code>WebP</code> encoder under “Compress”.</li>
+              <li>Turn down Quality until the image “looks bad”.</li>
+              <li>Increase Effort (to max?).</li>
+              <li>Advanced Settings:
+                <ul>
+                  <li>try toggling <code>Auto adjust filter strength</code>;</li>
+                  <li>try adjusting <code>Spatial noise shaping</code>.</li>
+                </ul>
+              </li>
+              <li>Download the optmized image and use it as an asset in a project of your choice.</li>
+            </ol>
+
+            <h3 id="compress-an-image-with-mozjpeg">Compress an image with MozJPEG</h3>
+            <ol>
+              <li>Pick a high frequency image (e.g. a “real” photo, not a logo) and upload it to Squoosh.</li>
+              <li>Zoom the image to the size it will be on the web page (and resist the urge to zoom).
+                <ul>
+                  <li>To account for high resolution displays, take the native size of your image and zoom out so it’s about 50% of its original size.</li>
+                </ul>
+              </li>
+              <li>Choose <code>MozJPEG</code> encoder under “Compress”.</li>
+              <li>Reduce <code>Quality</code> until the image “looks bad”.</li>
+              <li>Advanced Settings:
+                <ul>
+                  <li>try adjusting <code>Subsample chroma by</code>;</li>
+                  <li>try toggling <code>Seperate chroma quality</code>.</li>
+                </ul>
+              </li>
+              <li>Download the optmized image and use it as an asset in a project of your choice.</li>
+            </ol>
+
+            <h3 id="compress-an-image-with-webp-lossless">Compress an image with WebP (Lossless)</h3>
+            <ol>
+              <li>Pick a low-frequency image (something with a lot of flat colour) and upload it to Squoosh.</li>
+              <li>Zoom the image to the size it will be on the web page (and resist the urge to zoom).
+                <ul>
+                  <li>To account for high resolution displays, take the native size of your image and zoom out so it’s about 50% of its original size.</li>
+                </ul>
+              </li>
+              <li>Choose <code>WebP</code> encoder under “Compress”.</li>
+              <li>Click <code>Lossless</code> to enable the low-frequency encoder.</li>
+              <li>Increase <code>Effort</code> (to max?).</li>
+              <li>Try increasing <code>Slight loss</code>. Your mileage may vary.</li>
+              <li>Try <code>reduce pallette</code> to remove unneeded colours.
+                <ul>
+                  <li>Select <code>Browser PNG</code> under “Compress” to speed up the preview.</li>
+                  <li>Click <code>Reduce pallette</code>.</li>
+                  <li>Reduce <code>Dithering</code> to zero (unless you need it, which you probably don’t).</li>
+                  <li>Reduce <code>Colors</code> as much as possible until the image “looks bad”.</li>
+                </ul>
+              </li>
+              <li>Download the optmized image and use it as an asset in a project of your choice.</li>
+            </ol>
+
+            <h3 id="compress-an-image-with-oxipng">Compress an image with OxiPNG</h3>
+            <ol>
+              <li>Pick a low-frequency image (something with a lot of flat colour) and upload it to Squoosh.</li>
+              <li>Zoom the image to the size it will be on the web page (and resist the urge to zoom).
+                <ul>
+                  <li>To account for high resolution displays, take the native size of your image and zoom out so it’s about 50% of its original size.</li>
+                </ul>
+              </li>
+              <li>Choose <code>OxiPNG</code> encoder under “Compress”.</li>
+              <li>Increase <code>Effort</code> (to max?).</li>
+              <li>Click <code>Reduce pallette</code>.</li>
+              <li>Reduce <code>Dithering</code> to zero (unless you need it, which you probably don’t).</li>
+              <li>Reduce <code>Colors</code> as much as possible until the image “looks bad”.</li>
+              <li>Download the optmized image and use it as an asset in a project of your choice.</li>
+            </ol>
+
+            <hr />
+          </dd>
+        </dd>
+      </dd>
+    </dd>
+  </dd>
+</dl>
+:ET

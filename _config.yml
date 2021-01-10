@@ -1,0 +1,16 @@
+title: Web Dev Fast Track - Winter 2021
+url: "" # the base hostname & protocol for your site, e.g. http://example.com
+baseurl: "" # the subpath of your site, e.g. /blog
+description: > # this means to ignore newlines until "show_excerpts:"
+  SAIt Web Developer Fast Track program website.
+
+show_excerpts: false # set to true to show excerpts on the homepage
+
+highlighter: none
+permalink: /:categories/:title/
+
+markdown: kramdown
+kramdown:
+  # Use GitHub flavored markdown, including triple backtick fenced code blocks
+  input: GFM
+  parse_block_html: true

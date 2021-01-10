@@ -1,0 +1,92 @@
+<!DOCTYPE html>
+<html lang="en-US">
+  <head>
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <meta charset="utf-8">
+    <title>Command Line Cheatsheet - Web Dev Fast Track - Winter 2021</title>
+    <link rel="stylesheet" href="/assets/css/main.css">
+
+    <!-- Normalize -->
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/normalize/8.0.1/normalize.min.css">
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/normalize/8.0.1/normalize.min.css.map">
+
+    <!-- Code Highlghter -->
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/highlight.js/10.5.0/styles/monokai-sublime.min.css">
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/highlight.js/10.5.0/highlight.min.js"></script>
+    <script>hljs.initHighlightingOnLoad();</script>
+  </head>
+  <body>
+    <div class="wrapper">
+      <header>
+        <img class="sait-logo" src=/assets/images/sait-logo.png alt="SAIT Logo">
+        <div>
+          <h1>SAIT WBDV</h1>
+          <h2 class="tagline">Web Developer Fast Track - Winter 2021</h2>
+        </div>
+      </header>
+      <dl>
+  <dt>Command Line Interface (CLI)</dt>
+  <dd>
+    <p>An alternative to Graphical User Interfaces (GUI) that are based on mouse clicks. Terminal apps come in a few flavours; in this course you can use a unix terminal of your choice.&lt;/dd&gt;</p>
+    <dt>The Terminal</dt>
+    <dd>
+      <p>A nickname for an application that understands one or more Command Line Interfaces (CLIs).&lt;/dd&gt;</p>
+      <dt>Workspace</dt>
+      <dd>
+        <p>A dedicated folder(s) on your system for the projects you’ll be working on.&lt;/dd&gt;
+&lt;/dl&gt;</p>
+
+        <p>Most of the command line tools we will be using in this course (like Git, <a href="https://nodejs.org/en/">Node</a> and <a href="https://www.npmjs.com/">NPM</a>) will depend greatly on which folder you are in. We will cover the three system commands that help up us navigate the file system.</p>
+
+        <p class="notice--warning"><strong>Warning</strong>: There are two flavours of “command line”: Windows and Unix. We will be using the latter: Git Bash (installed along with Git) on Windows and Terminal on Mac (Mac is unix-based so almost any terminal app will do; Tony uses iTerm). Here is a <a href="https://www.thomas-krenn.com/en/wiki/Cmd_commands_under_Windows">Windows command cheatsheet</a></p>
+
+        <ul>
+          <li><code>pwd</code>
+            <ul>
+              <li>displays your ‘present working directory’. This will usually default to your home folder when you first open your terminal.</li>
+            </ul>
+          </li>
+          <li><code>ls</code>
+            <ul>
+              <li>Lists the contents of your current directory.</li>
+              <li>The <code>-l</code> flag lists extra information and <code>-a</code> lists hidden files. <code>-la</code> will list extra information and also all hidden files. Examples:
+                <ul>
+                  <li><code>$ ls</code> (lists file and directory name of the current folder)</li>
+                  <li><code>$ ls -l</code> (lists full directory information)</li>
+                  <li><code>$ ls -a</code> (lists hidden files)</li>
+                  <li><code>$ ls -la</code> (lists full information plus hidden files)</li>
+                </ul>
+              </li>
+            </ul>
+          </li>
+          <li><code>cd</code>: changes your directory based on the path you provide after the command (separated by a space). Examples:
+            <ul>
+              <li><code>$ cd Documents/sait</code></li>
+              <li><code>$ cd /</code> (moves to the top root folder)</li>
+              <li><code>$ cd</code> (moves to user home folder)</li>
+              <li><code>$ cd ..</code> (moves up one directory level)</li>
+              <li><code>$ cd ../../new-directory</code> (moves up two directories and into “new-directory”)</li>
+            </ul>
+          </li>
+        </ul>
+
+        <p class="notice--info"><strong>CLI Quality of Life Tip #1</strong>: The tab key auto-completes file names and directories.</p>
+
+        <p class="notice--info"><strong>CLI Quality of Life Tip #2</strong>: Use the Up Arrow to browse through the history of last used commands.</p>
+
+        <h3 id="questions-to-consider">Questions to Consider</h3>
+        <ul>
+          <li>What is the starting directory when you open a terminal on your system?</li>
+          <li>What files and directories are in this initial directory?</li>
+          <li>What file did you last open? Try to find it using only the terminal.</li>
+          <li>What’s at the top of your directory structure? How do you get there?</li>
+          <li>Using the terminal, find the directory you’ve chosen to store your projects.</li>
+        </ul>
+      </dd>
+    </dd>
+  </dd>
+</dl>
+
+    </div>
+  </body>
+</html>
