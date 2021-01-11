@@ -4,7 +4,7 @@ title: "Program Schedule"
 ---
 
 ## Week 1: Jan 11-15
-- M: [Orientation](/fall-2021{% link _posts/2021-01-11-orientation.md %})
+- M: [Orientation](/winter-2021{% link _posts/2021-01-11-orientation.md %})
 - T: DSGN 270 Day 1 - User Experience Design and Accessibility
 - W: DSGN 270 Day 2 - Visual Hierarchy in Design
 - R: CPNT 201 Day 1 - Files, Directories and the Command Line
