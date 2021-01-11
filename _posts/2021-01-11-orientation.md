@@ -54,8 +54,7 @@ The Mozilla Developer Network (the makers of Firefox) recently launched an entir
 ## Codepen
 The beginning of CPNT 260 (HTML/CSS) will be coded in the browser before we move to VS Code (see below). Codepen is a "sandbox" environment that will serve as part of your portfolio when you dive into the real world.
 
-- [Create a free Codepen Account](https://codepen.io/) 
-  - **Don't forget:** your GH username will be seen by potential employers.
+- [Create a free Codepen Account](https://codepen.io/): **Don't forget** - your Codepen username will be seen by potential employers.
 
 ---
 
@@ -81,8 +80,7 @@ For the adventurous, see Git's [Getting Started](https://git-scm.com/book/en/v2/
 ### GitHub
 GitHub is a private corporation (now owned by Microsoft) that has built a world-leading community around Git. All sample code and projects will be hosted on GH and the program website is hosted using [GH Pages](https://pages.github.com/).
 
-1. [Create a GitHub account](https://github.com/) if you haven't already. 
-    - **Don't forget:** your GH username will be seen by potential employers.
+1. [Create a GitHub account](https://github.com/) if you haven't already. **Don't forget:** your GH username will be seen by potential employers.
 2. _Watch_ and/or _Star_ the [program repository](https://github.com/sait-wbdv/winter-2021).
 3. Sign up for GitHub Classroom to get your [Student Developer Pack](https://education.github.com/pack) (handy free stuff)!
 
