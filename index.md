@@ -4,106 +4,106 @@ title: "Program Schedule"
 ---
 
 ## Week 1: Jan 11-15
-- M: Orientation
-- T: DSGN 270
-- W: DSGN 270
-- R: CPNT 201
-- F: CPNT 201
+- M: [Orientation]({% link _posts/2021-01-11-orientation.md %})
+- T: [DSGN 270 Day 1 - User Experience Design and Accessibility]({% link _posts/2021-01-12-ux-accessibility.md %})
+- W: [DSGN 270 Day 2 - Visual Hierarchy in Design]({% link _posts/2021-01-13-visual-hierarchy-design.md %})
+- R: CPNT 201 Day 1 
+- F: CPNT 201 Day 2 
 
 ## Week 2: Jan 18-22
-- M: DSGN 270
-- T: DSGN 270
-- W: CPNT 260
-- R: CPNT 260
-- F: CPNT 264
+- M: DSGN 270 Day 3 
+- T: DSGN 270 Day 4
+- W: CPNT 260 Day 1
+- R: CPNT 260 Day 2
+- F: CPNT 264 Day 1
 
 ## Week 3: Jan 25-29
-- M: CPNT 260
-- T: CPNT 260
-- W: CPNT 260
-- R: CPNT 260
-- F: CPNT 260
+- M: CPNT 260 Day 3
+- T: CPNT 260 Day 4
+- W: CPNT 260 Day 5
+- R: CPNT 260 Day 6
+- F: CPNT 260 Day 7
 
 ## Week 4: Feb 1-5
-- M: CPNT 260
-- T: CPNT 260
-- W: CPNT 260
-- R: CPNT 260
-- F: CPNT 201
+- M: CPNT 260 Day 8
+- T: CPNT 260 Day 9
+- W: CPNT 260 Day 10
+- R: CPNT 260 Day 11
+- F: CPNT 201 Day 3
 
 ## Week 5: Feb 8-12
-- M: CPNT 201
-- T: CPNT 201
-- W: CPNT 201
-- R: CPNT 201
-- F: CPNT 262
+- M: CPNT 201 Day 4
+- T: CPNT 201 Day 5
+- W: CPNT 201 Day 6
+- R: CPNT 201 Day 7
+- F: CPNT 262 Day 1
 
 ## Week 6: Feb 15-19
-- M: Family Day
-- T: CPNT 262
-- W: CPNT 262
-- R: CPNT 262
-- F: CPNT 262
+- _M: Family Day_
+- T: CPNT 262 Day 2
+- W: CPNT 262 Day 3
+- R: CPNT 262 Day 4
+- F: CPNT 262 Day 5
 
 ## Week 7: Feb 22-26
-- M: CPNT 262
-- T: CPNT 262
-- W: CPNT 262
-- R: CPNT 262
-- F: CPNT 201
+- M: CPNT 262 Day 6
+- T: CPNT 262 Day 7
+- W: CPNT 262 Day 8
+- R: CPNT 262 Day 9
+- F: CPNT 201 Day 8
 
 ## Week 8: Mar 1-5
-- M: CPNT 201
-- T: CPNT 262
-- W: CPNT 262
-- R: CPNT 262
-- F: CPNT 262
+- M: CPNT 201 Day 9
+- T: CPNT 262 Day 10
+- W: CPNT 262 Day 11
+- R: CPNT 262 Day 12
+- F: CPNT 262 Day 13
 
 ## Week 9: Mar 8-12
-- M: CPNT 262
-- T: CPNT 262
-- W: CPNT 262
-- R: CPNT 262
-- F: CPNT 262
+- M: CPNT 262 Day 14
+- T: CPNT 262 Day 15
+- W: CPNT 262 Day 16
+- R: CPNT 262 Day 17
+- F: CPNT 262 Day 18
 
 ## Week 10: Mar 15-19
-- M: CPNT 262
-- T: CPNT 262
-- W: CPNT 264
-- R: CPLN 240
-- F: CPNT 264
+- M: CPNT 262 Day 19
+- T: CPNT 262 Day 20
+- W: CPNT 264 Day 2
+- R: CPLN 240 - Guest Speaker Day
+- F: CPNT 264 Day 3
 
 ## Week 11: Mar 22-26
-- M: CPNT 200
-- T: CPNT 200
-- W: CPNT 200
-- R: CPNT 200
-- F: CPNT 200
+- M: CPNT 200 Day 1
+- T: CPNT 200 Day 2
+- W: CPNT 200 Day 3
+- R: CPNT 200 Day 4
+- F: CPNT 200 Day 5
 
 ## Week 12: Mar 29 - Apr 2
-- M: CPNT 200
-- T: CPNT 200
-- W: DSGN 270
-- R: DSGN 270
-- F: Good Friday
+- M: CPNT 200 Day 6
+- T: CPNT 200 Day 7
+- W: DSGN 270 Day 3
+- R: DSGN 270 Day 4
+- _F: Good Friday_
 
 ## Week 13: Apr 5-9
-- M: DSGN 270
-- T: CPNT 264
-- W: CPNT 265
-- R: CPNT 265
-- F: CPNT 264
+- M: DSGN 270 Day 5
+- T: CPNT 264 Day 4
+- W: CPNT 265 Day 1
+- R: CPNT 265 Day 2
+- F: CPNT 264 Day 5
 
 ## Week 14: Apr 12-16
-- M: CPNT 264
-- T: CPNT 265
-- W: CPNT 265
-- R: CPNT 265
-- F: CPNT 265
+- M: CPNT 264 Day 6
+- T: CPNT 265 Day 3
+- W: CPNT 265 Day 4
+- R: CPNT 265 Day 5
+- F: CPNT 265 Day 6
 
 ## Week 15: Apr 19-23
-- M: CPNT 265
-- T: CPNT 265
-- W: CPNT 265
-- R: CPNT 265
-- F: CPNT 265
+- M: CPNT 265 Day 7
+- T: CPNT 265 Day 8
+- W: CPNT 265 Day 9
+- R: CPNT 265 Day 10
+- F: Final Presentations

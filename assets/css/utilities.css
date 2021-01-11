@@ -1,0 +1,86 @@
+/*************/
+/* Utilities */
+/*************/
+
+.full-height {
+  min-height: 100vh;
+}
+
+/* Base grid */
+.grid {
+  display: grid;
+  grid-template-columns: repeat(var(--grid-cols,1), 1fr);
+}
+
+.grid-cols2 {
+  --grid-cols: 2;
+}
+
+.grid-cols3 {
+  --grid-cols: 3;
+}
+.grid-cols4 {
+  --grid-cols: 4;
+}
+.grid-cols5 {
+  --grid-cols: 5;
+}
+
+.grid-item-span2 {
+  grid-column: span 2;
+}
+
+/* Centre a single element vertically and horizontally on a page */
+.center-child {
+  min-height: 100vh;
+  display: flex;
+}
+.center-child > * {
+  margin: auto;
+}
+
+/* Centre content horizontally within a container */
+.center-inside {
+  text-align: center;
+}
+.center-outside {
+  margin: auto;
+}
+/* limit the line length of a text box */
+.text-box {
+  max-width: 80ch;
+}
+
+/**************/
+/* Navigation */
+/**************/
+
+ul.horz {
+  display: flex;
+  margin: 0;
+}
+
+/*********/
+/* Lists */
+/*********/
+
+ul.clear-style {
+  list-style: none;
+  padding-left: 0;
+}
+
+/***************/
+/* Definitions */
+/***************/
+
+dl {
+  font-size: 1.2rem;
+}
+
+dt {
+  font-weight: bold;
+}
+
+dd {
+  margin-bottom: 1em;
+}
