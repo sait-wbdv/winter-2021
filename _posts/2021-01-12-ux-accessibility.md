@@ -5,12 +5,18 @@ categories: dsgn270
 ---
 
 ## Homework
-1. Watch: [UX Design Basics - Mental Models](https://www.youtube.com/watch?v=9gM8K4ooavY) by Jamal Nichols
-2. Find an example of product design (a handy tool, piece of equipment, etc) in your immediate(ish) area (home, office, vehicle, etc). You will be discussing your find in a group of 3 or 4 tomorrow.
-3. Skim: [UI Design Patterns](http://ui-patterns.com/patterns)
-4. Skim: Chapters 1, 2 and 3 of _Don't Make Me Think_ by Steve Krug (course textbook)
-4. Read: [What is accessibility?](https://developer.mozilla.org/en-US/docs/Learn/Accessibility/What_is_accessibility)
-5. Watch: Video: [JAWS Screen Reader Demo](https://youtu.be/2PMuBQ7LyOw) by [Blind Inspirationcast](https://www.youtube.com/channel/UCKHMrCSX3thkIsb3oDD_aJw)
+1. Tool time
+    - Read: [Markdown Cheatsheet](https://www.markdownguide.org/cheat-sheet/)
+        - Markdown will be used to write your GitHub README files (the file nerds use to document their projects). Github converts your markdown into HTML.
+2. Mental Models
+    - Watch: [UX Design Basics - Mental Models](https://www.youtube.com/watch?v=9gM8K4ooavY) by Jamal Nichols
+    - Find an example of product design (a handy tool, piece of equipment, etc) in your immediate(ish) area (home, office, vehicle, etc). You will be discussing your find in a group of 3 or 4 tomorrow.
+3. User Experience Design
+    - Skim: [UI Design Patterns](http://ui-patterns.com/patterns)
+    - Skim: Chapters 1, 2 and 3 of _Don't Make Me Think_ by Steve Krug (course textbook)
+4. Accessibility
+    - Read: [What is accessibility?](https://developer.mozilla.org/en-US/docs/Learn/Accessibility/What_is_accessibility)
+    - Watch: [JAWS Screen Reader Demo](https://youtu.be/2PMuBQ7LyOw) by [Blind Inspirationcast](https://www.youtube.com/channel/UCKHMrCSX3thkIsb3oDD_aJw)
 
 ---
 

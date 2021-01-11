@@ -5,6 +5,8 @@ categories: dsgn270
 ---
 
 ## Homework
+1. Tool Time
+    - Watch: [Firefox Accessibility Inspector](https://youtu.be/7mqqgIxX_NU) 
 1. Read: [A Brief History of Print Design](https://blog.123rf.com/history-print-design/)
 2. Watch: [11 Visual Hierarchy Principles](https://youtu.be/ZXItTIjC0Wk) by [Visme](https://www.youtube.com/channel/UC2isRzoZisjBS6PaGWTDV0Q) (many of their videos are about their proprietary presentation slide builder)
 3. Find an example of print design in your immediate(ish) area (home, office, vehicle, etc) that you love, hate or wouldn't normally notice. You will be discussing your find in a group of 3 or 4 tomorrow.
