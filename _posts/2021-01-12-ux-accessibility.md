@@ -1,6 +1,6 @@
 ---
 layout: post
-title: User Experience Design and Accessibility
+title: Usability and Accessibility
 categories: dsgn270
 ---
 
