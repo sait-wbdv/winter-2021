@@ -60,7 +60,7 @@ If the world you expect is off, by even a little: your mind wakes up, pays atten
 
 ### Materials
 - Homework Synopsis: [Mental model cheatsheet]({{site.baseurl}}/cheatsheets/design/mental-models)
-- Activity: [User Interface show-and-tell]({{site.baseurl}}/cheatsheets/design/mental-models/#activity)
+- Activity: [User Interface show-and-tell]({{site.baseurl}}/cheatsheets/design/mental-models/#activities)
 
 ---
 
