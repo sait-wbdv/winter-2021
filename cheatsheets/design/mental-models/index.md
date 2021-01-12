@@ -148,5 +148,7 @@ You found an example of product design in your home, office, etc (you may also f
 - What problem is the product trying to solve?
 - Describe its System Model and compare it to its Interaction Model.
 - Can you think of a product that has a good Interaction Model but bad System Model? Vice versa?
+- If it's bad, how would you fix it?
+- If it's good, how could it be better?
 
 What was your favourite product design example? It be yours or one of your classmate's examples.
