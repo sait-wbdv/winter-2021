@@ -46,5 +46,5 @@ Your instructor didn't have time to write a cheatsheet of common web design conv
 1. Browse through this list of [common UI Design Patterns](http://ui-patterns.com/patterns) and search for more.
 2. Find real world examples of web conventions. What's the name of the convention?
 3. What new conventions have surfaced since the pandemic started?
-4. What conventions can you find in non-web software? 
+4. What conventions can you find in software on devices that are not phones, laptops, etc? 
 4. Take a screen capture (not the whole screen, please) of the best/worst and post the images (with the name of the convention) to #winter-2021.
