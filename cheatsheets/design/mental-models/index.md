@@ -145,8 +145,8 @@ Nominate a member of your group to summarize your findings in the main room.
 
 ### 2: User Interface show-and-tell
 You found an example of product design in your home, office, etc (you may also find examples online):
-- What problem is the product trying to solve?
-- Describe its System Model and compare it to its Interaction Model.
+- What problem is the product trying to solve? 
+- Describe its System Model and compare it to its Interaction Model. Is it a simple or complex problem from an System Model perspective? 
 - Can you think of a product that has a good Interaction Model but bad System Model? Vice versa?
 - If it's bad, how would you fix it?
 - If it's good, how could it be better?
