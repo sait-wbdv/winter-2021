@@ -2,17 +2,16 @@
 layout: default
 title: "Program Schedule"
 ---
-
 ## Week 1: Jan 11-15
 - M: [Orientation and Software Setup](/winter-2021{% link _posts/2021-01-11-orientation.md %})
-- T: DSGN 270 Day 1 - User Experience Design and Accessibility
-- W: DSGN 270 Day 2 - Visual Hierarchy in Design
+- T: DSGN 270 Day 1 - [User Experience Design and Accessibility](/winter-2021{% link _posts/2021-01-12-ux-accessibility.md %})
+- W: DSGN 270 Day 2 - [Visual Hierarchy in Design](/winter-2021{% link _posts/2021-01-13-visual-hierarchy-design.md %})
 - R: CPNT 201 Day 1 - Files, Directories and the Command Line
-- F: CPNT 201 Day 2 - Introduction to Git
+- F: CPNT 201 Day 2 - Introduction to Git and GitHub
 
 ## Week 2: Jan 18-22
 - M: DSGN 270 Day 3 - Mobile Fundamentals
-- T: DSGN 270 Day 4 - Copyright and Licensing
+- T: DSGN 270 Day 4 - Copyright, Licensing and Assets
 - W: CPNT 260 Day 1 - Web Page Fundamentals (HTML/CSS)
 - R: CPNT 260 Day 2
 - F: CPNT 260 Day 3
