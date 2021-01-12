@@ -8,7 +8,7 @@ categories: dsgn270
 1. Recording sessions
 2. House Rules
     - Cameras on:
-        1. 8-9pm
+        1. 8-9am
         2. During breakout discussions and when paired coding
         3. During fishbowl discussions (if you're speaking)
         4. After 2pm
