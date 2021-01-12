@@ -5,12 +5,14 @@ categories: cpnt201
 ---
 
 ## Homework
-- Reference: [CLI (command line interface) Cheat Sheet](https://www.git-tower.com/blog/command-line-cheat-sheet/)
-- Read: [Dealing with files](https://developer.mozilla.org/en-US/docs/Learn/Getting_started_with_the_web/Dealing_with_files)
-- Reference: [Configuring Git](https://git-scm.com/book/en/v2/Getting-Started-First-Time-Git-Setup)
-- Read: [Creating a GitHub Pages Site](https://docs.github.com/en/github/working-with-github-pages/creating-a-github-pages-site)
-- Watch: [Introduction - Git and GitHub for Poets](https://youtu.be/BCQHnlnPusY) (you only need to watch the first video)
-- [Why does GitHub recommend HTTPS over SSH?](https://stackoverflow.com/questions/11041729/why-does-github-recommend-https-over-ssh)
+1. Command Line
+    - Reference: [CLI (command line interface) Cheat Sheet](https://www.git-tower.com/blog/command-line-cheat-sheet/)
+2. Files and Directories
+    - Read: [Dealing with files](https://developer.mozilla.org/en-US/docs/Learn/Getting_started_with_the_web/Dealing_with_files)
+3. Git
+    - Reference: [Configuring Git](https://git-scm.com/book/en/v2/Getting-Started-First-Time-Git-Setup)
+    - Watch: [Introduction - Git and GitHub for Poets](https://youtu.be/BCQHnlnPusY) (you only need to watch the first video; he goes a little off the rails later on)
+4. Decide on a profile picture; update Zoom and Slack.
 
 ---
 
