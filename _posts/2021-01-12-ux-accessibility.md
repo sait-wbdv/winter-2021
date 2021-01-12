@@ -5,7 +5,7 @@ categories: dsgn270
 ---
 
 ## Housekeeping
-1. Entry ticket: [Ahead of the Game](https://padlet.com/acidtone/p77ondwmuxya71af)
+1. Recording sessions
 2. House Rules
     - Cameras on:
         1. 8-9pm
