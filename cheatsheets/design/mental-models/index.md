@@ -141,10 +141,12 @@ Explore the concept of mental models in product design.
 - What is the problem that the Rocket Swift Gearshift was trying to solve?
 - Why did it fail, while the rotary dial gear shifter [failed less](https://www.autoweek.com/news/a1860056/another-fca-gear-shifter-investigated-rollaway-risk-following-crashes/)?
 
+Nominate a member of your group to summarize your findings in the main room.
+
 ### 2: User Interface show-and-tell
 You found an example of product design in your home, office, etc (you may also find examples online):
 - What problem is the product trying to solve?
 - Describe its System Model and compare it to its Interaction Model.
 - Can you think of a product that has a good Interaction Model but bad System Model? Vice versa?
 
-Nominate a member of your group to summarize your findings in the main room.
+What was your favourite product design example? It be yours or one of your classmate's examples.
