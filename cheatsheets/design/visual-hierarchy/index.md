@@ -1,7 +1,6 @@
 ---
 layout: page
 title: "11 Principles of Visual Hierarchy"
-parse_span_html: true
 ---
 
 The following examples were taken from [11 Visual Hierarchy Principles](https://youtu.be/ZXItTIjC0Wk) by [Visme](https://www.youtube.com/channel/UC2isRzoZisjBS6PaGWTDV0Q).
@@ -21,7 +20,9 @@ The primary goal of creating visual hierarchies is to make content more scannabl
     <li>Things that are related <strong>logically</strong> are related <strong>visually</strong>.</li>
     <li>Things are "<strong>nested</strong>" visually to show what's <strong>part of</strong> what.</li>
   </ol>
-  <address>Source: Steve Krug, Don't Make Me Think; p.33</address>
+  <address>
+  Source: Steve Krug, Don't Make Me Think; p.33
+  </address>
 </blockquote>
 
 ## 1. Size and Scale
