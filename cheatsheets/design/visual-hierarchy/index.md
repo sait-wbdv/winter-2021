@@ -203,7 +203,7 @@ Divide your design into a 3x3 grid with each intersection being a potential foca
 ## Activities 
 In groups of 3 or 4:
 
-### 1. Visual hierarchy in print
+### 1. Visual Hierarchy fishbowl
 Explore the concept of visual hierarchy in the print design industry.
 - You found an example of print design. How does it use (or not use) visual hierarchy? What changes would you make?
 - What other media of print/graphic design are there? Do the same visual hierarchy principles apply equally from one medium to another?

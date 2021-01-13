@@ -7,7 +7,7 @@ categories: dsgn270
 1. Session videos
     - Students are invited to post chapter markers in the Recordings document listed in `#winter-2021`.
 2. Assessments
-    - DSGN 270 Assignment 1 announced
+    - [DSGN 270 Assignment 1](https://github.com/sait-wbdv/assessments/blob/master/dsgn270/) announced
     - Assessment guidelines:
         - All assignments will be submitted to Brightspace.
             - All assignments should be zipped, even if it's just one file; text files sometimes get mangled by Brightspace.
@@ -63,9 +63,16 @@ In the context of print and graphic design, visual hierarchy is one of many tool
 
 ### Materials
 - Homework Synopsis: [Visual Hierarchy Cheatsheet]({{site.baseurl}}/cheatsheets/design/visual-hierarchy)
+- Activity: [Visual Hierarchy fishbowl]({{site.baseurl}}/cheatsheets/design/visual-hierarchy/#activities)
 
 
 ## 2. Web Conventions
+The general usability principles we covered yesterday overlap heavily with those of visual heirarchy. These also extend to the world of web design in the form of conventions and design patterns.
 
+> One of the best ways to make almost anything easier to grasp in a hurry is to follow the existingconventions—the widely used or standardized design patterns.
+
+### Materials
+- Textbook Synopsis: [Don't make me think]({{site.baseurl}}/cheatsheets/web-conventions)
+- Activity: [Convention hunt]({{site.baseurl}}/cheatsheets/web-conventions/#activities)
 
 ## Clean Up Time!
