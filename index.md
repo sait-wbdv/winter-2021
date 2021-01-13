@@ -6,7 +6,7 @@ title: "Program Schedule"
 - M: [Orientation and Software Setup](/winter-2021{% link _posts/2021-01-11-orientation.md %})
 - T: DSGN 270 Day 1 - [Usability and Accessibility](/winter-2021{% link _posts/2021-01-12-ux-accessibility.md %})
 - W: DSGN 270 Day 2 - [Visual Hierarchy in Design](/winter-2021{% link _posts/2021-01-13-visual-hierarchy-design.md %})
-- R: CPNT 201 Day 1 - Files, Directories and the Command Line
+- R: CPNT 201 Day 1 - [Files, Directories and the Command Line](/winter-2021{% link _posts/2021-01-14-files-directories-markdown.md %})
 - F: CPNT 201 Day 2 - Introduction to Git and GitHub
 
 ## Week 2: Jan 18-22
