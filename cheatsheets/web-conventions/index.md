@@ -11,6 +11,8 @@ Convention
 Satisfice
 : When a user chooses the _first reasonable option_ instead of the best option.  <cite>DMMT; Chapter 2</cite>
 
+---
+
 ## How we really use the web 
 1. We don't read pages. we scan them.
 2. We don't make optimal choices. We satisfice.
@@ -40,9 +42,21 @@ Conventions are popular design patterns that evolve over time as the user become
 
 ---
 
+## Web web conventions
+### Navigation
+- Primary navigation
+- Secondary, tertiary navigation
+- Breadcrumb navigation
+- Utilities
+- Search
+
+
+
+---
+
 ## Activities
 ### 1. Convention hunt
-Your instructor didn't have time to write a cheatsheet of common web design conventions. Help him out (in groups of 3-4):
+Your instructor didn't have time to add images of common web design conventions. Help him out (in groups of 3-4):
 1. Browse through this list of [common UI Design Patterns](http://ui-patterns.com/patterns) and search for more.
 2. Find real world examples of web conventions. What's the name of the convention?
 3. What new conventions have surfaced since the pandemic started?
