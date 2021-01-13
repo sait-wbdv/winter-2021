@@ -1,8 +1,15 @@
 ---
 layout: page
-title: "Visual Hierarchy Design Principles"
+title: "11 Principles of Visual Hierarchy"
 parse_span_html: true
 ---
+
+The following examples were taken from [11 Visual Hierarchy Principles](https://youtu.be/ZXItTIjC0Wk) by [Visme](https://www.youtube.com/channel/UC2isRzoZisjBS6PaGWTDV0Q).
+
+You can find many videos online about "Top X" principles of visual hierarchy. The number ranges from 5 to 15 or more, so these are not hard and fast rules.
+
+---
+
 The primary goal of creating visual hierarchies is to make content more scannable.
 
 <blockquote>
@@ -17,22 +24,17 @@ The primary goal of creating visual hierarchies is to make content more scannabl
   <address>Source: Steve Krug, Don't Make Me Think; p.33</address>
 </blockquote>
 
-## 11 Principles of Visual Hierarchy
-You can find many videos online about "Top X" principles of visual hierarchy. The number ranges from 5 to 15 or more, so these are not hard and fast rules.
-
-The following examples were taken from [11 Visual Hierarchy Principles](https://youtu.be/ZXItTIjC0Wk) by [Visme](https://www.youtube.com/channel/UC2isRzoZisjBS6PaGWTDV0Q):
-
-### 1. Size and Scale
+## 1. Size and Scale
 Size can drive emotion and signify importance. The greater the scale, the greater the emphasis.
 
-#### Meh
+### Meh
 <figure>
   <img src="images/md/1-size-scale-bad.png" alt="Some text that is all equal size">
   <figcaption>Figure 1: The text is the same size so there is no focal point and no way to tell what's most important.
   </figcaption>
 </figure>
 
-#### Better
+### Better
 <figure>
   <img src="images/md/1-size-scale-better.png" alt="Some text that is NOT all equal size">
   <figcaption>
@@ -40,10 +42,10 @@ Size can drive emotion and signify importance. The greater the scale, the greate
   </figcaption>
 </figure>
 
-### 2. Perspective
+## 2. Perspective
 Perspective creates the illusion of depth, which can lead to a perceived difference in importance.
 
-#### Meh
+### Meh
 <figure>
   <img src="images/md/2-perspective-bad.png" alt="A very flat image">
   <figcaption>
@@ -51,7 +53,7 @@ Perspective creates the illusion of depth, which can lead to a perceived differe
   </figcaption>
 </figure>
 
-#### Better
+### Better
 <figure>
   <img src="images/md/2-perspective-better.png" alt="Image with a blurred background">
   <figcaption>
@@ -59,7 +61,7 @@ Perspective creates the illusion of depth, which can lead to a perceived differe
   </figcaption>
 </figure>
 
-#### The effect of contrast
+### The effect of contrast
 <figure>
   <img src="images/md/2-perspective-contrast.png" alt="Image with a blurred background">
   <figcaption>
@@ -67,10 +69,10 @@ Perspective creates the illusion of depth, which can lead to a perceived differe
   </figcaption>
 </figure>
 
-### 3. Colour and Contrast
+## 3. Colour and Contrast
 Similar to size and scale, colour and contrast can also draw attention by providing a focal point for the user.
 
-#### Meh
+### Meh
 <figure>
   <img src="images/md/3-colour-contrast-bad.png" alt="Image with a blurred background">
   <figcaption>
@@ -78,7 +80,7 @@ Similar to size and scale, colour and contrast can also draw attention by provid
   </figcaption>
 </figure>
 
-#### Better
+### Better
 <figure>
   <img src="images/md/3-colour-contrast-better.png" alt="Figure 6">
   <figcaption>
@@ -86,7 +88,7 @@ Similar to size and scale, colour and contrast can also draw attention by provid
   </figcaption>
 </figure>
 
-#### Better
+### Better
 <figure>
   <img src="images/md/3-colour-contrast-better.png" alt="figure 7">
   <figcaption>
@@ -94,10 +96,10 @@ Similar to size and scale, colour and contrast can also draw attention by provid
   </figcaption>
 </figure>
 
-### 4. Typography
+## 4. Typography
 Choosing contrasting fonts (with contrasting size and colour) conveys importance to the user.
 
-#### Meh
+### Meh
 <figure>
   <img src="images/md/4-typography-bad.png" alt="figure 8">
   <figcaption>
@@ -105,7 +107,7 @@ Choosing contrasting fonts (with contrasting size and colour) conveys importance
   </figcaption>
 </figure>
 
-#### Better
+### Better
 <figure>
   <img src="images/md/4-typography-better.png" alt="figure 9">
   <figcaption>
@@ -113,7 +115,7 @@ Choosing contrasting fonts (with contrasting size and colour) conveys importance
   </figcaption>
 </figure>
 
-### 5. Proximity
+## 5. Proximity
 Items that are closer together in proximity also seem more alike.
 
 ### Meh
@@ -124,7 +126,7 @@ Items that are closer together in proximity also seem more alike.
   </figcaption>
 </figure>
 
-#### Better
+## Better
 <figure>
   <img src="images/md/5-proximity-better.png" alt="figure 11">
   <figcaption>
@@ -132,10 +134,10 @@ Items that are closer together in proximity also seem more alike.
   </figcaption>
 </figure>
 
-### 6. Negative Space
+## 6. Negative Space
 Negative space (closely related to proximity) will naturally draw the eye by _removing_ information.
 
-#### Meh
+### Meh
 <figure>
   <img src="images/md/6-negative-space-bad.png" alt="figure 12">
   <figcaption>
@@ -143,7 +145,7 @@ Negative space (closely related to proximity) will naturally draw the eye by _re
   </figcaption>
 </figure>
 
-#### Better
+### Better
 <figure>
   <img src="images/md/6-negative-space-better.png" alt="figure 13">
   <figcaption>
@@ -151,10 +153,10 @@ Negative space (closely related to proximity) will naturally draw the eye by _re
   </figcaption>
 </figure>
 
-### 7. Alignment
+## 7. Alignment
 Users who write in a left-right direction like to read in an _F pattern_
 
-#### Meh
+### Meh
 <figure>
   <img src="images/md/7-alignment-bad.png" alt="figure 14">
   <figcaption>
@@ -162,7 +164,7 @@ Users who write in a left-right direction like to read in an _F pattern_
   </figcaption>
 </figure>
 
-#### Better
+### Better
 <figure>
   <img src="images/md/7-alignment-better.png" alt="figure 15">
   <figcaption>
@@ -170,10 +172,10 @@ Users who write in a left-right direction like to read in an _F pattern_
   </figcaption>
 </figure>
 
-### 8. Rule of Odds
+## 8. Rule of Odds
 Images are more appealing when an odd number of them are applied.
 
-#### Meh
+### Meh
 <figure>
   <img src="images/md/8-rule-of-odds-bad.png" alt="figure 16">
   <figcaption>
@@ -181,7 +183,7 @@ Images are more appealing when an odd number of them are applied.
   </figcaption>
 </figure>
 
-#### Better
+### Better
 <figure>
   <img src="images/md/8-rule-of-odds-better.png" alt="figure 17">
   <figcaption>
@@ -189,10 +191,10 @@ Images are more appealing when an odd number of them are applied.
   </figcaption>
 </figure>
 
-### 9. Repetition
+## 9. Repetition
 Repetition creates a feeling of unity and cohesiveness by creating patterns for the user to recognize (consciously or not).
 
-#### Meh
+### Meh
 <figure>
   <img src="images/md/9-repetition-bad.png" alt="figure 18">
   <figcaption>
@@ -200,7 +202,7 @@ Repetition creates a feeling of unity and cohesiveness by creating patterns for 
   </figcaption>
 </figure>
 
-#### Better
+### Better
 <figure>
   <img src="images/md/9-repetition-better.png" alt="figure 19">
   <figcaption>
@@ -208,10 +210,10 @@ Repetition creates a feeling of unity and cohesiveness by creating patterns for 
   </figcaption>
 </figure>
 
-### 10. Leading Lines
+## 10. Leading Lines
 Leading lines grab the user's attention by creating a sense of movement.
 
-#### Meh
+### Meh
 <figure>
   <img src="images/md/10-leading-lines-bad.png" alt="figure 20">
   <figcaption>
@@ -219,7 +221,7 @@ Leading lines grab the user's attention by creating a sense of movement.
   </figcaption>
 </figure>
 
-#### Better
+### Better
 <figure>
   <img src="images/md/10-leading-lines-better.png" alt="figure 21">
   <figcaption>
@@ -228,10 +230,10 @@ Leading lines grab the user's attention by creating a sense of movement.
 </figure>
 
 
-### 11. The Rule of Thirds
+## 11. The Rule of Thirds
 Divide your design into a 3x3 grid with each intersection being a potential focal point for the user.
 
-#### Meh
+### Meh
 <figure>
   <img src="images/md/11-rule-of-thirds-bad.png" alt="figure 22">
   <figcaption>
@@ -239,13 +241,15 @@ Divide your design into a 3x3 grid with each intersection being a potential foca
   </figcaption>
 </figure>
 
-#### Better
+### Better
 <figure>
   <img src="images/md/11-rule-of-thirds-better.png" alt="figure 23">
   <figcaption>
   Figure 23: The model and text are more balanced. Notice that the intersections don't have to be perfect. This "rule" (like everything in this list) is more of a guideline.
   </figcaption>
 </figure>
+
+---
 
 ## Activities 
 In groups of 3 or 4:
