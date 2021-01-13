@@ -26,12 +26,12 @@ categories: dsgn270
     - Watch: [Firefox Accessibility Inspector](https://youtu.be/7mqqgIxX_NU)
 2. Print Design
     - Read: [A Brief History of Print Design](https://blog.123rf.com/history-print-design/)
-3. Visual Hierarchy
-    - Watch: [11 Visual Hierarchy Principles](https://youtu.be/ZXItTIjC0Wk) by [Visme](https://www.youtube.com/channel/UC2isRzoZisjBS6PaGWTDV0Q) (many of their videos are about their proprietary presentation slide builder)
-    - Find an example of print design in your immediate(ish) area (home, office, vehicle, etc) that you love, hate or wouldn't normally notice. You will be discussing your find in a group of 3 or 4 tomorrow.
-3. User Experience Design
+3. Web Coventions
     - Skim: [UI Design Patterns](http://ui-patterns.com/patterns)
     - Skim: Chapters 1, 2 and 3 of _Don't Make Me Think_ by Steve Krug (course textbook)
+4. Visual Hierarchy
+    - Watch: [11 Visual Hierarchy Principles](https://youtu.be/ZXItTIjC0Wk) by [Visme](https://www.youtube.com/channel/UC2isRzoZisjBS6PaGWTDV0Q) (many of their videos are about their proprietary presentation slide builder)
+    - Find an example of print design in your immediate(ish) area (home, office, vehicle, etc) that you love, hate or wouldn't normally notice. You will be discussing your find in a group of 3 or 4 tomorrow.
 
 ---
 
@@ -49,6 +49,8 @@ While this is not a design program, that doesn't mean we have to develop ugly we
   - List common website conventions.
   - Explain the relationship between information, organization and navigation.
 
+---
+
 ## Definitions
 Tony's very general definition of art:
 
@@ -58,15 +60,9 @@ Art
 Design
 : A process that **solves a problem**. Great design is intuitive.
 
-## 1. Visual Hierarchy
-In the context of print and graphic design, visual hierarchy is one of many tools that help the viewer find meaning from a "page" (e.g. resume, web page, business card, etc).
+---
 
-### Materials
-- Homework Synopsis: [Visual Hierarchy Cheatsheet]({{site.baseurl}}/cheatsheets/design/visual-hierarchy)
-- Activity: [Visual Hierarchy fishbowl]({{site.baseurl}}/cheatsheets/design/visual-hierarchy/#activities)
-
-
-## 2. Web Conventions
+## 1. Web Conventions
 The general usability principles we covered yesterday overlap heavily with those of visual heirarchy. These also extend to the world of web design in the form of conventions and design patterns.
 
 > One of the best ways to make almost anything easier to grasp in a hurry is to follow the existingconventions—the widely used or standardized design patterns.
@@ -74,5 +70,15 @@ The general usability principles we covered yesterday overlap heavily with those
 ### Materials
 - Textbook Synopsis: [Don't make me think]({{site.baseurl}}/cheatsheets/web-conventions)
 - Activity: [Convention hunt]({{site.baseurl}}/cheatsheets/web-conventions/#activities)
+
+---
+
+## 2. Visual Hierarchy
+In the context of print and graphic design, visual hierarchy is one of many tools that help the viewer find meaning from a "page" (e.g. resume, web page, business card, etc).
+
+### Materials
+- Homework Synopsis: [Visual Hierarchy Cheatsheet]({{site.baseurl}}/cheatsheets/design/visual-hierarchy)
+- Activity: [Visual Hierarchy fishbowl]({{site.baseurl}}/cheatsheets/design/visual-hierarchy/#activities)
+
 
 ## Clean Up Time!
