@@ -33,6 +33,12 @@ CPNT 201 is all about the tools that we use to support our (soon to be) coding a
 
 Today we'll be covering the core skills we'll need to use Git and GH effectively: File management and core command line skillz.
 
+
+## Pre-requisites
+- Git installed
+- GitHub account created
+- VS Code installed
+
 ---
 
 ## 1. Optional: Download Sample SAIT Directory structure
@@ -54,6 +60,7 @@ Today we'll be covering the core skills we'll need to use Git and GH effectively
     1. Navigate to the Extensions tab on the left side bar.
     2. Search for "Live Server".
     3. Install the Extension named "Live Server" (currently at version 5.6.1).
+    4. **Note**: in order for this extension to work, you need to open a _directory_, not an individual _file_.
 
 --- 
 
