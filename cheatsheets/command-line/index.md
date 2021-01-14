@@ -3,7 +3,7 @@ title: Command Line Cheatsheet
 layout: page
 ---
 
-## Definitions
+## Terms
 
 Command Line Interface (CLI)
 : An alternative to Graphical User Interfaces (GUI) that are based on mouse clicks. Terminal apps come in a few flavours; in this course you can use a unix terminal of your choice.</dd>
@@ -14,11 +14,18 @@ The Terminal
 Workspace
 : A dedicated folder(s) on your system for the projects you'll be working on.
 
+Command Prompt
+: Usually the last line shown in the terminal where you enter your commands. Often represented by a `$` or `#` in examples online (see warning below).
 
-Most of the command line tools we will be using in this course (like Git, [Node](https://nodejs.org/en/) and [NPM](https://www.npmjs.com/)) will **depend greatly on which directory you are in**. We will cover the three system commands that help up us navigate the file system.
+---
 
 **Warning**: There are two flavours of "command line": Windows and Unix. We will be using the latter: Git Bash (installed along with Git) on Windows and Terminal on Mac (Mac is unix-based so almost any terminal app will do; Tony uses [iTerm](https://iterm2.com/)). 
 {: .notice--warning}
+
+## Navigating the file system
+Most of the command line tools we will be using in this course (like Git, [Node](https://nodejs.org/en/) and [NPM](https://www.npmjs.com/)) will **depend greatly on which directory you are in**. We will cover the three system commands that help up us navigate the file system.
+
+**Note**: The examples below start with a `$`. Do not include this when typing commands; it's there to represent the command prompt.
 
 - `pwd`
   - displays your 'present working directory'. This will usually default to your home folder when you first open your terminal.
