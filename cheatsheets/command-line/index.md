@@ -2,25 +2,27 @@
 title: Command Line Cheatsheet
 layout: page
 ---
-<dl>
-  <dt>Command Line Interface (CLI)</dt>
-  <dd>An alternative to Graphical User Interfaces (GUI) that are based on mouse clicks. Terminal apps come in a few flavours; in this course you can use a unix terminal of your choice.</dd>
-  <dt>The Terminal</dt>
-  <dd>A nickname for an application that understands one or more Command Line Interfaces (CLIs).</dd>
-  <dt>Workspace</dt>
-  <dd>A dedicated folder(s) on your system for the projects you'll be working on.</dd>
-</dl>
 
-Most of the command line tools we will be using in this course (like Git, [Node](https://nodejs.org/en/) and [NPM](https://www.npmjs.com/)) will depend greatly on which folder you are in. We will cover the three system commands that help up us navigate the file system.
+## Definitions
+
+Command Line Interface (CLI)
+: An alternative to Graphical User Interfaces (GUI) that are based on mouse clicks. Terminal apps come in a few flavours; in this course you can use a unix terminal of your choice.</dd>
+
+The Terminal
+: A nickname for an application that understands one or more Command Line Interfaces (CLIs).
+
+Workspace
+: A dedicated folder(s) on your system for the projects you'll be working on.
+
+
+Most of the command line tools we will be using in this course (like Git, [Node](https://nodejs.org/en/) and [NPM](https://www.npmjs.com/)) will **depend greatly on which directory you are in**. We will cover the three system commands that help up us navigate the file system.
 
 **Warning**: There are two flavours of "command line": Windows and Unix. We will be using the latter: Git Bash (installed along with Git) on Windows and Terminal on Mac (Mac is unix-based so almost any terminal app will do; Tony uses [iTerm](https://iterm2.com/)). 
 {: .notice--warning}
 
 - `pwd`
   - displays your 'present working directory'. This will usually default to your home folder when you first open your terminal.
-- `ls`
-  - Lists the contents of your current directory. 
-  - The `-l` flag lists extra information and `-a` lists hidden files. `-la` will list extra information and also all hidden files. Examples:
+- `ls`: Lists the contents of your current directory. The `-l` **flag** lists extra information and `-a` lists hidden files. `-la` will list extra information _and_ also all hidden files. Examples:
     - `$ ls` (lists file and directory name of the current folder)
     - `$ ls -l` (lists full directory information)
     - `$ ls -a` (lists hidden files)
@@ -30,7 +32,7 @@ Most of the command line tools we will be using in this course (like Git, [Node]
   - `$ cd /` (moves to the top root folder)
   - `$ cd` (moves to user home folder)
   - `$ cd ..` (moves up one directory level)
-  - `$ cd ../../new-directory` (moves up two directories and into "new-directory")
+  - `$ cd ../../some-directory` (moves up two directories and into "some-directory")
 
 **CLI Quality of Life Tip #1**: The tab key auto-completes file names and directories.
 {: .notice--info}
