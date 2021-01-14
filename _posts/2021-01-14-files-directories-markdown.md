@@ -17,3 +17,10 @@ categories: cpnt201
     - Reference: [Getting Started with VS Code](https://code.visualstudio.com/learn/get-started/basics)
 
 ---
+
+CPNT 201 is all about the tools that we use to support our (soon to be) coding addiction. It's a course that is spread out over the program in four parts:
+
+1. **Today**: Git and Github
+2. **Feb 3**: Raster Image software (i.e. Photoshop, in the before times)
+3. **Feb 8**: Vector Image software (i.e. Illustrator, in the before times)
+4. **Mar 2**: Build Tools (Sass, minification)
