@@ -20,7 +20,29 @@ categories: cpnt201
 
 CPNT 201 is all about the tools that we use to support our (soon to be) coding addiction. It's a course that is spread out over the program in four parts:
 
-1. **Today**: Git and Github
+1. **Starting Today**: Git and Github (mostly tomorrow)
 2. **Feb 3**: Raster Image software (i.e. Photoshop, in the before times)
 3. **Feb 8**: Vector Image software (i.e. Illustrator, in the before times)
 4. **Mar 2**: Build Tools (Sass, minification)
+
+Today we'll be covering the core skills we'll need to use Git and GH effectively.
+
+{% comment %}
+
+---
+
+## 1. Sample SAIT Directory structure
+1. Find this Remote Repo on GH Pages: [https://github.com/sait-wbdv/sait-sample](https://github.com/sait-wbdv/sait-sample)
+2. Download a ZIP of this directory under the green `Code` menu.
+3. Extract the archive and rename/move the directory to a convenient location on your machine.
+4. There are README files in each sub directory to show you how to use them.
+
+---
+
+## VS Code initial setup
+1. 
+
+## Terminal demo
+## Cloning your first repo
+
+{% endcomment %}
