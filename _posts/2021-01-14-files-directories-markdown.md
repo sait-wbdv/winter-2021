@@ -4,6 +4,12 @@ title: Files, Directories and the Command Line
 categories: cpnt201
 ---
 
+## Housekeeping
+1. Git Poll
+2. "Remember me on this device"
+3. Aside: Password management
+    - Tony recommends using a password manager. He uses [LastPass](https://www.lastpass.com/).
+
 ## Homework
 1. Review
     - [Markdown Cheatsheet](https://www.markdownguide.org/cheat-sheet/)
@@ -35,6 +41,9 @@ Today we'll be covering the core skills we'll need to use Git and GH effectively
 3. Extract the archive and rename/move the directory to a convenient location on your machine.
 4. There are README files in each sub directory to show you how to use them.
 
+### Relevant Cheatsheets
+- [Naming Convensions Cheatsheet]({{site.baseurl}}/cheatsheets/naming-conventions)
+
 ---
 
 ## 2. VS Code initial setup
@@ -49,7 +58,8 @@ Today we'll be covering the core skills we'll need to use Git and GH effectively
 --- 
 
 ## 3. Terminal demo
-- See: [Command Line Cheatsheet]({{site.baseurl}}/cheatsheets/command-line)
+### Relevant Cheatsheets
+- [Command Line Cheatsheet]({{site.baseurl}}/cheatsheets/command-line)
 
 ### Activity: Follow the white rabbit
 _If you've downloaded the default directory above:_
