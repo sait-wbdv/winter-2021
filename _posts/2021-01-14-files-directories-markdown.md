@@ -49,7 +49,7 @@ Today we'll be covering the core skills we'll need to use Git and GH effectively
 --- 
 
 ## 3. Terminal demo
-See: [Command Line Cheatsheet]({{site.baseurl}}/cheatsheets/command-line)
+- See: [Command Line Cheatsheet]({{site.baseurl}}/cheatsheets/command-line)
 
 ### Activity: Follow the white rabbit
 _If you've downloaded the default directory above:_
