@@ -6,20 +6,24 @@ layout: page
 - [Dealing with files](https://developer.mozilla.org/en-US/docs/Learn/Getting_started_with_the_web/Dealing_with_files)
 - [Absolute vs Relative file paths](https://www.coffeecup.com/help/articles/absolute-vs-relative-pathslinks/)
 
-<dl>
-  <dt>Directory</dt>
-  <dd>Equivalent to a folder on a file system. "Directory" sounds more nerdy.</dd>
-  <dt>Root Directory</dt>
-  <dd>The top folder of any given server "context". On your local file system, the root directory is the top directory on your hard drive. For a website, it's the top directory under a domain name.</dd>
-  <dt>Current Working Directory</dt>
-  <dd>Your current location in a command line application. a.k.a. Present Working Directory</dd>
-  <dt>Relative File Path</dt>
-  <dd>A partial path (there is no leading slash) that is relative to the current working directory. Example: `images/pic1.png`</dd>
-  <dt>Absolute File Path</dt>
-  <dd>A full path (starts with a leading slash) that points to the same location in a file system, regardless of the current working directory. The leading slash make the path relative to the root directory. Example: `/Users/tony/Documents`</dd>
-</dl>
+## Terms
+Directory
+: Equivalent to a folder on a file system. "Directory" sounds more nerdy.
 
-**Warning**: Absolute and relative paths have a slightly different definition in the context of HTML links. Absolute paths are full URLs with protocol and domain information. Relative paths are all others, including links that start with a leading slash.
+Root Directory
+: The top folder of any given server "context". On your local file system, the root directory is the top directory on your hard drive. For a website, it's the top directory under a domain name.
+
+Current Working Directory
+: Your current location in a command line application. a.k.a. Present Working Directory
+
+Relative File Path
+: A partial path (there is no leading slash) that is relative to the current working directory. Example: `images/pic1.png`
+
+Absolute File Path
+: A full path (starts with a leading slash) that points to the same location in a file system regardless of the current working directory. The leading slash make the path relative to the root 
+directory. Example: `/Users/tony/Documents`
+
+**Warning**: Absolute and relative paths have a slightly different definition in the context of HTML links (CPNT 260). Absolute paths are full URLs with protocol and domain information. Relative paths are all others, including links that start with a leading slash.
 {: .notice--warning}
 
 ## File naming conventions/guidelines
@@ -30,6 +34,19 @@ layout: page
 - In general, use lower case characters. Note: exceptions include README files, DOCTYPEs, function constructors (not covered deeply in this course) and a few others.
 
 ## Directory structure conventions
+
+### SAIT WBDV Fast Track
+`default` directory structure for this program:
+
+    ```
+    - sait-wbdv
+    --- _materials
+    --- inclass
+    --- assignments
+    --- projects
+    ```
+
+
 ### Static websites
 
     ```
