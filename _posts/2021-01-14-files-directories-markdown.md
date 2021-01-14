@@ -57,7 +57,7 @@ _If you've downloaded the default directory above:_
 1. Open the following file in VS Code:
 
     ```
-    /in-class/W1R/wite-rabbit.md
+    /in-class/W1R/white-rabbit.md
     ```
 
 2. Follow the instructions in this file.
