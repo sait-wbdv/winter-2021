@@ -34,51 +34,51 @@ directory. Example: `/Users/tony/Documents`
 - In general, use lower case characters. Note: exceptions include README files, DOCTYPEs, function constructors (not covered deeply in this course) and a few others.
 
 ## Directory structure conventions
-
 ### SAIT WBDV Fast Track
 `default` directory structure for this program:
 
     ```
-    - sait-wbdv
-    --- _materials
-    --- inclass
-    --- assignments
-    --- projects
+    - /sait-wbdv
+    --- /_materials
+    --- /in-class
+    --- /assignments
+    --- /projects
     ```
 
+Download a copy of this structure here: [https://github.com/sait-wbdv/default-dirs](https://github.com/sait-wbdv/default-dirs)
 
 ### Static websites
 
-    ```
-    /index.html
-    /css
-      /reset.css
-      /main.css (or styles.css)
-    /js
-      /app.js (or index.js)
-    /images
-      /logo.png
-    /README.md
+    ```shell
+    - /css
+    --- /main.css (or styles.css)
+    - /images
+    --- /logo.png
+    - /js
+    ----- /client.js
+    - /index.html
+    - /README.md
     ```
 
 ### Project workspaces
-A Git "repo" is really just a fancy folder. It's important that you don't create a repo inside another repo.
+A Git "repo" is really just a fancy folder, although, it's important that you don't create a repo inside another repo.
 
 In this program, it's recommended you create a dedicated "workspace" folder that will contain a flat list of repos (a.k.a. fancy folders) that you will be creating for lessons and assignments.
 
 Example structure:
 
     ```
-    /repo-1
-      /index.html
-      /css
-        /reset.css
-        /main.css (or styles.css)
-      /js
-        /app.js (or index.js)
-      /README.md
-    /repo-2
-    /repo-3
-    /etc
+    /projects
+      /repo-1
+        /index.html
+        /css
+          /reset.css
+          /main.css (or styles.css)
+        /js
+          /app.js (or index.js)
+        /README.md
+      /repo-2
+      /repo-3
+      /etc
     ```
 
