@@ -1,7 +1,8 @@
 ---
-title: "First Time Setup"
+title: "Git and GitHub"
 layout: page
 ---
+
 ## Prerequisites 
 - Git installed
 
@@ -28,10 +29,15 @@ See: [How to show or change your Git username or email address](https://alvinale
     $ git config --global user.email johndoe@example.com
     ```
 
-3. To list your global configuration settings:
+3. To list all your global configuration settings:
 
     ```shell
     $ git config --list
     ```
 
-    
+## Relevant Cheatsheets
+- [Cloning a read-only repo]({{site.baseurl}}/cheatsheets/git-gh/read-only-repo)
+- [Initializing a new local repo]({{site.baseurl}}/cheatsheets/git-gh/init-local)
+- [Commiting changes to a local repo]({{site.baseurl}}/cheatsheets/git-gh/add-commit)
+- [Create and sync a remote repo]({{site.baseurl}}/cheatsheets/git-gh/sync-remote)
+- [Push commits to a remote repo]({{site.baseurl}}/cheatsheets/git-gh/push-remote)
