@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Files, Directories and the Command Line
+title: Git and Github
 categories: cpnt201
 ---
 
