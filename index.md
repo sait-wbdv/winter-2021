@@ -7,10 +7,10 @@ title: "Program Schedule"
 - T: DSGN 270 Day 1 - [Usability and Accessibility](/winter-2021{% link _posts/2021-01-12-ux-accessibility.md %})
 - W: DSGN 270 Day 2 - [Visual Hierarchy in Design](/winter-2021{% link _posts/2021-01-13-visual-hierarchy-design.md %})
 - R: CPNT 201 Day 1 - [Files, Directories and the Command Line](/winter-2021{% link _posts/2021-01-14-files-directories-markdown.md %})
-- F: CPNT 201 Day 2 - Introduction to Git and GitHub
+- F: CPNT 201 Day 2 - [Introduction to Git and GitHub](/winter-2021{% link _posts/2021-01-14-files-directories-markdown.md %})
 
 ## Week 2: Jan 18-22
-- M: DSGN 270 Day 3 - Mobile Fundamentals
+- M: DSGN 270 Day 3 - [Mobile Fundamentals](/winter-2021{% link _posts/2021-01-18-responsive-web.md %})
 - T: DSGN 270 Day 4 - Copyright, Licensing and Assets
 - W: CPNT 260 Day 1 - Web Page Fundamentals (HTML/CSS)
 - R: CPNT 260 Day 2

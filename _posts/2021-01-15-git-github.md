@@ -4,9 +4,8 @@ title: Files, Directories and the Command Line
 categories: cpnt201
 ---
 
-See: [Terminology]({{site.baseurl}}/cheatsheets/git-gh/#setup)
+See: [Terminology]({{site.baseurl}}/cheatsheets/git-gh/#terms)
 
----
 ## Relevant Cheatsheets
 - [First Time Setup]({{site.baseurl}}/cheatsheets/git-gh/setup)
 - [Cloning a read-only repo]({{site.baseurl}}/cheatsheets/git-gh/read-only-repo)
@@ -16,6 +15,5 @@ See: [Terminology]({{site.baseurl}}/cheatsheets/git-gh/#setup)
 - [Push commits to a remote repo]({{site.baseurl}}/cheatsheets/git-gh/push-remote)
 
 ---
-
 
 ## Clean-up Time!
