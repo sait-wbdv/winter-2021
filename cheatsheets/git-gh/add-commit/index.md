@@ -39,7 +39,7 @@ An example routine most developers will follow in a given work-day:
 5. Commit your changes:
 
     ```
-    git commit -m "concise description of your changes"
+    $ git commit -m "concise description of your changes"
     ```
     
     If you forget to add the `-m "<message>"`, Git will probably open your default command line file editor (probably Vim) so you can add your change manually (not fun for beginners).
@@ -47,7 +47,7 @@ An example routine most developers will follow in a given work-day:
 6. Confirm that you have a clean "working tree":
 
     ```
-    git status
+    $ git status
     ```
 
 7. Make some changes to your code and start again at Step 2. You should be committing changes to your local repo at least at the end of a work day/session.

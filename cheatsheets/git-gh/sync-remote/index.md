@@ -11,7 +11,7 @@ Origin
 : A shorthand name for the default remote repository URL.
 
 ### Assumptions
-- Git installed
+- Git installed and [configured]({{site.baseurl}}/cheatsheets/git-gh/setup)
 - GitHub Account created
 - Existing local repo exists (with no linked remotes)
 

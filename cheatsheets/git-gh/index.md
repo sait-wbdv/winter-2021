@@ -45,6 +45,15 @@ Fork a Repository
 Commit Changes to a Repository
 : A saved "snapshot" of the repo at any given time using the `git commit` command.
 
+Unstaged changes
+: Changes to a file (modified, moved or deleted) that have not been added to the staging area.
+
+Staged file
+: A file that has changes ready to be commited. Files are staged using the `git add`.
+
+Untracked file
+: A file that has never been staged using `git add`.
+
 Stage a File(s) to be Committed
 : Git is an "opt-in" environment. Changes to a file need to be "staged" before they can be committed to a repo. You do this using the `git add` command.
 

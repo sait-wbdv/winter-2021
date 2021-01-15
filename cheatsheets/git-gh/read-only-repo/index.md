@@ -11,9 +11,9 @@ Read-only Repo
 
 ## Prerequisites
 - Git installed
-- Public remote repo that's not your own
+- Public remote repo
 
-## Cloning a 3rd-party repo
+## Cloning a repo
 1. Using the terminal, navigate to the directory you will be storing the repos associated with this program.
 2. Confirm that you are not already in a git repository:
 
