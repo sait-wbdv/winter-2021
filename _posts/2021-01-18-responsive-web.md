@@ -32,6 +32,9 @@ Desktop vs Mobile Web
 Native App vs Web App Screen Time
 : A comparison of average time spent "on-screen" between web and native phone applications.
 
+### Materials
+- [Web Statistics Cheatsheet]({{site.baseurl}}/cheatsheets/mobile-stats)
+
 ### Activity: How is mobile unique?
 You will work in groups of 3 or 4 for this activity. 
 
@@ -40,7 +43,7 @@ Beyond the obvious difference in screen size, discuss how mobile is different th
 - Do users have the same goals when browsing on a phone vs browsing on a laptop or desktop? If not, what's different?
 - What problems are mobile users often trying to solve?
 
-Please add a comment your phone make and model in [this Issue](https://github.com/sait-wbdv/sait-wbdv.github.io/issues/7) 
+Post your phone make and model in `#winter-2021`
 
 #### Spoilers
 - what are the device differences?
@@ -54,6 +57,8 @@ Please add a comment your phone make and model in [this Issue](https://github.co
   - camera
   - accelerometer
 
+---
+
 ## 2. Common Mobile Design Patterns
 ### Learning Objectives
 - Identify common design patterns for responsive web development.
@@ -62,29 +67,36 @@ Please add a comment your phone make and model in [this Issue](https://github.co
 - Locate the box model diagram in FireFox Developer Tools
 
 ### Terminology
-Web Responsiveness
-: A Web development concept focusing on making sites look and behave optimally on all personal computing devices, from desktop to mobile.
+Responsive Web
+: A Web development concept focusing on making sites look and behave optimally on all devices, from desktop to mobile, using the same served web files.
+
+Adaptive Web
+: An outdated method of serving specialized content files to a browser based on the device it's running on.
+
+Content Parity
+: A measure of content consistency between mobile and desktop versions of the same website.
 
 Viewport
 : The viewable area of a website within the browser window.
 
 Media Queries
-: A feature of CSS that enable webpage content to adapt to different screen sizes, orientations, aspect ratios and mediums (e.g. print vs screen).
+: A feature of CSS that enables webpage content to adapt to different screen sizes, orientations, aspect ratios and mediums (e.g. print vs screen). It does this with conditional code blocks (i.e. modified `if` statements).
 
 Breakpoint
-: Points in responsive design where website presentation responds to changing viewport characteristics (width, orientation, etc).
+: Points in responsive design where website presentation obviously changes due to changing viewport characteristics (width, orientation, etc).
 
 Hamburger Menu
-: A button in websites and apps that typically opens up into a side menu or navigation drawer.
+: A button in websites and apps that typically opens up into a vertical menu or navigation drawer.
 
 Card Pattern
 : A convenient means of displaying content composed of different types of objects. They are also well-suited for presenting similar objects whose size or supported actions can vary considerably, like photos with captions of variable length
 
-See: 
-- Codepen: [Responsive Text: Max line length with scroll track](https://codepen.io/browsertherapy/pen/RwaJmbx)
-- Codepen: [Starter - Responsive Text: Max line length with scroll track](https://codepen.io/browsertherapy/pen/dyMKEzd)
-- Codepen: [Puppy Card](https://codepen.io/browsertherapy/pen/mdPWXZb)
-- Codepen: [Basic 1x3 Card Pattern](https://codepen.io/browsertherapy/pen/vYGxRNB)
+### Materials
+- [Responsive Design Cheatsheet]({{site.baseurl}}/cheatsheets/responsive-design)
+- Examples: 
+  - Codepen: [Responsive Text: Max line length with scroll track](https://codepen.io/browsertherapy/pen/RwaJmbx)
+  - Codepen: [Puppy Card](https://codepen.io/browsertherapy/pen/mdPWXZb)
+  - Codepen: [Basic 1x3 Card Pattern](https://codepen.io/browsertherapy/pen/vYGxRNB)
 
 ### Activity: Dev Tools vs Mobile Devices
 You will work in groups of 3 or 4 for this activity.
@@ -93,9 +105,11 @@ Compare and contrast the visual appearance of your favourite mobile websites bet
 1. The virtual mobile simulator in FireFox Dev Tools, and
 2. A real mobile device.
 
-How accurate is the phone simulator in FireFox (or Chrome)? Submit screencaps to [this Issue](https://github.com/sait-wbdv/sait-wbdv.github.io/issues/8).
+How accurate is the phone simulator in FireFox (or Chrome)? Is there content parity between mobile and desktop versions of the website?
 
 Select a representative from each group to present a summary of your findings to the rest of the class.
+
+---
 
 ## Clean up time!
 
