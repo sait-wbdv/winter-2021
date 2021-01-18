@@ -10,7 +10,12 @@ categories: cpnt260
     - Choose an open-source web document (e.g. a Wikipedia page) explaining a favourite topic of your choice.
 2. Tool Time
     - Watch: [Introduction to Pair Programming](https://www.youtube.com/watch?v=vgkahOzFH2Q)
-    - Video: [Why are there Four Firefoxes?](https://youtu.be/qQ1oQJJn1nQ){:target="_blank"}
+    - Video: [Why are there Four Firefoxes?](https://youtu.be/qQ1oQJJn1nQ)
+    - Watch: [Getting started with Codepen](https://www.youtube.com/watch?v=vb9uYBtqmeM)
+    - Reference: 
+        - [Can I Use?](https://caniuse.com/)
+        - [CSS Tricks](https://css-tricks.com/)
+        - [Stack Overflow](https://stackoverflow.com/)
 3. Introduction: HTML and CSS
     - Watch: [Why is CSS So Weird?](https://www.youtube.com/watch?v=aHUtMbJw8iA)
     - Read: [HTML basics](https://developer.mozilla.org/en-US/docs/Learn/Getting_started_with_the_web/HTML_basics)
