@@ -13,8 +13,8 @@ title: "Program Schedule"
 - M: DSGN 270 Day 3 - [Mobile Fundamentals](/winter-2021{% link _posts/2021-01-18-responsive-web.md %})
 - T: DSGN 270 Day 4 - [Performance, Copyright and Licensing](/winter-2021{% link _posts/2021-01-19-performance-copyright-licensing.md %})
 - W: CPNT 260 Day 1 - [Long Form Text](/winter-2021{% link _posts/2021-01-20-long-form-text.md %})
-- R: CPNT 260 Day 2 - Typography
-- F: CPNT 260 Day 3 - Headers, Footers and Semantics
+- R: CPNT 260 Day 2 - [Typography and Text-based Units](/winter-2021{% link _posts/2021-01-21-typography.md %})
+- F: CPNT 260 Day 3 - [Semantics, Navigation and HTML Images](/winter-2021{% link _posts/2021-01-22-headers-footers-nav.md %})
 
 ## Week 3: Jan 25-29
 - M: CPNT 260 Day 4
