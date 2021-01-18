@@ -3,6 +3,9 @@ layout: page
 title: Responsive Web
 ---
 
+## Housekeeping
+1. Poll: iOS vs Android
+
 ## Homework
 1. Background
     - Read: [The web and web standards](https://developer.mozilla.org/en-US/docs/Learn/Getting_started_with_the_web/The_web_and_web_standards) by the [Mozilla Developer Network](https://developer.mozilla.org/en-US/docs/Learn) (link to their Learning Area)
@@ -32,6 +35,8 @@ Native App vs Web App Screen Time
 
 ### Materials
 - [Web Statistics Cheatsheet]({{site.baseurl}}/cheatsheets/mobile-stats)
+
+---
 
 ### Activity: How is mobile unique?
 You will work in groups of 3 or 4 for this activity. 
@@ -98,6 +103,8 @@ Card Pattern
   - Codepen: [Puppy Card](https://codepen.io/browsertherapy/pen/mdPWXZb)
   - Codepen: [Basic 1x3 Card Pattern](https://codepen.io/browsertherapy/pen/vYGxRNB)
   - Fancy pants: [Jen Simmon's Lab Website](https://labs.jensimmons.com/)
+
+---
 
 ### Activity: Dev Tools vs Mobile Devices
 You will work in groups of 3 or 4 for this activity.
