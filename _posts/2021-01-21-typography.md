@@ -13,7 +13,7 @@ categories: cpnt260
 3. Web Typography
     - Read: [Fundamental text and font styling](https://developer.mozilla.org/en-US/docs/Learn/CSS/Styling_text/Fundamentals)
     - Find some favourite Google Fonts for your text
-        - Search: [best google font combinations](https://www.google.com/search?client=firefox-b-d&q=best+google+font+combinations)
+        - Search: [best google font combinations](https://www.google.com/search?q=best+google+font+combinations)
         - [Google Fonts](https://fonts.google.com/)
 4. Fluid Typography
     - Skim: [Fluid Typography](https://css-tricks.com/simplified-fluid-typography/) on CSS Tricks

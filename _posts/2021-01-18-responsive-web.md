@@ -5,6 +5,7 @@ title: Responsive Web
 
 ## Housekeeping
 1. Poll: iOS vs Android
+2. Homework for Week 2
 
 ## Homework
 1. Background

@@ -11,7 +11,6 @@ categories: cpnt260
 2. Tool Time
     - Watch: [Introduction to Pair Programming](https://www.youtube.com/watch?v=vgkahOzFH2Q)
     - Video: [Why are there Four Firefoxes?](https://youtu.be/qQ1oQJJn1nQ)
-    - Watch: [Getting started with Codepen](https://www.youtube.com/watch?v=vb9uYBtqmeM)
     - Reference: 
         - [Can I Use?](https://caniuse.com/)
         - [CSS Tricks](https://css-tricks.com/)

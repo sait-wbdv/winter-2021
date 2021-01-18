@@ -14,7 +14,7 @@ title: "Program Schedule"
 - T: DSGN 270 Day 4 - [Performance, Copyright and Licensing](/winter-2021{% link _posts/2021-01-19-performance-copyright-licensing.md %})
 - W: CPNT 260 Day 1 - [Long Form Text](/winter-2021{% link _posts/2021-01-20-long-form-text.md %})
 - R: CPNT 260 Day 2 - [Typography and Text-based Units](/winter-2021{% link _posts/2021-01-21-typography.md %})
-- F: CPNT 260 Day 3 - [Semantics, Navigation and HTML Images](/winter-2021{% link _posts/2021-01-22-headers-footers-nav.md %})
+- F: CPNT 260 Day 3 - [Page Structure, Navigation and HTML Images](/winter-2021{% link _posts/2021-01-22-structure-nav-images.md %})
 
 ## Week 3: Jan 25-29
 - M: CPNT 260 Day 4
