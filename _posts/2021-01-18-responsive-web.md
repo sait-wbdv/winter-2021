@@ -50,7 +50,6 @@ Beyond the obvious difference in screen size, discuss how mobile is different th
 
 Post your phone make and model in `#winter-2021`
 
-{% comment %}
 #### Spoilers
 - what are the device differences?
   - landscape vs portrait
@@ -62,8 +61,11 @@ Post your phone make and model in `#winter-2021`
   - location -> maps
   - camera
   - accelerometer
+  - RFID
+  - Biometric authentication
+  - File storage
+  - mobile connection
 
-{% endcomment %}
 ---
 
 ## 2. Common Mobile Design Patterns
