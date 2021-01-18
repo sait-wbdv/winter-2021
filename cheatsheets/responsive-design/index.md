@@ -3,22 +3,23 @@ layout: page
 title: "Responsive Fundamentals"
 ---
 
-See: [The building blocks of responsive design](https://developer.mozilla.org/en-US/docs/Web/Progressive_web_apps/Responsive/responsive_design_building_blocks)
+## Key Takeaway: Responsive layout is all about width.
+Horizontal scroll bars should be avoided in most circumstances.Since screen widths will vary from `400px` to at least `2000px`, this constraint leads to a number of common design patterns:
 
-## Readable Text
-Readable text is a balance of the following fundamental characteristics of typography:
-- [Font size](https://developer.mozilla.org/en-US/docs/Web/CSS/font-size) 
-  - The base font size is often declared in `px` units on the parent `body` element. 
-  - Derivative font sizes (such as for headings, navigation, etc) are usually declared on their respective elements (`h1`, `nav`, etc) in either `em` or `rem` units.
-  - The default font size in most browsers is `16px`.
-- [Line height](https://developer.mozilla.org/en-US/docs/Web/CSS/line-height)
-  - Line height greatly depends on a lot of factors such as:
-    - The font family being used;
-    - Font size and line length;
-    - The contrast ratio of the text to its background.
-  - The default is usually 1.2. 
-- Line length
-  - Max line length for print: 95 [characters](https://css-tricks.com/the-lengths-of-css/#ch)
-  - Max line length for web: 75-85 characters
-  - Min (multi)line length for web: ~20 characters
+### Text Line length
+Text is most readable at line lengths between 30 and 90 characters long. **This should be a priority** when planning out a design (also see [readable text](../web-typography)).
+- Font-size should be smaller on mobile screens to ensure a line length of at least 30 characters.
+- Text boxes should have a maximum width set, in order to prevent line lengths of more than 90 characters.
+- Given their larger `font-size`, multi-line headings are often readable at lengths shorter than 30 characters.
 
+### Images, Cards and Galleries
+Responsive content often follows the [card pattern] in order to simplify the layouts required for varying screen widths.
+- An image will often scale to fit the width of its parent container (which could be a card or an entire column on a page).
+- When a row of multiple cards or images are too wide for the screen, they will wrap and create more rows.
+- In general, layouts and galleries will be a single column on mobile and multiple columns at larger screen widths.
+- To accomodate very large screen widths, (`2000px` or larger) page of content will often reach a maximum width and distribute extra negative space equally on either side of the page.
+
+### Navigation
+It's imperative that page navigation is not compromized at any screen width. When a screen is too narrow for a horizontal navigation menu, it will usually either:
+- become a veritical navigation menu, or
+- be replaced by a hamburger menu that will toggle a vertical naivation menu.

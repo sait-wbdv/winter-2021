@@ -26,12 +26,11 @@ title: Responsive Web
 - Discuss the relative screen time spent on mobile apps vs mobile web sites.
 
 ### Terminology
-<dl>
-  <dt>Desktop vs Mobile Web</dt>
-  <dd>A comparison of web traffic between desktop and mobile platforms.</dd>
-  <dt>Native App vs Web App Screen Time</dt>
-  <dd>A comparison of average time spent "on-screen" between web and native phone applications.</dd>
-</dl>
+Desktop vs Mobile Web
+: A comparison of web traffic between desktop and mobile platforms.
+
+Native App vs Web App Screen Time
+: A comparison of average time spent "on-screen" between web and native phone applications.
 
 ### Activity: How is mobile unique?
 You will work in groups of 3 or 4 for this activity. 
@@ -63,24 +62,25 @@ Please add a comment your phone make and model in [this Issue](https://github.co
 - Locate the box model diagram in FireFox Developer Tools
 
 ### Terminology
-<dl>
-  <dt>Web Responsiveness</dt>
-  <dd>A Web development concept focusing on making sites look and behave optimally on all personal computing devices, from desktop to mobile.</dd>
-  <dt>Viewport</dt>
-  <dd>The viewable area of a website within the browser window.</dd>
-  <dt>Media Queries</dt>
-  <dd>A feature of CSS that enable webpage content to adapt to different screen sizes, orientations, aspect ratios and mediums (e.g. print vs screen).</dd>
-  <dt>Breakpoint</dt>
-  <dd>Points in responsive design where website presentation responds to changing viewport characteristics (width, orientation, etc).</dd>
-  <dt>Hamburger Menu</dt>
-  <dd>A button in websites and apps that typically opens up into a side menu or navigation drawer.</dd>
-  <dt>Card Pattern</dt>
-  <dd>A convenient means of displaying content composed of different types of objects. They are also well-suited for presenting similar objects whose size or supported actions can vary considerably, like photos with captions of variable length</dd>
-</dl>
+Web Responsiveness
+: A Web development concept focusing on making sites look and behave optimally on all personal computing devices, from desktop to mobile.
+
+Viewport
+: The viewable area of a website within the browser window.
+
+Media Queries
+: A feature of CSS that enable webpage content to adapt to different screen sizes, orientations, aspect ratios and mediums (e.g. print vs screen).
+
+Breakpoint
+: Points in responsive design where website presentation responds to changing viewport characteristics (width, orientation, etc).
+
+Hamburger Menu
+: A button in websites and apps that typically opens up into a side menu or navigation drawer.
+
+Card Pattern
+: A convenient means of displaying content composed of different types of objects. They are also well-suited for presenting similar objects whose size or supported actions can vary considerably, like photos with captions of variable length
 
 See: 
-- [The building blocks of responsive design](https://developer.mozilla.org/en-US/docs/Web/Progressive_web_apps/Responsive/responsive_design_building_blocks)
-- [Responsive Text Cheatsheet]({{site.baseurl}}/cheatsheets/design/responsiveness)
 - Codepen: [Responsive Text: Max line length with scroll track](https://codepen.io/browsertherapy/pen/RwaJmbx)
 - Codepen: [Starter - Responsive Text: Max line length with scroll track](https://codepen.io/browsertherapy/pen/dyMKEzd)
 - Codepen: [Puppy Card](https://codepen.io/browsertherapy/pen/mdPWXZb)
@@ -96,9 +96,6 @@ Compare and contrast the visual appearance of your favourite mobile websites bet
 How accurate is the phone simulator in FireFox (or Chrome)? Submit screencaps to [this Issue](https://github.com/sait-wbdv/sait-wbdv.github.io/issues/8).
 
 Select a representative from each group to present a summary of your findings to the rest of the class.
-
-## 3. Performance Audits
-Pushed to tomorrow.
 
 ## Clean up time!
 
