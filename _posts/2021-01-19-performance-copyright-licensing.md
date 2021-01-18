@@ -1,6 +1,7 @@
 ---
-layout: page
+layout: post
 title: Performance, Copyright and License
+categories: dsgn270
 ---
 
 ## Homework

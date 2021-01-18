@@ -1,6 +1,7 @@
 ---
-layout: page
+layout: post
 title: Responsive Web
+categories: dsgn270
 ---
 
 ## Housekeeping
