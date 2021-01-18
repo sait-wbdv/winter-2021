@@ -16,8 +16,6 @@ title: Responsive Web
 
 ---
 
-{% comment %}
-
 ## 1. The Evolution of Web Layout
 ### Learning Objectives
 - Describe responsive design and what problem it tries to solve.
@@ -45,6 +43,7 @@ Beyond the obvious difference in screen size, discuss how mobile is different th
 
 Post your phone make and model in `#winter-2021`
 
+{% comment %}
 #### Spoilers
 - what are the device differences?
   - landscape vs portrait
@@ -57,6 +56,7 @@ Post your phone make and model in `#winter-2021`
   - camera
   - accelerometer
 
+{% endcomment %}
 ---
 
 ## 2. Common Mobile Design Patterns
@@ -67,30 +67,6 @@ Post your phone make and model in `#winter-2021`
 - Locate the box model diagram in FireFox Developer Tools
 
 ### Terminology
-<<<<<<< HEAD
-<dl>
-  <dt>Web Responsiveness</dt>
-  <dd>A Web development concept focusing on making sites look and behave optimally on all personal computing devices, from desktop to mobile.</dd>
-  <dt>Viewport</dt>
-  <dd>The viewable area of a website within the browser window.</dd>
-  <dt>Media Queries</dt>
-  <dd>A feature of CSS that enable webpage content to adapt to different screen sizes, orientations, aspect ratios and mediums (e.g. print vs screen).</dd>
-  <dt>Breakpoint</dt>
-  <dd>Points in responsive design where a web page "snaps" to a distinct presentation based on changing viewport characteristics (width, orientation, etc). Media queries are a classic method of creating a breakpoint(s).</dd>
-  <dt>Hamburger Menu</dt>
-  <dd>A button in websites and apps that typically opens up into a side menu or navigation drawer.</dd>
-  <dt>Card Pattern</dt>
-  <dd>A convenient means of displaying content composed of different types of objects. They are also well-suited for presenting similar objects whose size or supported actions can vary considerably, like photos with captions of variable length</dd>
-</dl>
-
-See: 
-- [The building blocks of responsive design](https://developer.mozilla.org/en-US/docs/Web/Progressive_web_apps/Responsive/responsive_design_building_blocks)
-- [Responsive Text Cheatsheet]({{site.baseurl}}/cheatsheets/design/responsiveness)
-- Codepen: [Responsive Text: Max line length with scroll track](https://codepen.io/browsertherapy/pen/RwaJmbx)
-- Codepen: [Starter - Responsive Text: Max line length with scroll track](https://codepen.io/browsertherapy/pen/dyMKEzd)
-- Codepen: [Puppy Card](https://codepen.io/browsertherapy/pen/mdPWXZb)
-- Codepen: [Basic 1x3 Card Pattern](https://codepen.io/browsertherapy/pen/vYGxRNB)
-=======
 Responsive Web
 : A Web development concept focusing on making sites look and behave optimally on all devices, from desktop to mobile, using the same served web files.
 
@@ -121,7 +97,7 @@ Card Pattern
   - Codepen: [Responsive Text: Max line length with scroll track](https://codepen.io/browsertherapy/pen/RwaJmbx)
   - Codepen: [Puppy Card](https://codepen.io/browsertherapy/pen/mdPWXZb)
   - Codepen: [Basic 1x3 Card Pattern](https://codepen.io/browsertherapy/pen/vYGxRNB)
->>>>>>> fe3eac43515b5130f16b5bbe580010a1200abc92
+  - Fancy pants: [Jen Simmon's Lab Website](https://labs.jensimmons.com/)
 
 ### Activity: Dev Tools vs Mobile Devices
 You will work in groups of 3 or 4 for this activity.
@@ -137,5 +113,3 @@ Select a representative from each group to present a summary of your findings to
 ---
 
 ## Clean up time!
-
-{% endcomment %}
