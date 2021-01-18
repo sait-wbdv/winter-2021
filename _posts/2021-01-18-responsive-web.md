@@ -59,12 +59,13 @@ Post your phone make and model in `#winter-2021`
   - performance
   - phone calls
   - location -> maps
-  - camera
+  - camera (with depth perception on fancy phones)
   - accelerometer
   - RFID
   - Biometric authentication
   - File storage
   - mobile connection
+  - Hardware accelerated augmented reality
 
 ---
 
