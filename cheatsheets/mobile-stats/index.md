@@ -3,6 +3,8 @@ layout: page
 title: "Mobile Statistics"
 ---
 
+---
+
 ## Mobile Web vs Desktop Web: 2017-2019
 Source [Mobile vs. Desktop Usage in 2019](https://www.perficient.com/insights/research-hub/mobile-vs-desktop-usage-study)
 - Web Visits: 57-63% on mobile
@@ -16,6 +18,8 @@ Source [Mobile vs. Desktop Usage in 2019](https://www.perficient.com/insights/re
 2. Desktop remains very important
 3. Compare your site's behavior to industry norms
 4. Pay attention to site speed
+
+---
 
 ## Mobile Web vs Mobile Apps
 Source: [Mobile in Context: Design Principles of Flow and Navigation](https://youtu.be/OZRczPw1BBw)
