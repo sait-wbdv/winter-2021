@@ -31,7 +31,7 @@ Once you've completed the above steps and pushed a static website to GitHub, try
 - If you're publishing your user website (i.e. not one of your repos) your repo must be named `<username>.github.io`.
 
 ### Enabling GH Pages
-1. Got to the Settings tab of the repo.
+1. Go to the Settings tab of the repo.
 2. Scroll down to the "GitHub Pages" section.
 3. Select Source as `main` (it's sometimes `master`) and `/root`.
 4. Save your changes.

@@ -71,7 +71,7 @@ Please add a comment your phone make and model in [this Issue](https://github.co
   <dt>Media Queries</dt>
   <dd>A feature of CSS that enable webpage content to adapt to different screen sizes, orientations, aspect ratios and mediums (e.g. print vs screen).</dd>
   <dt>Breakpoint</dt>
-  <dd>Points in responsive design where website presentation responds to changing viewport characteristics (width, orientation, etc).</dd>
+  <dd>Points in responsive design where a web page "snaps" to a distinct presentation based on changing viewport characteristics (width, orientation, etc). Media queries are a classic method of creating a breakpoint(s).</dd>
   <dt>Hamburger Menu</dt>
   <dd>A button in websites and apps that typically opens up into a side menu or navigation drawer.</dd>
   <dt>Card Pattern</dt>
