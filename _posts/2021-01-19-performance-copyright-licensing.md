@@ -6,7 +6,8 @@ categories: dsgn270
 
 ## Housekeeping
 1. [DSGN 270 Assignment 2](https://github.com/sait-wbdv/assessments/blob/master/dsgn270/)
-2. [CPNT 260 Exercises and Schedule](https://github.com/sait-wbdv/assessments/blob/master/cpnt260/)
+2. [CPNT 260 Exercises](https://github.com/sait-wbdv/assessments/blob/master/cpnt260/)
+3. [Updated Assessent Schedule](https://github.com/sait-wbdv/assessments)
 
 ## Homework
 1. Performance
