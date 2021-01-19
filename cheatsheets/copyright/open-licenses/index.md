@@ -4,6 +4,10 @@ title: "Giving and Taking: Open Licenses"
 ---
 _Tony is not a lawyer. These learning sessions do not constitute legal advice and they do not create an attorney-client relationship. Lawyers aren't even allowed to talk to Tony._
 
+## Popular licenses for creative works
+- [Creative Commons](https://creativecommons.org/)
+  - [About the licenses](https://creativecommons.org/licenses/)
+
 ## Best low-risk software licenses
 These are the top 3, lowest risk (of being sued) software licenses listed in [Top open source licenses and legal risk for developers](https://www.synopsys.com/blogs/software-security/top-open-source-licenses/).
 
