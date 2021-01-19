@@ -71,7 +71,7 @@ Select a representative from your group to summarize your findings for the rest 
 ---
 
 ### Activity: Finding open asset alternatives
-You will be working in groups of 3 for this activity.
+You will be working in groups of 3-4 for this activity.
 
 Using [Google Suggest](https://en.ryte.com/wiki/Google_Suggest), find relevant alternatives to the tools and services listed in the [Open-source Assets Cheatsheet]({{site.baseurl}}/cheatsheets/copyright/open-assets).
 
