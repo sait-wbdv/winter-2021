@@ -4,6 +4,10 @@ title: Performance, Copyright and License
 categories: dsgn270
 ---
 
+## Housekeeping
+1. [DSGN 270 Assignment 2](https://github.com/sait-wbdv/assessments/blob/master/dsgn270/)
+2. [CPNT 260 Exercises and Schedule](https://github.com/sait-wbdv/assessments/blob/master/cpnt260/)
+
 ## Homework
 1. Performance
     - Read: [How To Think About Speed Tools](https://developers.google.com/web/fundamentals/performance/speed-tools)
@@ -17,8 +21,6 @@ categories: dsgn270
     - Skim: [Which License Should I Use? MIT vs. Apache vs. GPL](https://exygy.com/blog/which-license-should-i-use-mit-vs-apache-vs-gpl/)
 
 ---
-
-{% comment %}
 
 ## 1. Performance
 ### Learning Objectives
@@ -74,6 +76,8 @@ Using [Google Suggest](https://en.ryte.com/wiki/Google_Suggest), find relevant a
 
 Are there any that should be listed in the Cheatsheet?
 
+---
+
 ## Clean up time!
 
 ## Frequently Asked Questions
@@ -81,5 +85,3 @@ Are there any that should be listed in the Cheatsheet?
   - A: Both!
 - What's the best liability insurance for software developers?
   - A: Errors and Omissions
-
-{% endcomment %}
