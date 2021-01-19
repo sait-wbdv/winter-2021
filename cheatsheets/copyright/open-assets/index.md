@@ -8,7 +8,7 @@ title: Openly Licensed Assets
 - [Unsplash](https://unsplash.com/) [[license](https://unsplash.com/license)]
 - [Pexels](https://www.pexels.com/) [[custom license](https://www.pexels.com/license/)]
 - [Pixa Bay](https://pixabay.com/) [[license](https://pixabay.com/service/license/)]
-- [Flickr Creative Commons] (https://www.flickr.com/creativecommons/)
+- [Flickr Creative Commons](https://www.flickr.com/creativecommons/)
 
 ## Icon Fonts
 - [Font Awesome](https://fontawesome.com/) [[license]](https://fontawesome.com/license/free)

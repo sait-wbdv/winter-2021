@@ -2,7 +2,8 @@
 layout: page
 title: PIPEDA (Canada)
 ---
-Organizations covered by the Act
+
+## Organizations covered by the Act
 - must obtain an individual's consent when they collect, use or
 disclose the individual's personal information.
 - The individual has a right to access personal information held by an organization and to challenge its accuracy, if need be.
