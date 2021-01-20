@@ -8,6 +8,8 @@ title: WBDV Library of Findings
 - [CSS basics](https://developer.mozilla.org/en-US/docs/Learn/Getting_started_with_the_web/CSS_basics)
 - [Javascript basics](https://developer.mozilla.org/en-US/docs/Learn/Getting_started_with_the_web/Javascript_basics)
 
+---
+
 ## Common questions
 - Video: [Why is CSS So Weird?](https://www.youtube.com/watch?v=aHUtMbJw8iA)
 - [HTML questions](https://developer.mozilla.org/en-US/docs/Learn/HTML/Howto)
@@ -16,6 +18,8 @@ title: WBDV Library of Findings
 - [How the web works](https://developer.mozilla.org/en-US/docs/Learn/Common_questions#How_the_Web_works)
 - [Tools and setup](https://developer.mozilla.org/en-US/docs/Learn/Common_questions#Tools_and_setup)
 - [Design and accessibility](https://developer.mozilla.org/en-US/docs/Learn/Common_questions#Design_and_accessibility)
+
+---
 
 ## HTML
 ### Recommended Courses
@@ -32,6 +36,8 @@ title: WBDV Library of Findings
 - [Images in HTML](https://developer.mozilla.org/en-US/docs/Learn/HTML/Multimedia_and_embedding/Images_in_HTML)
 - [Adding vector graphics to the web](https://developer.mozilla.org/en-US/docs/Learn/HTML/Multimedia_and_embedding/Adding_vector_graphics_to_the_Web)
 - [HTML Tables](https://developer.mozilla.org/en-US/docs/Learn/HTML/Tables)
+
+---
 
 ## CSS
 ### Recommended Courses
@@ -84,10 +90,12 @@ title: WBDV Library of Findings
   - [Legacy layout methods](https://developer.mozilla.org/en-US/docs/Learn/CSS/CSS_layout/Legacy_Layout_Methods)
   - [Supporting older browsers](https://developer.mozilla.org/en-US/docs/Learn/CSS/CSS_layout/Supporting_Older_Browsers)
 
+---
+
 ## Javascript
 ### Recommended Courses
 - [Javascript: the Weird Parts](https://www.youtube.com/watch?v=Bv_5Zv5c-Ts)
-  - This is the first 3.5 hours of a 12 hour Udemy course by Tony Alicea. There's a discount link in the video description.
+  - This is the first 3.5 hours of a 12 hour Udemy course by Tony Alicea. It's and oldie but a goodie. Your instructor learned Javascript from this course. There's a discount link in the video description.
 
 ### MDN
 - [Javascript - Dynamic client-side scripting](https://developer.mozilla.org/en-US/docs/Learn/JavaScript)

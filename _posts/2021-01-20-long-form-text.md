@@ -28,74 +28,137 @@ categories: cpnt260
 
 {% comment %}
 
+## Housekeeping
+1. Poll: HTML/CSS skillz
+2. [WBDV Library]({{site.baseurl}}/library)
+
+---
+
 ## 1. The Browser Triad
 ### Learning Objectives
 - Explain the difference between HTML, CSS, and JavaScript.
 - Briefly summarize the history and development of HTML and CSS to their current incarnation.
 - Define a tag, element and attribute.
 - View the source of a web page.
+- Add appropriately marked-up text to a web page, including paragraphs and headings.
 
 ### Terminology
-<dl>
-  <dt>Content Layer</dt>
-  <dd>The HTML that defines the meaning and structure of web content.</dd>
-  <dt>Presentation Layer</dt>
-  <dd>The CSS (and supporting assets) that control the visual appearance of a web page. Examples: typography, layout, colour, etc.</dd>
-  <dt>Behaviour Layer</dt>
-  <dd>The Javascript that controls the interactive behaviour of a web page. In practice, the behaviour layer is responsible for everything the content and presentation layers <em>can't</em> do.</dd>
-</dl>
+Content Layer
+: The HTML that defines the meaning and structure of web content.
 
-### Activity: From Print to Web
-You will be working in groups of 3 or 4 for this activity.
+Presentation Layer
+: The CSS (and supporting assets) that control the visual appearance of a web page. Examples: typography, layout, colour, etc.
 
-Identify common examples of visual hierarchy in the print document you selected as homework. 
-- Does the pattern or technique have a name? 
-- How do they apply to Web documents?
-- Would this pattern or technique be implemented using HTML or CSS?
+Behaviour Layer
+: The Javascript that controls the interactive behaviour of a web page. In practice, the behaviour layer is responsible for everything the content and presentation layers _can't_ do.
 
-## 2. Long Form Text
-### Learning Objectives
-- Identify depreciated and obsolete elements from previous versions of HTML.
-- Add appropriately marked-up text to a web page, including paragraphs and headings.
-- Distinguish between block and inline elements.
+For specific HTML/CSS definitions and syntax see:
+- [HTML basics](https://developer.mozilla.org/en-US/docs/Learn/Getting_started_with_the_web/HTML_basics)
+- [CSS basics](https://developer.mozilla.org/en-US/docs/Learn/Getting_started_with_the_web/CSS_basics)
 
-See:
-- [HTML text fundamentals](https://developer.mozilla.org/en-US/docs/Learn/HTML/Introduction_to_HTML/HTML_text_fundamentals)
-- [inline vs block elements](https://stackoverflow.com/questions/9189810/css-display-inline-vs-inline-block)
+---
 
-### Activity: Your first HTML blog post
+## 2. Codepen and Lorem Picsum tour
+- Tony's Codepens
+  - [Browser Therapy](https://codepen.io/browsertherapy/)
+  - [Personal Codepen](https://codepen.io/acidtone/)
+
+---
+
+### Activity: Practice with paired coding and HTML
 You will be working in pairs for this activity. 
 
-Take either/both articles you have chosen and code them in HTML (using Codepen). Start with the following HTML tags:
+[Introduction to Pair Programming](https://www.youtube.com/watch?v=vgkahOzFH2Q)
+
+Choose an openly licensed document of your choice from Wikipedia or similar service. Code it in HTML using Codepen. Start with the following HTML tags:
 - `h1`-`h3`: headings
 - `p`: paragraphs
-- `a`: anchor
+- `a`: links
 - `strong`, `em`: bold and italicize
 - `ul` and/or `ol`: unordered and ordered lists
 - `img`: image as content
+  - We'll be using the [Lorem Picsum](https://picsum.photos/) image service for many of the images in this course.
+
+Don't know where to start? Try searching for the above elements to find sample code. Which search terms give you the best results?
+
+#### Spoilers
+- Codepen: [Responsive Text: Max Line Length with Scroll Track](https://codepen.io/browsertherapy/pen/RwaJmbx)
+- Codepen: [Sample Blog Post with a floated HTML image](https://codepen.io/browsertherapy/pen/JjGJxZP)
 
 ### Stretch Activities
-Once you have the basics figure out, try some of these more advanced concepts:
+Once you have the basics figured out, try some of these more advanced concepts:
+- [Clipped, floated images](https://codepen.io/browsertherapy/pen/yLeobxq)
+    1. Create a new shape using the [Clippy](https://bennettfeely.com/clippy/) tool.
+    2. Mask an image with this shape using the `clip-path` property.
+    3. Float adjacent text around this new shape (and image) using `shape-outside`.
+
+---
+
+## 2. The Box Model
+### Learning Objectives
+- Identify the fundamental structures of the box model and their purpose.
+- Find an elements box model diagram in the Firefox Inspector.
+- Distinguish between block and inline elements.
+- Use CSS to modify an element's box model styles.
+
+### Materials:
+- [HTML text fundamentals](https://developer.mozilla.org/en-US/docs/Learn/HTML/Introduction_to_HTML/HTML_text_fundamentals)
+- [inline vs block elements](https://stackoverflow.com/questions/9189810/css-display-inline-vs-inline-block)
+
+---
+
+### Activity: Blockquote box model
+You will be working in pairs for this activity.
+
+1. Add a quotation to your code from the previous activity using the `blockquote` element.
+2. Using a [CSS type selector](https://css-tricks.com/almanac/selectors/t/type/), add some visual hierarchy to the blockquote by modifying the element's box model. For example:
+    - Add a border with the `border` and `border-radius` properties.
+    - Add a background colour with the `background-color` property. To ensure readable text, choose a matching text colour with `color`.
+    - Add negative space between the quote text and the border with `padding`.
+    - Add negative space between the border and outside elements with `margin`.
+
+---
+
+### Stretch Activities
+Once you have the basics figured out, try some of these more advanced concepts:
 - [Customize your list styling](https://css-tricks.com/almanac/properties/l/list-style/)
 - [Style a blockquote with pseudo-elements](https://css-tricks.com/snippets/css/simple-and-nice-blockquote-styling/)
 - [More cool things you can do with pseudo-elements](https://css-tricks.com/pseudo-element-roundup/)
 
-## 3. Lab Time: Optimize and Validate
+---
+
+## 3. Lab Time: Migrate and Validate
 ### Learning Objectives
+- Identify the anatomy of an HTML page.
+- Migrate code from a Codepen to an HTML page in VS Code.
 - Define the rules for naming web pages.
 - Add a file extension and save a web page.
 - Validate a web page.
 
+---
+
 ### Activity: Optimize and Validate
+You will be working independently in groups of 3 or 4.
+
 1. Clean up your code!
+    - Is your code properly formatted?
     - Are there any dead ends or failed experiments that should be removed?
     - Are there better solutions to the problems you solved today?
     - Which of your solutions could be re-used for future projects?
-2. Migrate your final Codepen code into an HTML file (with external style sheet) in VS Code. See: [Applying CSS and JavaScript to HTML](https://developer.mozilla.org/en-US/docs/Learn/HTML/Introduction_to_HTML/The_head_metadata_in_HTML#Applying_CSS_and_JavaScript_to_HTML)
-    - Copy your Codepen CSS to an external stylesheet using a `link` element in the `head` of your HTML document.
-    - Copy your Codepen HTML inside the `body` element of your HTML document. 
+2. Migrate your final Codepen code into an HTML file in VS Code. 
+    1. Create a [blank HTML page](https://gist.github.com/acidtone/6871979b4f4b04375edb6312dcdba5b7) in VS Code and save it to:
+
+        ```
+        [sait-folder]/in-class/w2w/index.html (or similar)
+        ```
+
+    2. Copy your Codepen CSS to a `style` element in the `head` of your HTML document.
+    3. Copy your Codepen HTML inside the `body` element of your HTML document. 
+    4. View your file in Firefox using the VS Code Live Server extension. Does it look similar to the Codepen version?
 3. Validate your HTML file using the [W3C Markup Validation Service](https://validator.w3.org/)
 4. Validate your external CSS file using the [W3C CSS Validation Service](https://jigsaw.w3.org/css-validator/)
+
+---
 
 ## Clean up time!
 
