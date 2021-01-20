@@ -25,3 +25,13 @@ hr {
   margin: 2em 5em;
 }
 
+.notice--warning {
+  margin: auto;
+  padding: 25px 50px;
+  width: 50ch;
+
+  background-color: pink;
+
+  border: 5px solid red;
+  border-radius: 15px;
+}
