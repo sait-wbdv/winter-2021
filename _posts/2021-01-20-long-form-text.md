@@ -7,7 +7,8 @@ categories: cpnt260
 ## Housekeeping
 1. Poll: HTML/CSS skillz
 2. Updated: [Open Source Assets Cheatsheet]({{site.baseurl}}/cheatsheets/copyright/open-assets)
-2. New nav page: [WBDV Library]({{site.baseurl}}/library)
+3. New nav page: [WBDV Library]({{site.baseurl}}/library)
+4. Dailies submissions in Brightspace
 
 ## Homework
 1. Review
@@ -158,4 +159,4 @@ You will be working independently in groups of 3 or 4.
 ---
 
 ## Clean up time!
-
+- Submit today's Codepen to the Dailies section (in Assessments) in Brightspace.
