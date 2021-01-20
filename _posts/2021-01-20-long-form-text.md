@@ -4,6 +4,11 @@ title: The Browser Triad, Long-form Text and Validation
 categories: cpnt260
 ---
 
+## Housekeeping
+1. Poll: HTML/CSS skillz
+2. Updated: [Open Source Assets Cheatsheet]({{site.baseurl}}/cheatsheets/copyright/open-assets)
+2. New nav page: [WBDV Library]({{site.baseurl}}/library)
+
 ## Homework
 1. Review
     - Choose a print document (book, magazine, brochure, etc) in your immediate area that shows diverse examples of visual hierarchy.
@@ -23,14 +28,6 @@ categories: cpnt260
 4. CSS Selectors
     - Read: [Combinators](https://developer.mozilla.org/en-US/docs/Learn/CSS/Building_blocks/Selectors/Combinators)
     - Skim: [Pseudo-classes and pseudo-elements](https://developer.mozilla.org/en-US/docs/Learn/CSS/Building_blocks/Selectors/Pseudo-classes_and_pseudo-elements)
-
----
-
-{% comment %}
-
-## Housekeeping
-1. Poll: HTML/CSS skillz
-2. [WBDV Library]({{site.baseurl}}/library)
 
 ---
 
@@ -102,7 +99,7 @@ Once you have the basics figured out, try some of these more advanced concepts:
 - Use CSS to modify an element's box model styles.
 
 ### Materials:
-- [HTML text fundamentals](https://developer.mozilla.org/en-US/docs/Learn/HTML/Introduction_to_HTML/HTML_text_fundamentals)
+- MDN: [The box model](https://developer.mozilla.org/en-US/docs/Learn/CSS/Building_blocks/The_box_model)
 - [inline vs block elements](https://stackoverflow.com/questions/9189810/css-display-inline-vs-inline-block)
 
 ---
@@ -121,9 +118,9 @@ You will be working in pairs for this activity.
 
 ### Stretch Activities
 Once you have the basics figured out, try some of these more advanced concepts:
-- [Customize your list styling](https://css-tricks.com/almanac/properties/l/list-style/)
 - [Style a blockquote with pseudo-elements](https://css-tricks.com/snippets/css/simple-and-nice-blockquote-styling/)
 - [More cool things you can do with pseudo-elements](https://css-tricks.com/pseudo-element-roundup/)
+- [Customize your list styling](https://css-tricks.com/almanac/properties/l/list-style/)
 
 ---
 
@@ -162,4 +159,3 @@ You will be working independently in groups of 3 or 4.
 
 ## Clean up time!
 
-{% endcomment %}
