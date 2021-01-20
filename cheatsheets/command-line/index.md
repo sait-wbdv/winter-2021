@@ -19,6 +19,9 @@ Command Prompt
 
 ---
 
+**Notice**: General information will be displayed in boxes such as this one. Warnings will be in red (see below) for information that will help you avoid potential problems. 
+{: .notice .notice--info}
+
 **Warning**: There are two flavours of "command line": Windows and Unix. We will be using the latter: Git Bash (installed along with Git) on Windows and Terminal on Mac (Mac is unix-based so almost any terminal app will do; Tony uses [iTerm](https://iterm2.com/)). 
 {: .notice .notice--warning}
 
@@ -41,11 +44,14 @@ Most of the command line tools we will be using in this course (like Git, [Node]
   - `$ cd ..` (moves up one directory level)
   - `$ cd ../../some-directory` (moves up two directories and into "some-directory")
 
+**Notice**: Below are _Pro-tips_ that will give you some hints on how the pros do things. In this case, there are some _quality of life_ tips that will reduce the grind if using the command line. 
+{: .notice .notice--info}
+
 **CLI Quality of Life Tip #1**: The tab key auto-completes file names and directories.
-{:  .notice .notice--info}
+{:  .notice .notice--pro-tip}
 
 **CLI Quality of Life Tip #2**: Use the Up Arrow to browse through the history of last used commands.
-{:  .notice .notice--info}
+{:  .notice .notice--pro-tip}
 
 ### Questions to Consider
 - What is the starting directory when you open a terminal on your system?
