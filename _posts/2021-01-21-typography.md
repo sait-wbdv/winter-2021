@@ -32,3 +32,20 @@ categories: cpnt260
     - [Why you shouldn't set font-sizes using em](https://youtu.be/pautqDqa54I) by Kevin Powell
 
 ---
+
+{% comment %}
+
+## 1. Readable Text
+### Terms
+
+## 2. Fallbacks and overides
+### Terms
+Inheritance
+: When CSS property values set on parent elements are inherited by their child elements. Most font settings are inherited.
+
+### Materials
+- MDN: [Cascade and inheritance](https://developer.mozilla.org/en-US/docs/Learn/CSS/Building_blocks/Cascade_and_inheritance)
+
+## 3. Special characters
+
+{% endcomment %}
