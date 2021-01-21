@@ -105,6 +105,11 @@ In groups of 3-4, create two to three font pairings using Google Fonts with syst
     - `initial-letter`
         - Note: this declaration has limited browser support at this time.
 6. Level-up: How big can you go? Refer back to the [Visual Hierarchy Cheatsheet]({{site.baseurl}}/cheatsheets/design/visual-hierarchy). How can you use typography and box model declarations to replicate some of these examples of visual hierarchy?
+7. Level-up: [Style a blockquote with pseudo-elements](https://css-tricks.com/snippets/css/simple-and-nice-blockquote-styling/)
+8. Level-up: [Customize your list styling](https://css-tricks.com/almanac/properties/l/list-style/)
+9. Level-up: Add [HTML Entities](https://developer.mozilla.org/en-US/docs/Learn/HTML/Introduction_to_HTML/Getting_started#Entity_references_Including_special_characters_in_HTML) to your document.
+    - Reference: [List of XML and HTML character entity references](https://en.wikipedia.org/wiki/List_of_XML_and_HTML_character_entity_references)
+10. Level-up: Try adding [Font Awesome Icons](https://fontawesome.com/how-to-use/on-the-web/referencing-icons/basic-use). Hint: it's often easier to embed FA using [CDNJS](https://cdnjs.com/libraries/font-awesome).
 
 ---
 
