@@ -4,6 +4,11 @@ title: Typography
 categories: cpnt260
 ---
 
+## Housekeeping
+1. Recommendations from Dailies
+2. Tool Time: Can I Use?
+
+
 ## Homework
 1. Review
     - [Responsive Design Cheatsheet]({{site.baseurl}}/cheatsheets/responsive-design/)
