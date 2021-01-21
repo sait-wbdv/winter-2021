@@ -25,3 +25,28 @@ hr {
   margin: 2em 5em;
 }
 
+/* Notice box and info box */
+/* TODO: remove notice--info? */
+.notice {
+  /* box model */
+  margin: 25px auto;
+  padding: 25px 50px;
+  width: 50ch;
+
+  /* colour */
+  border-radius: 15px;
+  background-color: lightgrey;
+  border: 5px solid black;
+}
+
+/* red warning box */
+.notice--warning  {
+  background-color: pink;
+  border-color: red;
+}
+
+/* purple pro-tip box */
+.notice--pro-tip {
+  background-color: skyblue;
+  border-color: rebeccapurple;
+}
