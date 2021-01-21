@@ -1,0 +1,20 @@
+@import url('https://fonts.googleapis.com/css2?family=Open+Sans:wght@300&family=Ubuntu:wght@300;500&display=swap');
+
+body {
+  font-family: 'Open Sans', MS Sans Serif, Geneva, sans-serif;
+}
+
+h1, h2, h3, h4, h5, h6 {
+  font-family: 'Ubuntu', Verdana, Geneva, sans-serif;
+  font-weight: 500;
+}
+
+blockquote {
+  font-family: 'Ubuntu', Verdana, Geneva, sans-serif;
+  font-weight: 300;
+  font-style: italic;
+}
+
+blockquote::before {
+  content: open-quote;
+}
