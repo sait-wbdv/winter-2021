@@ -62,6 +62,48 @@ CSS Override
 
 ---
 
+## Activities
+### Font-family pairings
+In groups of 3-4, create two to three font pairings using Google Fonts with system and generic families as fallbacks. See [Web Typography Cheatsheet]({{site.baseurl}}/cheatsheets/web-typography).
+1. Create a css file that embeds your favourite [google font pairing](https://www.google.com/search?q=best+google+font+combinations) using the `@import` rule:
+
+    ```
+    @import url('https://fonts.googleapis.com/css2?family=Karla&family=Raleway:wght@300;400&display=swap');
+    ```
+
+2. Declare your main body text font family using the `font-family` declaration and a type selector on the `body` tag. Include settings for `line-height` (default is `1.2`; try for `1.5`-`2`) and increase the `font-size` to something larger than `16px` (the default on most browsers):
+
+    ```
+    body {
+      font-family: 'Karla', sans-serif;
+      font-size: 18px;
+      line-height: 1.6;
+    }
+    ```
+
+3. Declare a secondary font on your headings using a group selector:
+    
+    ```
+    h1, h2, h3, h4, h5, h6 {
+      font-family: 'Raleway', sans-serif;
+
+      /* Sometimes needed, depending on the font that you ebmedded. */
+      font-weight: 300; 
+    }
+    ```
+
+4. Add fallbacks for system fonts. See [Web-safe Font Stacks](https://codepen.io/browsertherapy/pen/eYNmYQP).
+5. Level-up: Add visual hierarchy to your headings with one of more of the following "fancy" declarations:
+    - `font-variant`
+    - `word-spacing`
+    - `letter-spacing`
+    - `initial-letter`
+        - Note: this declaration has limited browser support at this time.
+6. Level-up: How big can you go? Refer back to the [Visual Hierarchy Cheatsheet]({{site.baseurl}}/cheatsheets/design/visual-hierarchy). How can you use typography and box model declarations to replicate some of these examples of visual hierarchy?
+
+---
+
 ## Cleanup Time
+- Submit today's Codepen to the Dailies section (in Assessments) in Brightspace.
 
 
