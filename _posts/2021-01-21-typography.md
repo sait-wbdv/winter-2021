@@ -33,19 +33,35 @@ categories: cpnt260
 
 ---
 
-{% comment %}
-
-## 1. Readable Text
-### Terms
-
-## 2. Fallbacks and overides
+## 1. Font fallbacks and overrides
 ### Terms
 Inheritance
 : When CSS property values set on parent elements are inherited by their child elements. Most font settings are inherited.
 
+Fallback
+: A default setting or configuration that activates when a CSS declaration fails.
+
+CSS Override
+: A aspect of the cascade where a previous CSS declaration is overwritten by another that has higher priority/specificity.
+
 ### Materials
 - MDN: [Cascade and inheritance](https://developer.mozilla.org/en-US/docs/Learn/CSS/Building_blocks/Cascade_and_inheritance)
+- [Web Typography Cheatsheet]({{site.baseurl}}/cheatsheets/web-typography)
 
-## 3. Special characters
+---
 
-{% endcomment %}
+## 2. Readable Text
+### Materials
+- [Readable Text Cheatsheet]({{site.baseurl}}/cheatsheets/web-typography/readable-text)
+
+---
+
+## 3. Font-based units
+### Materials
+- [Units Cheatsheet]({{site.baseurl}}/cheatsheets/units)
+
+---
+
+## Cleanup Time
+
+
