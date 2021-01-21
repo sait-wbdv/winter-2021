@@ -6,7 +6,7 @@ categories: cpnt260
 
 ## Housekeeping
 1. Recommendations from Dailies
-2. Tool Time: Can I Use?
+2. Tool Time: [Can I Use?](https://caniuse.com/)
 
 
 ## Homework
