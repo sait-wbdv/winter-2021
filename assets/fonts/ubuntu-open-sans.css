@@ -2,7 +2,6 @@
 
 body {
   font-family: 'Open Sans', MS Sans Serif, Geneva, sans-serif;
-  line-height: 1.5;
 }
 
 h1, h2, h3, h4, h5, h6 {
@@ -17,6 +16,6 @@ blockquote {
   font-style: italic;
 }
 
-blockquote::before {
+/* blockquote::before {
   content: open-quote;
-}
+} */
