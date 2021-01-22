@@ -17,7 +17,7 @@ title: "Program Schedule"
 - F: CPNT 260 Day 3 - [Page Structure, Navigation and HTML Images](/winter-2021{% link _posts/2021-01-22-structure-nav-images.md %})
 
 ## Week 3: Jan 25-29
-- M: CPNT 260 Day 4
+- M: CPNT 260 Day 4 - [Flexbox Fundamentals](/winter-2021{% link _posts/2021-01-25-flexbox.md %})
 - T: CPNT 260 Day 5
 - W: CPNT 260 Day 6
 - R: CPNT 260 Day 7
