@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Typography
+title: [title here]
 categories: cpnt260
 ---
 

@@ -4,6 +4,12 @@ title: Semantics, Navigation and HTML Images
 categories: cpnt260
 ---
 
+## Housekeeping
+1. Home ergonomics with Brett
+2. Schedule recap and Friday thoughts
+3. [CPNT 201 Assignment 1](https://github.com/sait-wbdv/assessments/blob/master/cpnt260/)
+4. Assignments 2-4
+
 ## Homework
 1. Page Structure
     - [Document and Website structure](https://developer.mozilla.org/en-US/docs/Learn/HTML/Introduction_to_HTML/Document_and_website_structure)
