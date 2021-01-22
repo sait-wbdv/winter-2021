@@ -32,6 +32,7 @@ title: CSS Units
 - `rem`
   - Font size of the root element.
   - When in doubt, no one got fired for using `rem` units.
+  - See: [em vs rem](https://codepen.io/browsertherapy/pen/VwKNELp)
 - `ch`
   - The advance measure (width) of the glyph "0" of the element's font.
   - Tony loooooves setting setting text boxes in `ch` units.

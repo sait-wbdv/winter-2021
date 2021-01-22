@@ -16,6 +16,8 @@ categories: cpnt260
     - Watch: [Read color hex codes](https://youtu.be/eqZqx6lRPe0)
     - Read: [On Switching from HEX & RGB to HSL ](https://www.sarasoueidan.com/blog/hex-rgb-to-hsl/) by Sara Soueidan
     - Read: [Color contrast](https://developer.mozilla.org/en-US/docs/Web/Accessibility/Understanding_WCAG/Perceivable/Color_contrast)
+5. Flexbox
+    - Read: [A Complete Guide to Flexbox](https://css-tricks.com/snippets/css/a-guide-to-flexbox/)
 
 ---
 
