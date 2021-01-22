@@ -27,8 +27,8 @@
       <header class="page-header">
         <img class="sait-logo" src={{ "/assets/images/sait-logo.png" | relative_url }} alt="SAIT Logo">
         <div>
-          <h1>SAIT WBDV</h1>
-          <h2 class="tagline">Web Developer Fast Track - Winter 2021</h2>
+          <p class="site-name">SAIT WBDV</p>
+          <p class="tagline">Web Developer Fast Track - Winter 2021</p>
           <nav>
             <ul>
               <li><a href="/winter-2021">Home</a></li>
@@ -40,7 +40,12 @@
           </nav>
         </div>
       </header>
-      {{ content }}
+      <main>
+        {{ content }}
+      </main>
     </div>
+    <footer>
+      &copy; 2021 Tony. MIT License.
+    </footer>  
   </body>
 </html>
