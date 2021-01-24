@@ -36,7 +36,7 @@ title: Openly Licensed Assets
 - [Simple Icons](https://simpleicons.org/) [[License](https://github.com/simple-icons/simple-icons/blob/develop/LICENSE.md)]
 - [Animaticons](https://animaticons.co/) [[License](https://animaticons.co/license/)]
 - [Flexiple](https://2.flexiple.com/scale/home) [[License](https://2.flexiple.com/scale/home#license)]
-- 
+- [Icon Monstr](https://iconmonstr.com/) [[License](https://iconmonstr.com/license/)]
 
 ## Fonts
 Licenses are font-specific unless noted otherwise.
