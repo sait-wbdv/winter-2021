@@ -16,5 +16,10 @@ categories: cpnt260
     - Read: [Font Awesome - Basic Use](https://fontawesome.com/how-to-use/on-the-web/referencing-icons/basic-use)
     - Reference: [CDNJS](https://en.wikipedia.org/wiki/Cdnjs)
         - [Font Awesome on CDNJS](https://cdnjs.com/libraries/font-awesome)
+4. Progressive Enhancement
+    - Watch: [Introduction to Resilient CSS – Part 1 of 7](https://youtu.be/u00FY9vADfQ)
+    - Watch: [The Secrets of ‘Can I Use’ – Resilient CSS Part 2 of 7](https://youtu.be/WM_cKHH7bZ0)
+    - Watch: [How Browsers Handle Errors in CSS – Resilient CSS Part 3 of 7](https://youtu.be/NJjlzxud4_M)
+    
 
 ---

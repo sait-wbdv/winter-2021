@@ -21,5 +21,10 @@ categories: cpnt260
         - [Repeat Notation](https://gridbyexample.com/video/series-repeat/)
         - [Introducing minmax()](https://gridbyexample.com/video/series-minmax/)
     - Game: [CSS Grid Garden](https://cssgridgarden.com/)
+4. Fast Layouts
+    - Watch: [Build a Classic Layout FAST in CSS Grid](https://youtu.be/KOvGeFUHAC0) by Miriam Suzanne
+    - Watch: [Incredibly Easy Layouts with CSS Grid](https://youtu.be/tFKrK4eAiUQ) by Jenn Simmons
+    - Watch: [Using Flexbox + CSS Grid Together: Easy Gallery Layout](https://youtu.be/dQHtT47eH0M) by Jenn Simmons
+
 
 ---
