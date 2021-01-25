@@ -24,28 +24,28 @@
   </head>
   <body>
     <div class="wrapper">
+      <nav class="primary">
+        <ul>
+          <li><a href="/winter-2021">Home</a></li>
+          <li><a href="https://sait-ca.zoom.us/j/89935602857">Zoom</a></li>
+          <li><a href="https://sait-wbdv.slack.com/">Slack</a></li>
+          <li><a href="https://learn.sait.ca">Brightspace</a></li>
+          <li><a href="{{ "/library" | relative_url }}">Library</a></li>
+        </ul>
+      </nav>
       <header class="page-header">
         <img class="sait-logo" src={{ "/assets/images/sait-logo.png" | relative_url }} alt="SAIT Logo">
         <div>
           <p class="site-name">SAIT WBDV</p>
           <p class="tagline">Web Developer Fast Track - Winter 2021</p>
-          <nav>
-            <ul>
-              <li><a href="/winter-2021">Home</a></li>
-              <li><a href="https://sait-ca.zoom.us/j/89935602857">Zoom</a></li>
-              <li><a href="https://sait-wbdv.slack.com/">Slack</a></li>
-              <li><a href="https://learn.sait.ca">Brightspace</a></li>
-              <li><a href="{{ "/library" | relative_url }}">Library</a></li>
-            </ul>
-          </nav>
         </div>
       </header>
       <main>
         {{ content }}
       </main>
+      <footer>
+        &copy; 2021 Tony Grimes. MIT License.
+      </footer>  
     </div>
-    <footer>
-      &copy; 2021 Tony. MIT License.
-    </footer>  
   </body>
 </html>

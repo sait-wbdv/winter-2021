@@ -1,12 +1,6 @@
-body {
-  font-size: 20px;
-}
-
-body > .wrapper {
-  max-width: 90ch;
-  width: 80vw;
-  margin: auto;
-}
+/**********/
+/* Header */
+/**********/
 
 .page-header {
   display: flex;
@@ -20,6 +14,39 @@ body > .wrapper {
 img.sait-logo {
   width: 100px;
 }
+
+nav.primary a {
+  display: block;
+  width: 12ch;
+  padding: .5rem 1rem;
+  border: 1px solid black;
+
+  text-decoration: none;
+  color: indigo;
+
+  text-align: center;
+  font-variant: small-caps;
+  font-family: sans-serif;
+}
+
+nav.primary a:hover {
+  background-color: papayawhip;
+}
+
+nav.primary a:active {
+  background-color: indigo;
+  color: white;
+}
+
+body > div.wrapper {
+  max-width: 90ch;
+  width: 80vw;
+  margin: auto;
+}
+
+/****************/
+/* Page Content */
+/****************/
 
 hr {
   margin: 2em 5em;
@@ -49,4 +76,30 @@ hr {
 .notice--pro-tip {
   background-color: skyblue;
   border-color: rebeccapurple;
+}
+
+/***************/
+/* Definitions */
+/***************/
+
+dl {
+  font-size: 1.2rem;
+}
+
+dt {
+  font-weight: bold;
+}
+
+dd {
+  margin-bottom: 1em;
+}
+
+/**********/
+/* Footer */
+/**********/
+
+footer {
+  border-top: 1px solid grey;
+  padding: 2rem;
+  text-align: center;
 }

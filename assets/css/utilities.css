@@ -69,18 +69,4 @@ ul.clear-style {
   padding-left: 0;
 }
 
-/***************/
-/* Definitions */
-/***************/
 
-dl {
-  font-size: 1.2rem;
-}
-
-dt {
-  font-weight: bold;
-}
-
-dd {
-  margin-bottom: 1em;
-}
