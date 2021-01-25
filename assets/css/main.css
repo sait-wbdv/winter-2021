@@ -3,9 +3,7 @@
 /**********/
 
 .page-header {
-  display: flex;
-  align-items: center;
-
+  text-align: center;
   border-bottom: 1px solid #aaa;
   padding: 1em;
   margin-bottom: 2em;
