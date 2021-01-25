@@ -73,7 +73,7 @@ Read and complete the following MDN _Test your skills_ activity.
 Try to duplicate a navigation menu using the sample code supplied in the _Test your skills_ activity.
 1. Copy and paste the navigation code into a new Codepen.
 2. Reset the default padding and bullets of the link list.
-4. Search for an example of a vertical navigation menu online (the navigation behind hamburger menus is often vertical) that you think you can duplicate.
+3. Search for an example of a vertical navigation menu online (the navigation behind hamburger menus is often vertical) that you think you can duplicate.
     - How much `padding` needs to be added to the `a` element?
     - What colours are used? How do you find this information? What elements are the colours applied to?
     - What other design elements are needed? What CSS properties are needed to create them?
