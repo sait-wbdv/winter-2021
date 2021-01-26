@@ -2,6 +2,38 @@
 /* Header */
 /**********/
 
+ul {
+  display: flex;
+}
+
+ul li {
+  flex: auto;
+}
+
+header {
+  display: flex;
+  align-items: center;
+}
+
+header div {
+  flex: auto;
+}
+
+.sait-logo {
+  flex: 0;
+}
+
+.site-name {
+  font-size: 2rem;
+  margin: 0;
+}
+
+.tagline {
+  font-size: 1.5rem;
+  margin: 0;
+}
+
+
 .page-header {
   text-align: center;
   border-bottom: 1px solid #aaa;
