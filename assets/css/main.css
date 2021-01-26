@@ -1,50 +1,14 @@
-/**********/
-/* Header */
-/**********/
+/**************/
+/* Navigation */
+/**************/
 
-ul {
+nav.primary ul {
   display: flex;
 }
 
-ul li {
+nav.primary li {
   flex: auto;
 }
-
-header {
-  display: flex;
-  align-items: center;
-}
-
-header div {
-  flex: auto;
-}
-
-.sait-logo {
-  flex: 0;
-}
-
-.site-name {
-  font-size: 2rem;
-  margin: 0;
-}
-
-.tagline {
-  font-size: 1.5rem;
-  margin: 0;
-}
-
-
-.page-header {
-  text-align: center;
-  border-bottom: 1px solid #aaa;
-  padding: 1em;
-  margin-bottom: 2em;
-}
-
-img.sait-logo {
-  width: 100px;
-}
-
 nav.primary a {
   display: block;
   width: 12ch;
@@ -66,6 +30,39 @@ nav.primary a:hover {
 nav.primary a:active {
   background-color: indigo;
   color: white;
+}
+
+/**********/
+/* Header */
+/**********/
+
+
+.page-header {
+  display: flex;
+  align-items: center;
+  
+  padding: 1em;
+  margin-bottom: 2em;
+  border-bottom: 1px solid #aaa;
+}
+
+.site-name {
+  font-size: 2rem;
+  margin: 0;
+}
+
+.tagline {
+  font-size: 1.5rem;
+  margin: 0;
+}
+
+img.sait-logo {
+  flex: 0;
+  width: 100px;
+}
+
+.page-header div {
+  flex: auto;
 }
 
 body > div.wrapper {
