@@ -56,6 +56,7 @@ categories: cpnt260
 
     }
     ```
+    
 5. Instead of targeting common device widths (there are too many devices for this to be effective), change the design at the size where the content starts to break in some way. 
 6. Treat layout as an enhancement and aim for a mobile-first design. Start with a simple, single-column design that works for mobile and _then_ begin adding layout features in your media queries for larger screens.
 7. Try using relative widths (`em`, `rem`, `ch`, etc) instead of pixels. This avoids issues with devices that are zoomed in and keeps you focused on your design, not devices.

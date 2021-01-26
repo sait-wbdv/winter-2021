@@ -11,12 +11,12 @@ nav.primary li {
 }
 nav.primary a {
   display: block;
-  width: 12ch;
   padding: .5rem 1rem;
-  border: 1px solid black;
 
   text-decoration: none;
   color: indigo;
+
+  border-radius: .3rem;
 
   text-align: center;
   font-variant: small-caps;
