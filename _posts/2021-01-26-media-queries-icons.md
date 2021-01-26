@@ -25,7 +25,6 @@ categories: cpnt260
     - Watch: [How Browsers Handle Errors in CSS – Resilient CSS Part 3 of 7](https://youtu.be/NJjlzxud4_M)
     
 ---
-{% comment %}
 
 ## 1. Media queries
 ### Learning Objectives
@@ -68,6 +67,15 @@ categories: cpnt260
 ---
 
 ## 2. Font Awesome and CDNJS
+There are a few options available for using Font Awesome. A popular option is to use CDNJS:
+1. Go to the [Font Awesome library on CDNJS](https://cdnjs.com/libraries/font-awesome).
+2. Copy the top link that ends in `.../css/all.min.css` (or use a subset if that's all you need).
+3. Link to this library using a `link` element in the `head` of your document:
+
+    ```
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.15.2/css/all.min.css">
+    ```
+4. See [Font Awesome - Basic Use](https://fontawesome.com/how-to-use/on-the-web/referencing-icons/basic-use) for details on how to use FA icons in your pages.
 
 ---
 
@@ -79,7 +87,7 @@ Refactor your Flexbox navigation from yesterday to make it responsive.
 
 ### 2. Advanced: Hamburger icons
 Refactor your responsive nav above to incorporate a hamburger menu:
-1. Using a mobile-first method, hide your vertical menu (`display: none` is easiest) and replace it with a hamburger menu icon.
+1. Using a mobile-first method, hide your vertical menu (`display: none` is easiest, but a popular alternative is to place it off the page with [absolute positioning](https://developer.mozilla.org/en-US/docs/Web/CSS/position)) and replace it with a hamburger menu icon.
 2. Using your media query, replace the hamburger menu icon with your horizontal menu.
 3. Using the [checkbox hack](https://css-tricks.com/the-checkbox-hack/) use CSS to show/hide your vertical menu when the hamburger icon is checked/unchecked.
 
@@ -87,4 +95,7 @@ Refactor your responsive nav above to incorporate a hamburger menu:
 - MDN: [Media Queries and Responsive Design](https://developer.mozilla.org/en-US/docs/Learn/CSS/CSS_layout/rwd_skills)
 - Note: Flexbox and/or CSS Grid knowledge will be helpful with this exercise.
 
-{% endcomment %}
+---
+
+## Clean-up Time!
+- Submit today's Codepen/repo/gist to the Dailies section (in Assessments) in Brightspace.
