@@ -4,6 +4,9 @@ title: Media Queries and Icons
 categories: cpnt260
 ---
 
+## Housekeeping
+- [CPNT 260 Assignment 2](https://github.com/sait-wbdv/assessments/tree/master/cpnt260/assignment-2)
+
 ## Homework
 1. Media Queries
     - Read: [Beginner's guide to media queries](https://developer.mozilla.org/en-US/docs/Learn/CSS/CSS_layout/Media_queries)
