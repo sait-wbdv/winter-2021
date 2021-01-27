@@ -6,7 +6,11 @@ categories: cpnt260
 
 ## Homework
 1. CSS Grid
-    - Read: [Grid by Example](https://gridbyexample.com)
+    - Read: [Grids](https://developer.mozilla.org/en-US/docs/Learn/CSS/CSS_layout/Grids) on MDN
+    - Reference: [Grid by Example](https://gridbyexample.com)
+        - [Examples](https://gridbyexample.com/examples/)
+        - [Patterns](https://gridbyexample.com/patterns/)
+        - [Videos](https://gridbyexample.com/video/)
     - Reference: 
         - [Complete Guide to Grid](https://css-tricks.com/snippets/css/complete-guide-grid/)
     - Watch the following videos on Grid by Example:
