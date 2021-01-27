@@ -113,6 +113,8 @@ Move side content to a responsive sidebar:
 ---
 
 ## Open lab-time
+- Start with the [default flex shortcuts](https://gist.github.com/acidtone/c7103937a432c3dbb94a96debf1dbeb8).
+
 ### Tony's goals
 - Assignment 3 first draft
 - Deploy WBDV v0.2
