@@ -19,7 +19,7 @@ title: "Program Schedule"
 ## Week 3: Jan 25-29
 - M: CPNT 260 Day 4 - [Flexbox Fundamentals](/winter-2021{% link _posts/2021-01-25-flexbox.md %})
 - T: CPNT 260 Day 5 - [Media Queries and Icons](/winter-2021{% link _posts/2021-01-26-media-queries-icons.md %})
-- W: CPNT 260 Day 6 - [Cards and Sidebars](/winter-2021{% link _posts/2021-01-27-cards-sidebars.md %})
+- W: CPNT 260 Day 6 - [Cards and Sidebars](/winter-2021{% link _posts/2021-01-27-flexbox-patterns.md %})
 - R: CPNT 260 Day 7 - Galleries
 - F: CPNT 260 Day 8 - Hero sections
 
