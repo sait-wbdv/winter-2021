@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Cards and Sidebars
+title: [title here]
 categories: cpnt260
 ---
 
@@ -26,5 +26,25 @@ categories: cpnt260
     - Watch: [Incredibly Easy Layouts with CSS Grid](https://youtu.be/tFKrK4eAiUQ) by Jenn Simmons
     - Watch: [Using Flexbox + CSS Grid Together: Easy Gallery Layout](https://youtu.be/dQHtT47eH0M) by Jenn Simmons
 
+---
+
+## Morning reflection
+### Housekeeping
 
 ---
+
+## Lecture/Live code
+### Learning Objectives
+### Terms
+### Materials
+### Key Takeaways
+
+---
+
+## Open lab-time
+### Tony's goals
+
+---
+
+## Dailies
+- Submit today's Codepen/repo/gist to the Dailies section (in Assessments) in Brightspace.

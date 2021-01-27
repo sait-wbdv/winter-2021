@@ -86,7 +86,7 @@ flex-shrink
 <script async src="https://cpwebassets.codepen.io/assets/embed/ei.js"></script>
 
 - Gist: [Default item settings and defaults](https://gist.github.com/acidtone/c7103937a432c3dbb94a96debf1dbeb8)
-- Gist: Even Columns
+- Gist: [Even Columns](https://gist.github.com/acidtone/5f493cac57f8b8a5485558bfab45dffe)
 - Gist: Grid-ish
 - Gist: Content/Sidebar
 
@@ -118,6 +118,7 @@ Move side content to a responsive sidebar:
 - Deploy WBDV v0.2
   - notices
   - page nav
+  - update media query primary nav
 
 ## Activities
 ### 1. MDN: Test your skills
