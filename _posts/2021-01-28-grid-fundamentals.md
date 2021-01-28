@@ -5,7 +5,9 @@ categories: cpnt260
 ---
 
 ## Homework
-1. CSS Grid
+1. Review
+    - [Flexbox vs. CSS Grid — Which is Better?](https://youtu.be/hs3piaN4b5I) by Jenn Simmons
+2. CSS Grid
     - Read: [Grids](https://developer.mozilla.org/en-US/docs/Learn/CSS/CSS_layout/Grids) on MDN
     - Reference: [Grid by Example](https://gridbyexample.com)
         - [Examples](https://gridbyexample.com/examples/)
@@ -19,12 +21,10 @@ categories: cpnt260
         - [Repeat Notation](https://gridbyexample.com/video/series-repeat/)
         - [Introducing minmax()](https://gridbyexample.com/video/series-minmax/)
     - Game: [CSS Grid Garden](https://cssgridgarden.com/)
-2. Fast Layouts
+3. Fast Layouts
     - Watch: [Build a Classic Layout FAST in CSS Grid](https://youtu.be/KOvGeFUHAC0) by Miriam Suzanne
     - Watch: [Incredibly Easy Layouts with CSS Grid](https://youtu.be/tFKrK4eAiUQ) by Jenn Simmons
     - Watch: [Using Flexbox + CSS Grid Together: Easy Gallery Layout](https://youtu.be/dQHtT47eH0M) by Jenn Simmons
-
-{% comment %}
 
 ---
 
@@ -37,16 +37,23 @@ categories: cpnt260
 ### Learning Objectives
 - Discuss the differences between Flexbox and CSS Grid.
 - Identify the the strengths and weaknesses of each technology.
-- Define a Grid template.
+- Define a Grid template using traditional length units.
+- Define a Grid template using the `fr` unit.
 - Layout a web page with Grid names and areas.
 
 ### Terms
 - See: [Complete Guide to Grid](https://css-tricks.com/snippets/css/complete-guide-grid/)
 
 ### Materials
+- Gist: [Starter Code](https://gist.github.com/acidtone/d946ea7147e60568d7f8262b5e7be449)
 - Traditional Layout with grid areas:
   - [Gist](https://gist.github.com/acidtone/0813b3f46c99cc08760a421f3d2dcca3)
   - [Codepen](https://codepen.io/browsertherapy/pen/gOYVaVN)
+
+### General implementation process
+1. Define your container. All direct children will become grid items.
+2. Define your Grid template.
+3. Explicitly place items, if needed.
 
 ### Key Takeaways
 - Like Flexbox, Grid items are defined as the direct children of the container.
@@ -94,5 +101,3 @@ categories: cpnt260
 
 ## Dailies
 - Submit today's Codepen/repo/gist to the Dailies section (in Assessments) in Brightspace.
-
-{% endcomment %}
