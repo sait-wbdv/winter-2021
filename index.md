@@ -21,7 +21,7 @@ title: "Program Schedule"
 - T: CPNT 260 Day 5 - [Media Queries and Icons](/winter-2021{% link _posts/2021-01-26-media-queries-icons.md %})
 - W: CPNT 260 Day 6 - [Flexbox Patterns](/winter-2021{% link _posts/2021-01-27-flexbox-patterns.md %})
 - R: CPNT 260 Day 7 - [Grid Fundamentals](/winter-2021{% link _posts/2021-01-28-grid-fundamentals.md %})
-- F: CPNT 260 Day 8 - Card Patterns
+- F: CPNT 260 Day 8 - [Card Patterns](/winter-2021{% link _posts/2021-01-29-card-patterns.md %})
 
 ## Week 4: Feb 1-5
 - M: CPNT 260 Day 9 - Hero sections
