@@ -108,5 +108,17 @@ categories: cpnt260
 
 ---
 
+## Activities
+1. MDN: [Test your skils: Grid Layout](https://developer.mozilla.org/en-US/docs/Learn/CSS/CSS_layout/Grid_skills)
+2. Free Code Camp: [Grid challenges](https://www.freecodecamp.org/learn/responsive-web-design/css-grid/)
+3. Layout challenges: try using Grid to duplicate the following layouts:
+    - [Calculator](https://scotch-res.cloudinary.com/image/upload/dpr_1,w_800,q_auto:good,f_auto/media/1/dlOjNGD9TeV4OeAQCHvM_227WdRs.png)
+    - [3.5 Columns](https://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/df3ba450-a9a3-49be-a224-03be84e3de8c/09-grid-image-areas-opt.png)
+    - [Mondrian layout](https://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/34fb87db-ec24-471a-9042-1e353ce7df7b/10-grid-mondrian-opt.png)
+    - [Cats!](https://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/4163e9b5-d6b5-4170-91e1-ab33e91a7587/04-grid-comic-opt.png)
+    - [Random Layout](https://seesparkbox.com/uploads/article_uploads/cssgrid_flexbox_fallbacks.png)
+
+---
+
 ## Dailies
 - Submit today's Codepen/repo/gist to the Dailies section (in Assessments) in Brightspace.
