@@ -30,6 +30,7 @@ categories: cpnt260
 
 ## Morning reflection
 ### Housekeeping
+1. [CPNT 260 Assignment 3](https://github.com/sait-wbdv/assessments/tree/master/cpnt260)
 
 ---
 
