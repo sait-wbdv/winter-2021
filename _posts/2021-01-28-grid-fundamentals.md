@@ -31,6 +31,13 @@ categories: cpnt260
 ## Morning reflection
 ### Housekeeping
 1. [CPNT 260 Assignment 3](https://github.com/sait-wbdv/assessments/tree/master/cpnt260)
+2. Dailies feedback
+    - Decline in submissions for W3W?
+    - Copy and paste is fine, but...
+        - Try making something from scratch.
+        - Add comments: problems, victories, questions.
+    - `body` and `head` are not needed in Codepen.
+    - Comment out broken code if something isn't working and you need help with it.
 
 ---
 
