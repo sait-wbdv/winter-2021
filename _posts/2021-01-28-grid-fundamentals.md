@@ -54,7 +54,8 @@ categories: cpnt260
 
 ### Materials
 - Gist: [Starter Code](https://gist.github.com/acidtone/d946ea7147e60568d7f8262b5e7be449)
-- Traditional Layout with grid areas:
+- Gist: [Traditional sidebar layout](https://gist.github.com/acidtone/4c73631fe86425523c3161743a32f03b)
+- Traditional layout with grid areas:
   - [Gist](https://gist.github.com/acidtone/0813b3f46c99cc08760a421f3d2dcca3)
   - [Codepen](https://codepen.io/browsertherapy/pen/gOYVaVN)
 
