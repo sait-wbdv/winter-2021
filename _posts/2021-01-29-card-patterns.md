@@ -79,6 +79,8 @@ Aspect ratio
 
 ### Materials
 - [Norville's sweet sandbox](https://nozky.github.io/playground/).
+- [Replaced elements](https://developer.mozilla.org/en-US/docs/Web/CSS/Replaced_element)
+- [The figure with optional caption element](https://developer.mozilla.org/en-US/docs/Web/HTML/Element/figure)
 - [Card](https://developer.mozilla.org/en-US/docs/Web/CSS/Layout_cookbook/Card) from the [MDN Layout Cookbook](https://developer.mozilla.org/en-US/docs/Web/CSS/Layout_cookbook)
 
 ### Key Takeaways
