@@ -41,6 +41,12 @@ categories: cpnt260
 - Evaluate extension search results.
 - Optional: install a VS Code extention.
 
+### Activity: Extension window shopping
+In groups of 3 or 4, search, share and/or install useful VS Code extensions.
+
+### Favourites
+- 
+
 ## Lecture/Live code
 ### Learning Objectives
 - Define replaced elements.
@@ -106,6 +112,7 @@ Aspect ratio
     - `git status`
     - what was the goal again?
     - todo: add todos
+    - document side projects but stay on target
 5. Optimize
     - start with simple bits
 6. Clean-up and prep
