@@ -11,12 +11,12 @@ categories: cpnt260
     - Read: [The figure with optional caption element](https://developer.mozilla.org/en-US/docs/Web/HTML/Element/figure)
     - Read: [Replaced elements](https://developer.mozilla.org/en-US/docs/Web/CSS/Replaced_element)
 3. Cards
-    - Read: [Card](https://developer.mozilla.org/en-US/docs/Web/CSS/Layout_cookbook/Card)
+    - Read: [Card](https://developer.mozilla.org/en-US/docs/Web/CSS/Layout_cookbook/Card) from the [MDN Layout Cookbook](https://developer.mozilla.org/en-US/docs/Web/CSS/Layout_cookbook)
 4. Preserving image aspect ratio
+    - Read: [Cropping Images in CSS With object-fit](https://www.digitalocean.com/community/tutorials/css-cropping-images-object-fit)
     - Reference: 
         - [`object-fit`](https://developer.mozilla.org/en-US/docs/Web/CSS/object-fit)
         - [`background-size`](https://developer.mozilla.org/en-US/docs/Web/CSS/background-size)
-    - Read: [Cropping Images in CSS With object-fit](https://www.digitalocean.com/community/tutorials/css-cropping-images-object-fit)
 
 ---
 
@@ -113,6 +113,7 @@ Aspect ratio
 4. Walk-through
     - `git status`
     - what was the goal again?
+    - is it time to move?
     - todo: add todos
     - document side projects but stay on target
 5. Optimize
