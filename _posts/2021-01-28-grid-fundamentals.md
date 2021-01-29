@@ -5,7 +5,9 @@ categories: cpnt260
 ---
 
 ## Homework
-1. CSS Grid
+1. Review
+    - [Flexbox vs. CSS Grid — Which is Better?](https://youtu.be/hs3piaN4b5I) by Jenn Simmons
+2. CSS Grid
     - Read: [Grids](https://developer.mozilla.org/en-US/docs/Learn/CSS/CSS_layout/Grids) on MDN
     - Reference: [Grid by Example](https://gridbyexample.com)
         - [Examples](https://gridbyexample.com/examples/)
@@ -19,17 +21,23 @@ categories: cpnt260
         - [Repeat Notation](https://gridbyexample.com/video/series-repeat/)
         - [Introducing minmax()](https://gridbyexample.com/video/series-minmax/)
     - Game: [CSS Grid Garden](https://cssgridgarden.com/)
-2. Fast Layouts
+3. Fast Layouts
     - Watch: [Build a Classic Layout FAST in CSS Grid](https://youtu.be/KOvGeFUHAC0) by Miriam Suzanne
     - Watch: [Incredibly Easy Layouts with CSS Grid](https://youtu.be/tFKrK4eAiUQ) by Jenn Simmons
     - Watch: [Using Flexbox + CSS Grid Together: Easy Gallery Layout](https://youtu.be/dQHtT47eH0M) by Jenn Simmons
-
-{% comment %}
 
 ---
 
 ## Morning reflection
 ### Housekeeping
+1. [CPNT 260 Assignment 3](https://github.com/sait-wbdv/assessments/tree/master/cpnt260)
+2. Dailies feedback
+    - Decline in submissions for W3W?
+    - Copy and paste is fine, but...
+        - Try making something from scratch.
+        - Add comments: problems, victories, questions.
+    - `body` and `head` are not needed in Codepen.
+    - Comment out broken code if something isn't working and you need help with it.
 
 ---
 
@@ -37,16 +45,24 @@ categories: cpnt260
 ### Learning Objectives
 - Discuss the differences between Flexbox and CSS Grid.
 - Identify the the strengths and weaknesses of each technology.
-- Define a Grid template.
+- Define a Grid template using traditional length units.
+- Define a Grid template using the `fr` unit.
 - Layout a web page with Grid names and areas.
 
 ### Terms
 - See: [Complete Guide to Grid](https://css-tricks.com/snippets/css/complete-guide-grid/)
 
 ### Materials
-- Traditional Layout with grid areas:
+- Gist: [Starter Code](https://gist.github.com/acidtone/d946ea7147e60568d7f8262b5e7be449)
+- Gist: [Traditional sidebar layout](https://gist.github.com/acidtone/4c73631fe86425523c3161743a32f03b)
+- Traditional layout with grid areas:
   - [Gist](https://gist.github.com/acidtone/0813b3f46c99cc08760a421f3d2dcca3)
   - [Codepen](https://codepen.io/browsertherapy/pen/gOYVaVN)
+
+### General implementation process
+1. Define your container. All direct children will become grid items.
+2. Define your Grid template.
+3. Explicitly place items, if needed.
 
 ### Key Takeaways
 - Like Flexbox, Grid items are defined as the direct children of the container.
@@ -92,7 +108,17 @@ categories: cpnt260
 
 ---
 
+## Activities
+1. MDN: [Test your skils: Grid Layout](https://developer.mozilla.org/en-US/docs/Learn/CSS/CSS_layout/Grid_skills)
+2. Free Code Camp: [Grid challenges](https://www.freecodecamp.org/learn/responsive-web-design/css-grid/)
+3. Layout challenges: try using Grid to duplicate the following layouts:
+    - [Calculator](https://scotch-res.cloudinary.com/image/upload/dpr_1,w_800,q_auto:good,f_auto/media/1/dlOjNGD9TeV4OeAQCHvM_227WdRs.png)
+    - [3.5 Columns](https://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/df3ba450-a9a3-49be-a224-03be84e3de8c/09-grid-image-areas-opt.png)
+    - [Mondrian layout](https://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/34fb87db-ec24-471a-9042-1e353ce7df7b/10-grid-mondrian-opt.png)
+    - [Cats!](https://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/4163e9b5-d6b5-4170-91e1-ab33e91a7587/04-grid-comic-opt.png)
+    - [Random Layout](https://seesparkbox.com/uploads/article_uploads/cssgrid_flexbox_fallbacks.png)
+
+---
+
 ## Dailies
 - Submit today's Codepen/repo/gist to the Dailies section (in Assessments) in Brightspace.
-
-{% endcomment %}
