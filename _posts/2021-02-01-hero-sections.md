@@ -12,6 +12,10 @@ categories: cpnt260
     - Skim: [Linear Gradients](https://css-tricks.com/css3-gradients/)
 3. Full Viewport Containers 
     - Watch: [Introduction to Viewport Units](https://youtu.be/_sgF8I-Q1Gs)
+4. Sample code
+    - [Tissue Contrast Illusion](http://browsertherapy.com/challenges/tissue-contrast/)
+        - Objectives 1 and 2 cover the code we'll need for a basic hero section.
+        - Objective 3 comes in handy for mobile menus.
 
 ---
 
