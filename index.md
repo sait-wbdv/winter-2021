@@ -24,8 +24,8 @@ title: "Program Schedule"
 - F: CPNT 260 Day 8 - [Card Patterns](/winter-2021{% link _posts/2021-01-29-card-patterns.md %})
 
 ## Week 4: Feb 1-5
-- M: CPNT 260 Day 9 - Hero sections
-- T: CPNT 260 Day 10 - Review and extras
+- M: CPNT 260 Day 9 - [Hero sections](/winter-2021{% link _posts/2021-02-01-hero-sections.md %})
+- T: CPNT 260 Day 10 - [CSS Variables](/winter-2021{% link _posts/2021-02-02-css-variables.md %})
 - W: CPNT 201 Day 3 - Raster Images
 - R: CPNT 201 Day 4
 - F: CPNT 201 Day 5

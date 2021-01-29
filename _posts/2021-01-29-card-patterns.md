@@ -13,7 +13,9 @@ categories: cpnt260
 3. Cards
     - Read: [Card](https://developer.mozilla.org/en-US/docs/Web/CSS/Layout_cookbook/Card)
 4. Preserving image aspect ratio
-    - Reference: [`object-fit`](https://developer.mozilla.org/en-US/docs/Web/CSS/object-fit)
+    - Reference: 
+        - [`object-fit`](https://developer.mozilla.org/en-US/docs/Web/CSS/object-fit)
+        - [`background-size`](https://developer.mozilla.org/en-US/docs/Web/CSS/background-size)
     - Read: [Cropping Images in CSS With object-fit](https://www.digitalocean.com/community/tutorials/css-cropping-images-object-fit)
 
 ---
