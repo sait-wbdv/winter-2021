@@ -59,7 +59,7 @@ In groups of 3 or 4, search, share and/or install useful VS Code extensions.
 - Live Share (v1.0.3577)
 - Color highlighter
   - colorizer
-  - color highlight 
+  - color highlight
 
 ## Lecture/Live code
 ### Learning Objectives
@@ -113,14 +113,26 @@ Aspect ratio
 ### Learning Objectives
 - Walkthrough: [Tony's GH home page](https://acidtone.github.io/)
 - Practice process (see below).
-- Plan out some cards.
+- Plan out some layout and cards.
+- Try out GH Projects for project documentation.
 
 ### Coding process
 1. Understand the problem
     - Goal?
+      - Refactor home page for hackathon
+          - All about them, not me.
+          - mobile-first needed
+            - layout?
+      - Need new cards
+        - How to command line and git
+          - As body text under the hero
+      - Need new colour scheme. Switch to Flexbox default system? 
 2. Plan it out
     - split the problem (aka. divide and conquer)
     - inside-out or outside-in?
+    - Sketch out a mobile layout.
+    - Re-think the card format.
+    - Alternatives to email address?
 3. Brute force a solution
     - dirty code is great
     - stay focused on the problem
@@ -132,6 +144,7 @@ Aspect ratio
     - is it time to move?
     - todo: add todos
     - document side projects but stay on target
+    - `git commit`
 5. Optimize
     - start with simple bits
 6. Clean-up and prep
