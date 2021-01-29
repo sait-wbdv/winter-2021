@@ -47,7 +47,14 @@ categories: cpnt260
 In groups of 3 or 4, search, share and/or install useful VS Code extensions.
 
 ### Favourites
-- 
+- Bracket pair colourizer 2 (v0.2.0)
+- Code Spell Checker (v1.10.2)
+- ESLint (2.1.14)
+- CSS Peek (v4.0.2)
+- Live Share (v1.0.3577)
+- Color highlighter
+  - colorizer
+  - color highlight 
 
 ## Lecture/Live code
 ### Learning Objectives
