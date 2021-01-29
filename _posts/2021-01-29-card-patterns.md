@@ -45,6 +45,11 @@ categories: cpnt260
 
 ### Activity: Extension window shopping
 In groups of 3 or 4, search, share and/or install useful VS Code extensions.
+- Who maintains the repo?
+- When was the last commit?
+- How many contributors are there?
+- What's the ration of Open-to-Closed Issues?
+- Do they accept/merge Pull Requests?
 
 ### Favourites
 - Bracket pair colourizer 2 (v0.2.0)
@@ -74,6 +79,7 @@ Aspect ratio
 
 ### Materials
 - [Norville's sweet sandbox](https://nozky.github.io/playground/).
+- [Card](https://developer.mozilla.org/en-US/docs/Web/CSS/Layout_cookbook/Card) from the [MDN Layout Cookbook](https://developer.mozilla.org/en-US/docs/Web/CSS/Layout_cookbook)
 
 ### Key Takeaways
 - Defining both a `width` and `height` is often bad for `img` and `background-image` aspect ratio.
@@ -85,7 +91,7 @@ Aspect ratio
         ```css
         img {
           object-fit: cover; 
-          /* object-fit: `contain`; */
+          /* object-fit: contain; */
         }
         ```
 
@@ -95,6 +101,7 @@ Aspect ratio
         div {
           /* Some other bg properties might needed to get this to work. */
           background-size: cover; 
+          /* background-size: contain; */
         }
         ```
 
