@@ -23,7 +23,8 @@ categories: cpnt260
 ### Housekeeping
 1. [CPNT 260 Assignment 4](https://github.com/sait-wbdv/assessments/tree/master/cpnt260/assignment-4)
 2. DSGN 270 Marks Published
-3. Preliminary feedback on 260 Assignment 1:
+3. Changes to tomorrow's homework
+4. Preliminary feedback on 260 Assignment 1:
     - **Code Quality**
         1. Validation
             1. Broken root HTML structure. See [Anatomy of an HTML document](https://developer.mozilla.org/en-US/docs/Learn/HTML/Introduction_to_HTML/Getting_started#Anatomy_of_an_HTML_document)
