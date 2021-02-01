@@ -81,6 +81,7 @@ hr {
 
 /* Notice box and info box */
 /* TODO: remove notice--info? */
+
 .notice {
   /* box model */
   margin: 25px auto;
@@ -104,11 +105,26 @@ hr {
   color: hsl(60deg, 100%, 10%);
 }
 
+.notice--warning::before {
+  content: url('https://sait-wbdv.github.io/sample-code/assets/font-awesome/svgs/solid/exclamation-triangle.svg');
+  display: inline-block;
+  
+  width: 1.2em;
+  margin-right: 0.4rem;
+}
+
 /* green warning box */
 .notice--info  {
   background-color: hsl(90deg, 30%, 95%);
   border-color: hsl(90deg, 100%, 50%);
   color: hsl(90deg, 100%, 10%);
+}
+
+.notice--info::before {
+  content: url('https://sait-wbdv.github.io/sample-code/assets/font-awesome/svgs/solid/question.svg');
+  display: inline-block;
+  width: 0.8em;
+  margin-right: 0.4rem;
 }
 
 /* indigo pro-tip box */
@@ -117,14 +133,24 @@ hr {
   border-color: hsl(270deg, 100%, 50%);
   color: hsl(270deg, 100%, 10%);
 }
-
+.notice--pro-tip::before {
+  content: url('https://sait-wbdv.github.io/sample-code/assets/font-awesome/svgs/solid/trophy.svg');
+  display: inline-block;
+  width: 1.2em;
+  margin-right: 0.4rem;
+}
 /* indigo pro-tip box */
 .notice--danger  {
   background-color: hsl(0deg, 50%, 95%);
   border-color: hsl(0deg, 100%, 50%);
   color: hsl(0deg, 100%, 10%);
 }
-
+.notice--danger::before {
+  content: url('https://sait-wbdv.github.io/sample-code/assets/font-awesome/svgs/solid/skull-crossbones.svg');
+  display: inline-block;
+  width: 0.9em;
+  margin-right: 0.4rem;
+}
 
 /***************/
 /* Definitions */
