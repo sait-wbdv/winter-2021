@@ -85,7 +85,7 @@ hr {
   /* box model */
   margin: 25px auto;
   padding: 25px 50px;
-  width: 50ch;
+  max-width: 50ch;
 
   /* colour */
   border-radius: 15px;
@@ -93,17 +93,38 @@ hr {
   border: 5px solid black;
 }
 
-/* red warning box */
-.notice--warning  {
-  background-color: pink;
-  border-color: red;
+.notice i {
+  margin-right: .5rem;
 }
 
-/* purple pro-tip box */
-.notice--pro-tip {
-  background-color: skyblue;
-  border-color: rebeccapurple;
+/* yellow warning box */
+.notice--warning  {
+  background-color: hsl(60deg, 50%, 95%);
+  border-color: hsl(50deg, 100%, 50%);
+  color: hsl(60deg, 100%, 10%);
 }
+
+/* green warning box */
+.notice--info  {
+  background-color: hsl(90deg, 30%, 95%);
+  border-color: hsl(90deg, 100%, 50%);
+  color: hsl(90deg, 100%, 10%);
+}
+
+/* indigo pro-tip box */
+.notice--pro-tip  {
+  background-color: hsl(270deg, 50%, 95%);
+  border-color: hsl(270deg, 100%, 50%);
+  color: hsl(270deg, 100%, 10%);
+}
+
+/* indigo pro-tip box */
+.notice--danger  {
+  background-color: hsl(0deg, 50%, 95%);
+  border-color: hsl(0deg, 100%, 50%);
+  color: hsl(0deg, 100%, 10%);
+}
+
 
 /***************/
 /* Definitions */
