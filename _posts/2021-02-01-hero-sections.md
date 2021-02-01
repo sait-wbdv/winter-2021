@@ -29,7 +29,7 @@ categories: cpnt260
             1. Broken root HTML structure. See [Anatomy of an HTML document](https://developer.mozilla.org/en-US/docs/Learn/HTML/Introduction_to_HTML/Getting_started#Anatomy_of_an_HTML_document)
             2. Significant syntax errors.
             3. Minor-moderate syntax errors.
-        2. [File structure](https://sait-wbdv.github.io/cheatsheets/naming-conventions/#file-naming-conventionsguidelines)
+        2. [File structure](https://sait-wbdv.github.io/winter-2021/cheatsheets/naming-conventions/#file-naming-conventionsguidelines)
             1. HTML page should be named `index.html`
             2. External css files should be in a `css` directory.
             3. Your images should be in a dedicated `images` directory.
