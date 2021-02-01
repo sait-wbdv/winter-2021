@@ -19,8 +19,6 @@ categories: cpnt260
 
 ---
 
-{% comment %}
-
 ## Morning reflection
 ### Housekeeping
 1. [CPNT 260 Assignment 4](https://github.com/sait-wbdv/assessments/tree/master/cpnt260/assignment-4)
@@ -71,7 +69,13 @@ categories: cpnt260
 
 ---
 
-## 2. Live-code example: Definition slide
+## 2. Live-code session
+1. Definition slide
+2. Example Hero section
+
+### Materials
+- Sample Code: [Landing Stock images](https://github.com/sait-wbdv/sample-code/tree/master/assets/images/landing-stock)
+- [Sample Fonts](https://sait-wbdv.github.io/winter-2021/assets/fonts/raleway-light_open-sans-light.css)
 
 ---
 
@@ -88,5 +92,3 @@ Find an example of a hero section online that you think you can duplicate.
 
 ## Dailies
 - Submit today's Codepen/repo/gist to the Dailies section (in Assessments) in Brightspace.
-
-{% endcomment %}
