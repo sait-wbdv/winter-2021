@@ -38,7 +38,7 @@ categories: cpnt260
             2. Nested code blocks should be indented.
             3. CSS declarations should be organized by category (box model, fonts, borders, flex, etc), separated by a space.
     - **Project Documentation**
-        1. README file. Note: many of you didn't include one and I should have been more explicit. I removed a maximum of one point for missing READMEs to be fair to those that created one. Suggested information for a README:
+        1. Missing README file. 
             1. Course code and title
             2. Assignment title
             3. GH Pages link
