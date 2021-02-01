@@ -58,6 +58,7 @@ categories: cpnt260
 - Spice things up with `background-blend-mode` and transparency.
 
 ### Materials
+- Gist: [Vertical Centering: Flex and margin: auto](https://gist.github.com/acidtone/afe2d19e3793e763950a6ddccd308720)
 - [Tissue Contrast Illusion](http://browsertherapy.com/challenges/tissue-contrast/)
 - Examples: 
   - [Hero section with multiple gradients](https://codepen.io/browsertherapy/pen/ExKGBMg)
