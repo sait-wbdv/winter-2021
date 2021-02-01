@@ -6,7 +6,9 @@ categories: cpnt260
 
 ## Homework
 1. CSS Variables
-    - [Lea Verou on CSS Variable Secrets at SmashingConf Toronto 2018](https://vimeo.com/292466625)
+    - Read: [Using CSS custom properties (variables)](https://developer.mozilla.org/en-US/docs/Web/CSS/Using_CSS_custom_properties) on MDN
+    - Read: [CSS Variables: Why Should You Care?](https://developers.google.com/web/updates/2016/02/css-variables-why-should-you-care) on Google Developer
+    - Watch: [Lea Verou on CSS Variable Secrets at SmashingConf Toronto 2018](https://vimeo.com/292466625)
 2. Variables of what?
     - Class picks
 
