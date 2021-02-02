@@ -52,6 +52,8 @@ categories: cpnt260
 - `relative` and `absolute` positioning.
   - Codepen: [CSS Positioning](https://codepen.io/browsertherapy/pen/PobqQjv)
   - Gist: [CSS Positioning v0.1](https://gist.github.com/acidtone/61ae09c7efb6a504010d17199e41510e)
+- transitions
+  - [Cubic Bezier Generator](https://cubic-bezier.com/)
 
 ### Key Takeaways
 - `top`/`bottom`/`left`/`right` and `z-index` only work on positioned elements.
