@@ -66,7 +66,14 @@ categories: cpnt260
 ---
 
 ## Open lab-time
-1. Try using the Checkbox hack to hide and display a mobile menu using one of the methods above.
+1. Try using the [Checkbox hack](https://css-tricks.com/the-checkbox-hack/) to hide and display a mobile menu using one of the methods above.
+    - Try one of the options listed in this Gist: [Hiding an element](https://gist.github.com/acidtone/61ae09c7efb6a504010d17199e41510e)
+
+    **Warning**: The checkbox hack above only works when the menu is the _next downstream_ sibling of the `input` element, in source order. 
+    {: .notice .notice--warning}
+
+2. Try adding a `transition` in the above Gist.
+    - For extra effect, try using the [Cubic Bezier](https://cubic-bezier.com/) function as a timing function.
 
 ### Tony's goals for Lab-Time
 - Work on W4W-F.
