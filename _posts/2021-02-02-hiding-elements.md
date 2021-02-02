@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Positioning and CSS Variables (Custom properties)
+title: Hiding Elements
 categories: cpnt260
 ---
 
@@ -14,7 +14,7 @@ categories: cpnt260
     - Read: [CSS Transition Examples](https://www.freecodecamp.org/news/css-transition-examples/) on Free Code Camp
     - Reference: [`transition` property](https://developer.mozilla.org/en-US/docs/Web/CSS/transition)
     - Optional: [Using CSS animations](https://developer.mozilla.org/en-US/docs/Web/CSS/CSS_Animations/Using_CSS_animations)
-3. CSS Variables
+3. Optional: CSS Variables
     - Read: [Using CSS custom properties (variables)](https://developer.mozilla.org/en-US/docs/Web/CSS/Using_CSS_custom_properties) on MDN
     - Read: [CSS Variables: Why Should You Care?](https://developers.google.com/web/updates/2016/02/css-variables-why-should-you-care) on Google Developer
     - Watch: [Lea Verou on CSS Variable Secrets at SmashingConf Toronto 2018](https://vimeo.com/292466625)
