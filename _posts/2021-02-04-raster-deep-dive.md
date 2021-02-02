@@ -12,10 +12,9 @@ categories: cpnt201
 
 ---
 
-{% comment %}
-
 ## Morning reflection
 ### Housekeeping
+- 
 
 ---
 

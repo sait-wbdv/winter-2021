@@ -26,9 +26,9 @@ title: "Program Schedule"
 ## Week 4: Feb 1-5
 - M: CPNT 260 Day 9 - [Hero sections](/winter-2021{% link _posts/2021-02-01-hero-sections.md %})
 - T: CPNT 260 Day 10 - [CSS Variables](/winter-2021{% link _posts/2021-02-02-positioning-css-variables.md %})
-- W: CPNT 201 Day 3 - [Raster Images](/winter-2021{% link _posts/2021-02-03-raster-deep-dive.md %})
-- R: CPNT 201 Day 4
-- F: CPNT 201 Day 5
+- W: CPNT 201 Day 3 - [Editing Images](/winter-2021{% link _posts/2021-02-03-image-editing.md %})
+- R: CPNT 201 Day 4 - [Raster Image Deep-dive](/winter-2021{% link _posts/2021-02-03-raster-deep-dive.md %})
+- F: CPNT 201 Day 5 - [Lazy-loading Images](/winter-2021{% link _posts/2021-02-05-lazy-loading.md %})
 
 ## Week 5: Feb 8-12
 - M: CPNT 201 Day 6 - Vector Images
