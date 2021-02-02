@@ -19,19 +19,18 @@ categories: cpnt260
 
 ---
 
-{% comment %}
-
 ## Morning reflection
 ### Housekeeping
 1. [CPNT 260 Assignment 4](https://github.com/sait-wbdv/assessments/tree/master/cpnt260/assignment-4)
 2. DSGN 270 Marks Published
-3. Preliminary feedback on 260 Assignment 1:
+3. Changes to tomorrow's homework
+4. Preliminary feedback on 260 Assignment 1:
     - **Code Quality**
         1. Validation
             1. Broken root HTML structure. See [Anatomy of an HTML document](https://developer.mozilla.org/en-US/docs/Learn/HTML/Introduction_to_HTML/Getting_started#Anatomy_of_an_HTML_document)
             2. Significant syntax errors.
             3. Minor-moderate syntax errors.
-        2. [File structure](https://sait-wbdv.github.io/cheatsheets/naming-conventions/#file-naming-conventionsguidelines)
+        2. [File structure](https://sait-wbdv.github.io/winter-2021/cheatsheets/naming-conventions/#file-naming-conventionsguidelines)
             1. HTML page should be named `index.html`
             2. External css files should be in a `css` directory.
             3. Your images should be in a dedicated `images` directory.
@@ -40,7 +39,7 @@ categories: cpnt260
             2. Nested code blocks should be indented.
             3. CSS declarations should be organized by category (box model, fonts, borders, flex, etc), separated by a space.
     - **Project Documentation**
-        1. README file. Note: many of you didn't include one and I should have been more explicit. I removed a maximum of one point for missing READMEs to be fair to those that created one. Suggested information for a README:
+        1. Missing README file. 
             1. Course code and title
             2. Assignment title
             3. GH Pages link
@@ -59,6 +58,7 @@ categories: cpnt260
 - Spice things up with `background-blend-mode` and transparency.
 
 ### Materials
+- Gist: [Vertical Centering: Flex and margin: auto](https://gist.github.com/acidtone/afe2d19e3793e763950a6ddccd308720)
 - [Tissue Contrast Illusion](http://browsertherapy.com/challenges/tissue-contrast/)
 - Examples: 
   - [Hero section with multiple gradients](https://codepen.io/browsertherapy/pen/ExKGBMg)
@@ -71,7 +71,13 @@ categories: cpnt260
 
 ---
 
-## 2. Live-code example: Definition slide
+## 2. Live-code session
+1. Definition slide
+2. Example Hero section
+
+### Materials
+- Sample Code: [Landing Stock images](https://github.com/sait-wbdv/sample-code/tree/master/assets/images/landing-stock)
+- [Sample Fonts](https://sait-wbdv.github.io/winter-2021/assets/fonts/raleway-light_open-sans-light.css)
 
 ---
 
@@ -88,5 +94,3 @@ Find an example of a hero section online that you think you can duplicate.
 
 ## Dailies
 - Submit today's Codepen/repo/gist to the Dailies section (in Assessments) in Brightspace.
-
-{% endcomment %}

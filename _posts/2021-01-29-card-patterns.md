@@ -146,6 +146,8 @@ Aspect ratio
     - document side projects but stay on target
     - `git commit`
 5. Optimize
+    - Am I moving?
+    - label the todos that are "optimization"
     - start with simple bits
 6. Clean-up and prep
     - `git commit`
