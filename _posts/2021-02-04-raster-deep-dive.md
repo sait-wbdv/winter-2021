@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Raster image deep-dive
+title: Raster Image Optimization with Squoosh.app
 categories: cpnt201
 ---
 
@@ -10,10 +10,11 @@ categories: cpnt201
     - Read: [`picture` element](https://developer.mozilla.org/en-US/docs/Web/HTML/Element/picture)
     - Reference: [Image file type and format guide](https://developer.mozilla.org/en-US/docs/Web/Media/Formats/Image_types)
     - Tool: [Squoosh.app](https://squoosh.app/)
+2. Image `width` and `height` attributes
+    - Read: [Setting Height And Width On Images Is Important Again](https://www.smashingmagazine.com/2020/03/setting-height-width-images-important-again/)
+    - Watch: [Do This to Improve Image Loading on Your Website](https://youtu.be/4-d_SoCHeWE)
 
 ---
-
-{% comment %}
 
 ## Morning reflection
 ### Housekeeping
@@ -21,7 +22,7 @@ categories: cpnt201
 
 ---
 
-## Lecture/Live code
+## Image Optimization Fundamentals
 ### Learning Objectives
 1. Define image encoder.
 2. Distinguish between lossless, lossy compression.
@@ -52,13 +53,68 @@ Brightness Data
 
 ---
 
+## 2. HTML Image Optimization: `width` and `height` attributes
+
+- Add `width` and `height` attributes to an `img` element.
+- Demonstrate the advantages of using `width` and `height` attributes.
+- Explore the risks of breaking image aspect ratio when `width` and `height` attributes are defined.
+- Compare the performance of a web page with and without `width`/`height` attributes.
+
+---
+
 ## Open lab-time
-### Tips for learning
-### Tony's goals for Lab-Time
+### Activity 1: Squooshing high-frequency images with WebP (Lossy)
+Optimize an image file size using [Squoosh.app](https://squoosh.app/):
+1. Pick a high frequency image (try [jank](https://github.com/sait-wbdv/assets/blob/main/images/source/jank.png) and upload it to Squoosh.
+2. Zoom the image to the size it will be on the web page (and resist the urge to zoom).
+    - To account for high resolution displays, take the native size of your image and zoom out so it's about 50% of its original size.
+3. Choose `WebP` encoder under "Compress".
+4. Turn down Quality until the image "looks bad".
+5. Increase Effort (to max?).
+6. Advanced Settings: 
+    - try toggling `Auto adjust filter strength`;
+    - try adjusting `Spatial noise shaping`.
+7. Download and save your optimized files in a `full` directory next to your `source` directory.
+
+### Activity 2a: Creating JPEG image (for Safari)
+1. Choose `MozJPEG` encoder under "Compress".
+2. Reduce `Quality` until the image "looks bad".
+3. Advanced Settings:
+    - try adjusting `Subsample chroma by`;
+    - try toggling `Separate chroma quality`.
+4. Download the optimized image and use it as an asset in a project web page of your choice.
+5. Complete two performance audits on your project page using Chrome Lighthouse: once with the original image file and a second with the optimized image file.
+6. Download and save your optimized files in a `full` directory next to your `source` directory.
+
+### Activity 3: Squooshing low-frequency images with WebP (Lossless)
+1. Pick a low-frequency image (something with a lot of flat colour) and upload it to Squoosh.
+2. Zoom the image to the size it will be on the web page (and resist the urge to zoom).
+    - To account for high resolution displays, take the native size of your image and zoom out so it's about 50% of its original size.
+3. Choose `WebP` encoder under "Compress".
+4. Click `Lossless` to enable the low-frequency encoder.
+5. Increase `Effort` (to max?).
+6. Try increasing `Slight loss`. Your mileage may vary.
+7. Try `reduce pallette` to remove unneeded colours.
+    - Select `Browser PNG` under "Compress" to speed up the preview.
+    - Click `Reduce pallette`.
+    - Reduce `Dithering` to zero (unless you need it, which you probably don't).
+    - Reduce `Colors` as much as possible until the image "looks bad".
+8. Download and save your optimized files in a `full` directory next to your `source` directory.
+
+### Activity 3a: Creating PNG image for Safari
+1. Choose `OxiPNG` encoder under "Compress".
+2. Increase `Effort` (to max?).
+3. Click `Reduce pallette`.
+4. Reduce `Dithering` to zero (unless you need it, which you probably don't).
+5. Reduce `Colors` as much as possible until the image "looks bad".
+6. Download and save your optimized files in a `full` directory next to your `source` directory.
+7. Does WebP provide enough savings to bother with it?
+
+---
+
+## Tony's goals for Lab-Time
 
 ---
 
 ## Dailies
 - Submit today's Codepen/repo/gist to the Dailies section (in Assessments) in Brightspace.
-
-{% endcomment %}

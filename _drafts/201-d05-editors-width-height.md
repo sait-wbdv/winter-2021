@@ -104,7 +104,7 @@ A client would like to start a company blog and has asked you for a proof-of-con
 
 #### Tasks 
 1. Image processing
-    1. Choose a souce image to process;
+    1. Choose a source image to process;
     2. Crop, correct and clean the image;
     3. Resize and save a large version of the image 
     4. Resize and save either/both a small and/or medium version of the image.
