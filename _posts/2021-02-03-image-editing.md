@@ -4,8 +4,6 @@ title: Image Editing
 categories: cpnt201
 ---
 
-## Housekeeping
-
 ## Homework
 1. Download and install an image editor, such as Photoshop, if you don't already have access to one. Some free(ish) Photoshop alternatives:
     - [GIMP](https://www.gimp.org/) (Window, Mac, Linux)
@@ -67,6 +65,8 @@ Cropping
 : The removal of unwanted outer areas from a photographic or illustrated image.
 
 ### Materials
+- [Sample Images](https://github.com/sait-wbdv/sample-code/tree/master/assets/images)
+
 ### Key Takeaways
 
 
@@ -98,6 +98,8 @@ We need some sample images to play with tomorrow. Using the sources images you u
     1. Create a small version of your file, usually less than `500px`.
     2. Extra step for testing: make this a grayscale image. This will be to make testing easier for tomorrow.
     3. Save this file in a `small`/`sm` directory.
+
+---
 
 ### Tony's goals for Lab-Time
 

@@ -34,15 +34,15 @@ categories: cpnt201
 ### Terms
 ### Materials
 1. Image Performance
-    - [GH Pages]({{site.baseurl}}/sample-code/frontend/image-performance/)
+    - [GH Pages]({{"/sample-code/frontend/image-performance/" | relative_url }})
     - [GH Repo](https://github.com/sait-wbdv/sample-code/tree/master/frontend/image-performance)
 2. Controlling image asset size using `srcset`
-    - [Starter Blog Home Page]({{site.baseurl}}/sample-code/frontend/image-performance/starter)
-    - [Instructions]({{site.baseurl}}/sample-code/frontend/image-performance/#define-minimally-responsive-images)
+    - [Starter Blog Home Page]({{"/sample-code/frontend/image-performance/starter" | relative_url }})
+    - [Instructions]({{"/sample-code/frontend/image-performance/#define-minimally-responsive-images" | relative_url }})
 3. Improving network performance with native lazy loading
-    - [Starter Blog Home Page]({{site.baseurl}}/sample-code/frontend/image-performance/starter)
-    - [Instructions]({{site.baseurl}}/sample-code/frontend/image-performance/#manage-network-resources-with-native-lazy-loading)
-    - [Finished]({{site.baseurl}}/sample-code/frontend/image-performance/lazy-loading)
+    - [Starter Blog Home Page]({{"/sample-code/frontend/image-performance/starter" | relative_url }})
+    - [Instructions]({{"/sample-code/frontend/image-performance/#manage-network-resources-with-native-lazy-loading" | relative_url }})
+    - [Finished]({{"/sample-code/frontend/image-performance/lazy-loading" | relative_url }})
 
 ### Key Takeaways
 
