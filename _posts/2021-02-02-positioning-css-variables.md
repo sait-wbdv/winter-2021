@@ -43,7 +43,7 @@ categories: cpnt260
     - `position: relative`
     - `position: absolute`
     - `top`/`bottom`/`left`/`right`
-    - `z-index`
+    - `z-index` and stacking order
 3. Explore CSS Transitions? Grid Overlap? Review?
 
 ### Materials
