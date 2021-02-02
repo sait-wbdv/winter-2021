@@ -66,7 +66,7 @@ categories: cpnt260
 1. Try using the Checkbox hack to hide and display a mobile menu using one of the methods above.
 
 ### Tony's goals for Lab-Time
-- Revamp Library page?
+- Work on W4W-F.
 
 ---
 
