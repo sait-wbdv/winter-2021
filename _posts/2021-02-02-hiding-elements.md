@@ -74,9 +74,10 @@ categories: cpnt260
 
 2. Try adding a `transition` in the above Gist.
     - For extra effect, try using the [Cubic Bezier](https://cubic-bezier.com/) function as a timing function.
+    - See: [Designing Meaningful Animation](https://vimeo.com/250349313) by Val Head
 
 ### Tony's goals for Lab-Time
-- Work on W4W-F.
+- Work on lesson plans and homework for W4W-F and W5M-T.
 
 ---
 
