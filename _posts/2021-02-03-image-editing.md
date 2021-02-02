@@ -12,6 +12,8 @@ categories: cpnt201
     - [Photo Pos Pro](https://www.photopos.com/PPP3_BS/Default.aspx) (Windows-only)
     - [Acorn](https://flyingmeat.com/acorn/) (Mac-only)
 
+2. Choose 1-3 images that are appropriate for use in a hero section (at least `2000px` wide).
+
 ---
 
 ## Morning reflection

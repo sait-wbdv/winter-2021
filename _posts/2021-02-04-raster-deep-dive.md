@@ -9,6 +9,7 @@ categories: cpnt201
     - Watch: [Image compression deep-dive](https://youtu.be/F1kYBnY6mwg) by Jake and Surma
     - Read: [`picture` element](https://developer.mozilla.org/en-US/docs/Web/HTML/Element/picture)
     - Reference: [Image file type and format guide](https://developer.mozilla.org/en-US/docs/Web/Media/Formats/Image_types)
+    - Tool: [Squoosh.app](https://squoosh.app/)
 
 ---
 
