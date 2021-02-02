@@ -14,15 +14,22 @@ categories: cpnt260
 
 ---
 
+{% comment %}
 ## Morning reflection
 ### Housekeeping
 
 ---
 
-## Lecture/Live code
+## Overlapping elements
 ### Learning Objectives
-### Terms
+1. Discuss the various methods for overlapping two elements.
+2. 
+
 ### Materials
+- `relative` and `absolute` positioning.
+  - Codepen: [CSS Positioning](https://codepen.io/browsertherapy/pen/PobqQjv)
+  - Gist: [CSS Positioning v0.1](https://gist.github.com/acidtone/61ae09c7efb6a504010d17199e41510e)
+
 ### Key Takeaways
 
 ---
@@ -32,6 +39,8 @@ categories: cpnt260
 ### Tony's goals for Lab-Time
 
 ---
+
+{% endcomment %}
 
 ## Dailies
 - Submit today's Codepen/repo/gist to the Dailies section (in Assessments) in Brightspace.
