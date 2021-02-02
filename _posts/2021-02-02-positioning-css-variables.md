@@ -27,6 +27,7 @@ categories: cpnt260
 - Browser test:
   - [Command Line Cheatsheet](https://sait-wbdv.github.io/winter-2021/cheatsheets/command-line/)
     - Do the Notice boxes display correctly?
+- Poll: What image editor do you use?
 
 ---
 
@@ -43,7 +44,7 @@ categories: cpnt260
     - `position: absolute`
     - `top`/`bottom`/`left`/`right`
     - `z-index`
-3. Explore CSS Transitions? Grid Overlap?
+3. Explore CSS Transitions? Grid Overlap? Review?
 
 ### Materials
 - [Tissue Contrast Illusion](http://browsertherapy.com/challenges/tissue-contrast/)
@@ -65,6 +66,7 @@ categories: cpnt260
 1. Try using the Checkbox hack to hide and display a mobile menu using one of the methods above.
 
 ### Tony's goals for Lab-Time
+- Revamp Library page?
 
 ---
 
