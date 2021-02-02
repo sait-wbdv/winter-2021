@@ -2,6 +2,10 @@
 layout: page
 title: WBDV Library of Findings
 ---
+
+## Tools and Assets
+- [Openly Licensed Assets]({{site.baseurl}}/cheatsheets/copyright/open-assets)
+
 ## Getting Started
 - [Getting started with Web Development](https://developer.mozilla.org/en-US/docs/Learn/Getting_started_with_the_web)
 - [HTML basics](https://developer.mozilla.org/en-US/docs/Learn/Getting_started_with_the_web/HTML_basics)
