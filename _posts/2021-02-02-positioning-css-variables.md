@@ -48,6 +48,7 @@ categories: cpnt260
 
 ### Materials
 - [Tissue Contrast Illusion](http://browsertherapy.com/challenges/tissue-contrast/)
+  - [Live Demo](https://acidtone.github.io/illusions/tissue-contrast/)
 - `relative` and `absolute` positioning.
   - Codepen: [CSS Positioning](https://codepen.io/browsertherapy/pen/PobqQjv)
   - Gist: [CSS Positioning v0.1](https://gist.github.com/acidtone/61ae09c7efb6a504010d17199e41510e)
