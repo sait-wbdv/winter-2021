@@ -21,10 +21,45 @@ categories: cpnt201
 2. 260 Assignment 1 marks published
 3. Assignment Feedback
     - relative links, please
+    - Congrats to the helpers
+        - Ellie
+        - Vitaly
+        - Erica
+        - Kyle
+    - Key problems
+        - stylesheets go in a `css` directory
+        - CSS organization
+        - More CSS comments
+        - Proper use of `nav`, `header`, `main` and `footer`
+        - Reading the rubric
 
 ---
 
 ## Editing Raster Images
+### Goal for the Day
+Have a directory of processed images in a structure similar to this:
+
+```
+/images
+  /full
+    /img-1.jpg
+    /img-2.jpg
+  /lg
+    /img-1.jpg
+    /img-2.jpg
+  /md
+    /img-1.jpg
+    /img-2.jpg
+  /sm
+    /img-1.jpg
+    /img-2.jpg
+```
+
+**Note**: Rename your files to something descriptive. Optional: add `sm`, `md`, and `lg` descriptors to the filenames themselves.  
+{: .notice .notice--info}
+
+These images will be used for the next two days. They will form the basis of the Assignment, which will be to create a page similar to this one: [`srcset` and lazy loading example](https://sait-wbdv.github.io/sample-code/frontend/image-performance/srcset/) (with some additions as we cover them).
+
 ### Learning Objectives
 1. Use image editing software to:
     - re-size a raster image;
