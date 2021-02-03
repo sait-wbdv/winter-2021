@@ -44,15 +44,23 @@ Have a directory of processed images in a structure similar to this:
   /full
     /img-1.jpg
     /img-2.jpg
+    /img-3.jpg
+    /img-4.jpg
   /lg
     /img-1.jpg
     /img-2.jpg
+    /img-3.jpg
+    /img-4.jpg
   /md
     /img-1.jpg
     /img-2.jpg
+    /img-3.jpg
+    /img-4.jpg
   /sm
     /img-1.jpg
     /img-2.jpg
+    /img-3.jpg
+    /img-4.jpg
 ```
 
 **Note**: Rename your files to something descriptive. Optional: add `sm`, `md`, and `lg` descriptors to the filenames themselves.  
