@@ -17,11 +17,14 @@ categories: cpnt201
 
 ## Morning reflection
 ### Housekeeping
-- Lab time cameras optional after attendance is taken?
+1. Lab time cameras optional after attendance is taken?
+2. 260 Assignment 1 marks published
+3. Assignment Feedback
+    - relative links, please
 
 ---
 
-## Lecture/Live code
+## Editing Raster Images
 ### Learning Objectives
 1. Use image editing software to:
     - re-size a raster image;
@@ -67,12 +70,9 @@ Cropping
 ### Materials
 - [Sample Images](https://github.com/sait-wbdv/sample-code/tree/master/assets/images)
 
-### Key Takeaways
-
-
 ---
 
-## Open lab-time
+## Live-code: Image editing walk-throughs
 ### Activity 1: Image Editing
 Get comfortable with your image editor. Pick an image from the source images you used yesterday and try the following:
 - Crop the image;
@@ -86,22 +86,51 @@ Get comfortable with your image editor. Pick an image from the source images you
 - Bonus: find an image editor that supports batch processing!
 
 ### Activity 2: Sizing images
-We need some sample images to play with tomorrow. Using the sources images you used yesterday, create a:
+We need some sample images to play with on Friday. Using the sources images you used yesterday, create a:
 1. Large image size:
-    1. Using an image editor of your choice, create a large version of your file. You can decided what "large" is but it's usually wider than `1000px`. 
+    1. Using an image editor of your choice, create a large version of your file. You can decided what "large" is but it's usually wider than `1500px`. 
     2. Save this file in a `large`/`lg` directory next to the `full` and `source` directories you created yesterday.
 2. Medium image size:
-    1. Create a medium version of your file, usually between `500px` and `1000px`.
-    2. Extra step for testing: desaturate your image by about 50% so that the colours are duller than the large version. This will be to make testing easier for tomorrow.
+    1. Create a medium version of your file, usually between `750px` and `1000px`.
+    2. Extra step for `srcset` testing: desaturate your image by about 50% so that the colours are duller than the large version. This will be to make `srcset` testing easier for Friday.
     3. Save this file in a `medium`/`md` directory.
 3. Small image size:
-    1. Create a small version of your file, usually less than `500px`.
-    2. Extra step for testing: make this a grayscale image. This will be to make testing easier for tomorrow.
+    1. Create a small version of your file, usually around `500px`.
+    2. Extra step for `srcset` testing: make this a grayscale image. This will be to make `srcset` testing easier for Friday.
     3. Save this file in a `small`/`sm` directory.
 
 ---
 
+## Open lab-time
+This course will require small, medium and large versions of multiple images. These will be used in mobile, tablet and desktop screen widths using the `srcset` attribute.
+
+
+**Warning**: It's important that the smal, medium and large sizes of an individual image is the same aspect ratio. Otherwise, the images will be distorted at some screen sizes. 
+{: .notice .notice--warning}
+
+### Session Goals
+1. Choose 3-5 images you would like to use in a list of Lorem Ipsum blog articles. Each image will be 100% wide as part of a blog summary (aka, excerpt).
+2. Create a corrected image template:
+    - crop it to the aspect ratio you need for your design;
+    - colour correct it, if needed;
+    - save it as a template you'll use for the modifications below.
+3. Large image - open a fresh template image, and:
+    - Add some visual effect that will differentiate it from the other sizes of the same image. For example: make it black and white, change the saturation, distort it with a filter, add text, etc.
+    - Save it as a large copy of that image.
+4. Medium image - open a fresh template image, and:
+    - resize it to a medium size;
+    - add a different visual effect to differentiate it;
+    - Save it as a medium copy of the image.
+5. Small image - open a fresh template image, and:
+    - resize it to a small size;
+    - add a different visual effect to differentiate it;
+    - Save it as a small copy of the image.
+6. Repeat this process for at least 2 other images.
+
+---
+
 ### Tony's goals for Lab-Time
+- Vector lesson plans.
 
 ---
 
