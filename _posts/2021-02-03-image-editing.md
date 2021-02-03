@@ -129,15 +129,17 @@ Get comfortable with your image editor. Pick an image from the source images you
 - Bonus: find an image editor that supports batch processing!
 
 ### Activity 2: Sizing images
-We need some sample images to play with on Friday. Using the sources images you used yesterday, create a:
-1. Large image size:
+We need some sample images to play with on Friday. Using the your source images you will create:
+1. A "source" image where you will store your original, maybe cruddy, image.
+2. A "full" image that's the same size as "source", but corrected and pretty.
+3. Large image size:
     1. Using an image editor of your choice, create a large version of your file. You can decided what "large" is but it's usually wider than `1500px`. 
     2. Save this file in a `large`/`lg` directory next to the `full` and `source` directories you created yesterday.
-2. Medium image size:
+4. Medium image size:
     1. Create a medium version of your file, usually between `750px` and `1000px`.
     2. Extra step for `srcset` testing: desaturate your image by about 50% so that the colours are duller than the large version. This will be to make `srcset` testing easier for Friday.
     3. Save this file in a `medium`/`md` directory.
-3. Small image size:
+5. Small image size:
     1. Create a small version of your file, usually around `500px`.
     2. Extra step for `srcset` testing: make this a grayscale image. This will be to make `srcset` testing easier for Friday.
     3. Save this file in a `small`/`sm` directory.
