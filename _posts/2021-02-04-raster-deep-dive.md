@@ -20,7 +20,8 @@ categories: cpnt201
 ### Housekeeping
 1. Draft: [`cpnt201-a2`](https://github.com/sait-wbdv/assessments/tree/master/cpnt201/assignment-2)
 2. Lab time agendas
-3. New attendance process?
+3. Changes to Dailies
+4. New attendance process?
 
 ---
 
