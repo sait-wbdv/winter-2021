@@ -18,13 +18,13 @@ categories: cpnt201
 
 ## Morning reflection
 ### Housekeeping
-1. `cpnt201-a2`
+1. Draft: [`cpnt201-a2`](https://sait-wbdv.github.io/assessments/cpnt201/assignment-1/)
 2. Lab time agendas
 3. New attendance process?
 
 ---
 
-## Image theory
+## 1. Image theory
 ### Learning Objectives
 1. Define image encoder.
 2. Distinguish between lossless, lossy compression.
@@ -50,18 +50,33 @@ Low Frequency Imagery
 
 ### Materials
 - [Sample Images](https://github.com/sait-wbdv/sample-code/tree/master/assets/images)
+- Video breakdown: [Image compression deep-dive](https://youtu.be/F1kYBnY6mwg)
+  - 0:00 - [Intro](https://youtu.be/F1kYBnY6mwg)
+  - 1:49 - [Lossy vs lossless vs vector](https://youtu.be/F1kYBnY6mwg?t=100)
+  - 4:45 - [Lossy: Chroma vs Luma](https://youtu.be/F1kYBnY6mwg?t=285)
+  - 8:03 - [Lossy: How JPEG works](https://youtu.be/F1kYBnY6mwg?t=483)
+  - 12:47 - ["WebP is just better."](https://youtu.be/F1kYBnY6mwg?t=767)
+  - 16:04 - [Squoosh feature walk-through (lossy)](https://youtu.be/F1kYBnY6mwg?t=964)
+  - 21:28 - [Lossless: Stop using GIF](https://youtu.be/F1kYBnY6mwg?t=1288)
+  - 23:00 - [Squoosh feature walk-through (lossless)](https://youtu.be/F1kYBnY6mwg?t=1380)
+  - 27:38 - [Review and conclusion](https://youtu.be/F1kYBnY6mwg?t=1658)
 
 ### Key Takeaways
+1. Don't rely on Photoshop's image codecs ([Squoosh](https://squoosh.app/) is way better).
 1. Lossy image encoders shrink the file size of an image by throwing away colour data while keeping brightness data.
 2. Lossless image encoders shrink file size by [indexing the colours](https://en.wikipedia.org/wiki/Indexed_color) in an image and then mathematically "describing" each pixel based on their neighbours (i.e. "the next 159 pixels are white").
 3. If you need to support older browsers:
   - JPEG (lossy) is best for high frequency images;
   - PNG (lossless) is best for low frequency images.
-4. WebP can do both (it actually uses PNG for lossless). Use the `picture` element to use WebP images with a JPEG/PNG fallback. This allows you to use other codecs as well.
+4. Get you an encoder that can do both (WebP). Use the `picture` element to use WebP images with a JPEG/PNG fallback. This allows you to use other codecs as well.
+5. Don't zoom in!
 
 ---
 
-## Image Optimization with Squoosh.app
+## 2. Image Optimization with Squoosh.app
+### Materials
+- [Squoosh](https://squoosh.app/)
+
 ### Learning Objectives
 1. Create an optimized _high frequency_ image using the WebP (lossy) codec.
 2. Create an optimized _high frequency_ image fallback using the `MozJPEG` codec.

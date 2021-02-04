@@ -115,7 +115,7 @@ Cropping
 
 ---
 
-## Live-code: Image editing walk-throughs
+## Pixlr walk-throughs
 ### Activity 1: Image Editing
 Get comfortable with your image editor. Pick an image from the source images you used yesterday and try the following:
 - Crop the image;
