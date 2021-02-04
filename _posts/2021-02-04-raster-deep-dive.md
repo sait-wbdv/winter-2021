@@ -18,7 +18,7 @@ categories: cpnt201
 
 ## Morning reflection
 ### Housekeeping
-1. Draft: [`cpnt201-a2`](https://sait-wbdv.github.io/assessments/cpnt201/assignment-1/)
+1. Draft: [`cpnt201-a2`](https://github.com/sait-wbdv/assessments/tree/master/cpnt201/assignment-2)
 2. Lab time agendas
 3. New attendance process?
 
