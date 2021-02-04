@@ -18,11 +18,13 @@ categories: cpnt201
 
 ## Morning reflection
 ### Housekeeping
-- 
+1. `cpnt201-a2`
+2. Lab time agendas
+3. New attendance process?
 
 ---
 
-## Image Optimization Fundamentals
+## Image theory
 ### Learning Objectives
 1. Define image encoder.
 2. Distinguish between lossless, lossy compression.
@@ -31,38 +33,41 @@ categories: cpnt201
 
 ### Terminology
 <dl>
-Image encoder
+Image encoder (aka. codec)
 : A library/module that converts one image format to another. Not all encoders are created equal.
 
+Colour Data (aka. chroma)
+: The digital information in an image that controls pixel colour. Also called chroma data.
+
+Brightness Data (aka. luma)
+: The digital information in an image that controls pixel brightness.
+
 High Frequency Imagery
-: Parts of an image (or the whole image) where colour and contrast change a lot from one pixel to the next. Example: a photo of a busy intersection.
+: Parts of an image (or the whole image) where colour and contrast change a lot from one pixel to the next. Example: a photo of nature (trees, mountains, etc.).
 
 Low Frequency Imagery
 : Parts of an image (or the whole image) where colour and contrast change very little from one pixel to the next. Example: a vector logo or other image with a lot of flat colour.
 
-Colour Data
-: The digital information in an image that controls pixel colour. Also called chroma data.
-
-Brightness Data
-: The digital information in an image that controls pixel brightness.
-
 ### Materials
-- [Tony's Raw Screencaps](https://github.com/sait-wbdv/assets/)
+- [Sample Images](https://github.com/sait-wbdv/sample-code/tree/master/assets/images)
 
 ### Key Takeaways
+1. Lossy image encoders shrink the file size of an image by throwing away colour data while keeping brightness data.
+2. Lossless image encoders shrink file size by [indexing the colours](https://en.wikipedia.org/wiki/Indexed_color) in an image and then mathematically "describing" each pixel based on their neighbours (i.e. "the next 159 pixels are white").
+3. If you need to support older browsers:
+  - JPEG (lossy) is best for high frequency images;
+  - PNG (lossless) is best for low frequency images.
+4. WebP can do both (it actually uses PNG for lossless). Use the `picture` element to use WebP images with a JPEG/PNG fallback. This allows you to use other codecs as well.
 
 ---
 
-## 2. HTML Image Optimization: `width` and `height` attributes
+## Image Optimization with Squoosh.app
+### Learning Objectives
+1. Create an optimized _high frequency_ image using the WebP (lossy) codec.
+2. Create an optimized _high frequency_ image fallback using the `MozJPEG` codec.
+3. Create an optimized _low frequency_ image using a WebP (lossless) codec.
+4. Create an optimized _low frequency_ image fallback using the `OxiPNG` codec.
 
-- Add `width` and `height` attributes to an `img` element.
-- Demonstrate the advantages of using `width` and `height` attributes.
-- Explore the risks of breaking image aspect ratio when `width` and `height` attributes are defined.
-- Compare the performance of a web page with and without `width`/`height` attributes.
-
----
-
-## Open lab-time
 ### Activity 1: Squooshing high-frequency images with WebP (Lossy)
 Optimize an image file size using [Squoosh.app](https://squoosh.app/):
 1. Pick a high frequency image (try [jank](https://github.com/sait-wbdv/assets/blob/main/images/source/jank.png) and upload it to Squoosh.
@@ -85,6 +90,8 @@ Optimize an image file size using [Squoosh.app](https://squoosh.app/):
 4. Download the optimized image and use it as an asset in a project web page of your choice.
 5. Complete two performance audits on your project page using Chrome Lighthouse: once with the original image file and a second with the optimized image file.
 6. Download and save your optimized files in a `full` directory next to your `source` directory.
+
+---
 
 ### Activity 3: Squooshing low-frequency images with WebP (Lossless)
 1. Pick a low-frequency image (something with a lot of flat colour) and upload it to Squoosh.
@@ -112,7 +119,17 @@ Optimize an image file size using [Squoosh.app](https://squoosh.app/):
 
 ---
 
+## Open lab-time
+Using the large images you created yesterday:
+1. Define the low and high frequency areas;
+2. Predict if the file will be smaller as a lossless or lossy image.
+3. Use [Squoosh](https://squoosh.app/) to see if you're correct.
+
+---
+
 ## Tony's goals for Lab-Time
+- Finalize cpnt201-a2.
+- Play with clip-masks.
 
 ---
 

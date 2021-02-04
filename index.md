@@ -28,7 +28,7 @@ title: "Program Schedule"
 - T: CPNT 260 Day 10 - [Hiding Elements](/winter-2021{% link _posts/2021-02-02-hiding-elements.md %})
 - W: CPNT 201 Day 3 - [Editing Images](/winter-2021{% link _posts/2021-02-03-image-editing.md %})
 - R: CPNT 201 Day 4 - [Raster Image Deep-dive](/winter-2021{% link _posts/2021-02-04-raster-deep-dive.md %})
-- F: CPNT 201 Day 5 - [Lazy-loading Images](/winter-2021{% link _posts/2021-02-05-lazy-loading.md %})
+- F: CPNT 201 Day 5 - [Lazy-loading Images](/winter-2021{% link _posts/2021-02-05-selective-image-loading.md %})
 
 ## Week 5: Feb 8-12
 - M: CPNT 201 Day 6 - Vector Images
