@@ -7,18 +7,19 @@ categories: cpnt201
 ## Homework
 1. Review
     - MDN: [Responsive Images](https://developer.mozilla.org/en-US/docs/Learn/HTML/Multimedia_and_embedding/Responsive_images)
-2. Image loading performance
-    - Read: [If you’re just changing resolutions, use `srcset`](https://css-tricks.com/responsive-images-youre-just-changing-resolutions-use-srcset/)
-    - Reference: [`srcset` attribute](https://developer.mozilla.org/en-US/docs/Web/HTML/Element/img#attr-srcset)
-    - Optional: [`sizes` attribute](https://developer.mozilla.org/en-US/docs/Web/HTML/Element/img#attr-sizes)
-3. File prep
+2. File prep
     - Small, medium and large sample images.
     - Sample section that uses a large HTML image on Desktop and smaller on mobile.
     - Optional: Sample blog page with multiple images that you need to scroll through.
+3. Image `width` and `height` attributes
+    - Read: [Setting Height And Width On Images Is Important Again](https://www.smashingmagazine.com/2020/03/setting-height-width-images-important-again/)
+    - Watch: [Do This to Improve Image Loading on Your Website](https://youtu.be/4-d_SoCHeWE)
 4. `srcset`
+    - Reference: [`srcset` attribute](https://developer.mozilla.org/en-US/docs/Web/HTML/Element/img#attr-srcset)
     - Read: [Responsive Images: If you’re just changing resolutions, use `srcset`](https://css-tricks.com/responsive-images-youre-just-changing-resolutions-use-srcset/)
     - Watch: [Figuring Out Responsive Images](https://css-tricks.com/video-screencasts/133-figuring-responsive-images/)
     - Read: [Don’t use `<picture>` (most of the time)](https://cloudfour.com/thinks/dont-use-picture-most-of-the-time/)
+    - Optional: [`sizes` attribute](https://developer.mozilla.org/en-US/docs/Web/HTML/Element/img#attr-sizes)
 5. `image-set()`
     - Read: [Is there a srcset equivalent for css background image](https://stackoverflow.com/questions/26801745/is-there-a-srcset-equivalent-for-css-background-image) on Stack Overflow
     - Reference: [`image-set()` property](https://developer.mozilla.org/en-US/docs/Web/CSS/image-set())
@@ -44,13 +45,14 @@ categories: cpnt201
 - Demonstrate the `loading` attribute for delaying image downloads.
 
 ### Materials
-1. Image Performance
-    - [GH Pages](/sample-code/frontend/image-performance/)
-    - [GH Repo](https://github.com/sait-wbdv/sample-code/tree/master/frontend/image-performance)
+1. [Image Performance](https://github.com/sait-wbdv/sample-code/tree/master/frontend/image-performance)
 2. Improving network performance with native lazy loading
     - [Starter Sample Blog](/sample-code/frontend/image-performance/starter)
     - [Instructions](/sample-code/frontend/image-performance/#manage-network-resources-with-native-lazy-loading)
     - [Finished](/sample-code/frontend/image-performance/lazy-loading)
+
+### Key Takeaways
+1. Defining your `width` _and_ `height` risks breaking your image aspect ratio if you change one of those dimensions in your CSS.
 
 ---
 
@@ -69,6 +71,7 @@ Device-pixel ratio
 1. Controlling image asset size using `srcset`
     - [Starter Blog Home Page](/sample-code/frontend/image-performance/starter)
     - [Instructions](/sample-code/frontend/image-performance/#define-minimally-responsive-images)
+    - [Finished](/sample-code/frontend/image-performance/srcset)
 
 ### Key Takeaways
 - Image decisions are based on the current viewport width. Images that are smaller that the viewport will often load with a larger size than is needed. 

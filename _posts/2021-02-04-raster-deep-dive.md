@@ -10,9 +10,6 @@ categories: cpnt201
     - Read: [`picture` element](https://developer.mozilla.org/en-US/docs/Web/HTML/Element/picture)
     - Reference: [Image file type and format guide](https://developer.mozilla.org/en-US/docs/Web/Media/Formats/Image_types)
     - Tool: [Squoosh.app](https://squoosh.app/)
-2. Image `width` and `height` attributes
-    - Read: [Setting Height And Width On Images Is Important Again](https://www.smashingmagazine.com/2020/03/setting-height-width-images-important-again/)
-    - Watch: [Do This to Improve Image Loading on Your Website](https://youtu.be/4-d_SoCHeWE)
 
 ---
 
