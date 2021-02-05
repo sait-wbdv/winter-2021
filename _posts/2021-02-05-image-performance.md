@@ -45,8 +45,6 @@ categories: cpnt201
 - Demonstrate the `loading` attribute for delaying image downloads.
 
 ### Materials
-TODO: Create `width`/`height` finished code.
-
 1. [Image Performance](https://github.com/sait-wbdv/sample-code/tree/master/frontend/image-performance)
 2. Improving network performance with native lazy loading
     - [Starter Sample Blog](/sample-code/frontend/image-performance/starter)
