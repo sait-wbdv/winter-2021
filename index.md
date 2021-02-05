@@ -31,8 +31,8 @@ title: "Program Schedule"
 - F: CPNT 201 Day 5 - [Optimizing Image Performance](/winter-2021{% link _posts/2021-02-05-image-performance.md %})
 
 ## Week 5: Feb 8-12
-- M: CPNT 201 Day 6 - Vector Images
-- T: CPNT 201 Day 7
+- M: CPNT 201 Day 6 - [Vector Editors](/winter-2021{% link _posts/2021-02-08-vector-editors.md %})
+- T: CPNT 201 Day 7 - [SVG Fundamentals](/winter-2021{% link _posts/2021-02-09-svg-fundamentals.md %})
 - W: CPNT 262 Day 1 - Frontend Javascript!
 - R: CPNT 262 Day 2
 - F: CPNT 262 Day 3
