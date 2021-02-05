@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Selective Image Loading
+title: Optimizing Image Performance 
 categories: cpnt201
 ---
 
@@ -8,7 +8,8 @@ categories: cpnt201
 1. Review
     - MDN: [Responsive Images](https://developer.mozilla.org/en-US/docs/Learn/HTML/Multimedia_and_embedding/Responsive_images)
 2. Image loading performance
-    - [`srcset` attribute](https://developer.mozilla.org/en-US/docs/Web/HTML/Element/img#attr-srcset)
+    - Read: [If you’re just changing resolutions, use `srcset`](https://css-tricks.com/responsive-images-youre-just-changing-resolutions-use-srcset/)
+    - Reference: [`srcset` attribute](https://developer.mozilla.org/en-US/docs/Web/HTML/Element/img#attr-srcset)
     - Optional: [`sizes` attribute](https://developer.mozilla.org/en-US/docs/Web/HTML/Element/img#attr-sizes)
 3. File prep
     - Small, medium and large sample images.
