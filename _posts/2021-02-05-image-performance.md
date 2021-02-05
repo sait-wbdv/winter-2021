@@ -53,7 +53,7 @@ TODO: Create `width`/`height` finished code.
     - [Finished: Lazy loading](/sample-code/frontend/image-performance/lazy-loading)
 
 ### Key Takeaways
-- Defining your `width` _and_ `height` risks breaking your image aspect ratio if you change one of those dimensions in your CSS. See [W4F](/winter-2021{% link _posts/2021-01-29-card-patterns.md %}) for tips on how to fix this.
+- Defining your `width` _and_ `height` risks breaking your image aspect ratio if you change one of those dimensions in your CSS. See [W4F](/winter-2021{% link _posts/2021-01-29-card-patterns.md %}#lecturelive-code) for tips on how to fix this.
 - The `width` and `height` attributes only accept pixel units and are a plain numbner (use `400`, not `400px`).
 
 ---
