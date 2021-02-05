@@ -45,12 +45,12 @@ categories: cpnt201
 
 ### Materials
 1. Image Performance
-    - [GH Pages]({{site.baseurl}}/sample-code/frontend/image-performance/)
+    - [GH Pages](/sample-code/frontend/image-performance/)
     - [GH Repo](https://github.com/sait-wbdv/sample-code/tree/master/frontend/image-performance)
 2. Improving network performance with native lazy loading
-    - [Starter Sample Blog]({{site.baseurl}}/sample-code/frontend/image-performance/starter)
-    - [Instructions]({{site.baseurl}}/sample-code/frontend/image-performance/#manage-network-resources-with-native-lazy-loading)
-    - [Finished]({{site.baseurl}}/sample-code/frontend/image-performance/lazy-loading)
+    - [Starter Sample Blog](/sample-code/frontend/image-performance/starter)
+    - [Instructions](/sample-code/frontend/image-performance/#manage-network-resources-with-native-lazy-loading)
+    - [Finished](/sample-code/frontend/image-performance/lazy-loading)
 
 ---
 
@@ -67,8 +67,8 @@ Device-pixel ratio
 
 ### Materials
 1. Controlling image asset size using `srcset`
-    - [Starter Blog Home Page]({{site.baseurl}}/sample-code/frontend/image-performance/starter)
-    - [Instructions]({{site.baseurl}}/sample-code/frontend/image-performance/#define-minimally-responsive-images)
+    - [Starter Blog Home Page](/sample-code/frontend/image-performance/starter)
+    - [Instructions](/sample-code/frontend/image-performance/#define-minimally-responsive-images)
 
 ### Key Takeaways
 - Image decisions are based on the current viewport width. Images that are smaller that the viewport will often load with a larger size than is needed. 
