@@ -34,7 +34,7 @@ categories: cpnt201
 ### Housekeeping
 - [`cpnt201-a2`](https://github.com/sait-wbdv/assessments/tree/master/cpnt201/assignment-2)
 - `cpnt201-a3` pushed to Feb 15 (Family Day)
-- Due Friday Feb 12: [CPNT 260 Exercises](https://github.com/sait-wbdv/assessments/tree/master/cpnt262/exercises)
+- Due Friday Feb 12: [CPNT 262 Exercises](https://github.com/sait-wbdv/assessments/tree/master/cpnt262/exercises)
 
 ---
 
