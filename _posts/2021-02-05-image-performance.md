@@ -45,11 +45,12 @@ categories: cpnt201
 - Demonstrate the `loading` attribute for delaying image downloads.
 
 ### Materials
+TODO: Create `width`/`height` finished code.
+
 1. [Image Performance](https://github.com/sait-wbdv/sample-code/tree/master/frontend/image-performance)
 2. Improving network performance with native lazy loading
-    - [Instructions](/sample-code/frontend/image-performance/#manage-network-resources-with-native-lazy-loading)
     - [Starter Sample Blog](/sample-code/frontend/image-performance/starter)
-    - [Finished](/sample-code/frontend/image-performance/lazy-loading)
+    - [Finished: Lazy loading](/sample-code/frontend/image-performance/lazy-loading)
 
 ### Key Takeaways
 1. Defining your `width` _and_ `height` risks breaking your image aspect ratio if you change one of those dimensions in your CSS.
@@ -69,9 +70,8 @@ Device-pixel ratio
 
 ### Materials
 1. Controlling image asset size using `srcset`
-    - [Instructions](/sample-code/frontend/image-performance/#define-minimally-responsive-images)
     - [Starter Blog Home Page](/sample-code/frontend/image-performance/starter)
-    - [Finished](/sample-code/frontend/image-performance/srcset)
+    - [Finished: `srcset` optimization](/sample-code/frontend/image-performance/srcset)
 
 ### Key Takeaways
 - Image decisions are based on the current viewport width. Images that are smaller that the viewport will often load with a larger size than is needed. 
