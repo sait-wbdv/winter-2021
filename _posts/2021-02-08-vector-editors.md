@@ -34,6 +34,8 @@ categories: cpnt201
 ## Vector Theory
 ### Terminology
 
+See [SVG Terminology](https://sait-wbdv.github.io/sample-code/frontend/svg/#terminology)
+
 Vector Graphics
 : Instead of being defined in pixels like raster images, vector graphics are defined with math like fonts (and icon fonts). This means that vector images always look sharp because the browser can re-draw it at any size and they are usually a much smaller file size than images defined with pixels.
 
