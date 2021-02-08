@@ -27,6 +27,7 @@ categories: cpnt201
 1. Returned marks: `dsgn270-a2`, `cpnt201-a1`, `cpnt260-exercises`
 2. [`cpnt201-a3`](https://github.com/sait-wbdv/assessments/tree/master/cpnt201/assignment-3)
 3. Prep for Javascript: Node installed.
+4. Poll: Who's familiar with vector editing programs?
 
 ---
 
