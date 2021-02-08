@@ -26,6 +26,7 @@ categories: cpnt201
 ### Housekeeping
 1. Returned marks: `dsgn270-a2`, `cpnt201-a1`, `cpnt260-exercises`
 2. [`cpnt201-a3`](https://github.com/sait-wbdv/assessments/tree/master/cpnt201/assignment-3)
+3. Prep for Javascript: Node installed.
 
 ---
 
@@ -146,6 +147,7 @@ The free plan on Figma (apparently) allows two people to edit the same document.
 - Further explore the collaboration tools in Figma.
 
 ### Tony's goals for Lab-Time
+- Clean-up SAIt website nav menu to make room for JS.
 - Integrate leftover SAIT website enhancements.
 
 ---
