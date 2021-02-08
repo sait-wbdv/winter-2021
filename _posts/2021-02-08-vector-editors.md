@@ -26,13 +26,40 @@ categories: cpnt201
 
 ## Morning reflection
 ### Housekeeping
+1. Returned marks: `dsgn270-a2`, `cpnt201-a1`, `cpnt260-exercises`
+2. [`cpnt201-a3`](https://github.com/sait-wbdv/assessments/tree/master/cpnt201/assignment-3)
 
 ---
 
-## Lecture/Live code
+## Vector Theory
 ### Learning Objectives
-### Terms
+1. Distinguish the difference between raster and vector image formats.
+2. 
+
+### Terminology
+
+Vector Graphics
+: Instead of being defined in pixels like raster images, vector graphics are defined with math like fonts (and icon fonts). This means that vector images always look sharp because the browser can re-draw it at any size and they are usually a much smaller file size than images defined with pixels.
+
+Anchor Point
+: A single point located on a page/artboard/viewport that a path can pass through.
+
+Path
+: A straight or curved line that connects two anchor points.
+
+Closed Shape
+: A shape that is enclosed from all sides, end-to-end, forming a figure with no openings. Examples: circle, triangle, square, polygon, etc.
+
+Fill
+: The SVG version of `background-color`.
+
+Stroke
+: The SVG version of `border`.
+
 ### Materials
+- [Logos Tony has made](https://github.com/sait-wbdv/sample-code/tree/master/assets/images/logos)
+- [Tony's pinball diagrams](https://github.com/sait-wbdv/sample-code/tree/master/assets/images/pinball)
+
 ### Key Takeaways
 
 ---
