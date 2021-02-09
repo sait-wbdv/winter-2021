@@ -23,6 +23,10 @@ categories: cpnt201
 
 ## Morning reflection
 ### Housekeeping
+1. [Javascript homework](/winter-2021{{page.next.url}})
+2. Show-and-Tell
+    - Joel
+    - Vitaly
 
 ---
 

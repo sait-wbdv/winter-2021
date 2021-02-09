@@ -22,7 +22,7 @@ categories: cpnt201
     - Optional: [`sizes` attribute](https://developer.mozilla.org/en-US/docs/Web/HTML/Element/img#attr-sizes)
 5. `image-set()`
     - Read: [Is there a srcset equivalent for css background image](https://stackoverflow.com/questions/26801745/is-there-a-srcset-equivalent-for-css-background-image) on Stack Overflow
-    - Reference: [`image-set()` property](https://developer.mozilla.org/en-US/docs/Web/CSS/image-set())
+    - Reference: [`image-set()` property](https://developer.mozilla.org/en-US/docs/Web/CSS/image-set)
 6. Native lazy loading images
     - Watch: [Lazy loading is too easy now](https://youtu.be/AActXSWxsRo) by Kevin Powell
     - Read: [`loading` image attribute](https://developer.mozilla.org/en-US/docs/Web/Performance/Lazy_loading#Images_and_iframes) by MDN
