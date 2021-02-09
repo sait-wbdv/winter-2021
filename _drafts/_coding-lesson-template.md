@@ -1,7 +1,7 @@
 ---
 layout: post
 title: [title here]
-categories: cpnt260
+categories: cpnt262
 ---
 
 ## Homework
@@ -13,7 +13,15 @@ categories: cpnt260
 
 ---
 
-## Lecture/Live code
+## 1. Lecture/Live-code
+### Learning Objectives
+### Terms
+### Materials
+### Key Takeaways
+
+---
+
+## 2. Lecture/Live-code
 ### Learning Objectives
 ### Terms
 ### Materials
@@ -22,7 +30,9 @@ categories: cpnt260
 ---
 
 ## Open lab-time
-### Tips for learning
+
+---
+
 ### Tony's goals for Lab-Time
 
 ---
