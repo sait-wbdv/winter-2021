@@ -70,7 +70,7 @@ categories: cpnt201
 
 - SVG styles and effects _cannot_ leave the `viewBox`. Make your `viewBox` a little larger than the graphic if styles or filter effects are getting clipped. It's easiest to do this in a vector editor like Figma or Illustrator.
 - The `xmlns` attribute is needed if you want to support non-HTML5 browsers (we probably do) or XML parsers (we probably don't).
-- SVGOMG: 
+- [SVGOMG](https://jakearchibald.github.io/svgomg/): 
   - Most of the defaults are fine.
   - Prettify the code, if desired. It won't add a lot to file size.
   - `width` and `height` attributes will be removed by default (this is good).
