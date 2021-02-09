@@ -20,7 +20,6 @@ categories: cpnt201
     - Optional (but fun): [SVG Can Do That?!](https://youtu.be/ADXX4fmWHbo) by Sarah Drasner   
 
 ---
-{% comment %}
 
 ## Morning reflection
 ### Housekeeping
@@ -76,10 +75,16 @@ categories: cpnt201
 ---
 
 ## Open lab-time
+### Activities:
+1. Gist: [SVG Anatomy](https://gist.github.com/acidtone/7dc749f62b43bc777859ca52cde2b791)
+2. Gist: [Inserting an SVG](https://gist.github.com/acidtone/008a53588ab361a0ccc2fc89ff2439eb)
+3. Gist: [Add an SVG colour scheme](https://gist.github.com/acidtone/118f11cd417a7b20fb4f6976f36767a1)
+
+---
+
 ### Tony's goals for Lab-Time
 
 ---
-{% endcomment %}
 
 ## Dailies
 - Submit today's Codepen/repo/gist to the Dailies section (in Assessments) in Brightspace.
