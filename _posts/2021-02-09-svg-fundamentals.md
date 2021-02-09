@@ -87,6 +87,8 @@ categories: cpnt201
 ---
 
 ### Tony's goals for Lab-Time
+- Menu cleanup
+- Add JS MDN exercises to primary nav
 
 ---
 
