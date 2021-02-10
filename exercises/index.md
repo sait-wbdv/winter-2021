@@ -1,6 +1,6 @@
 ---
 layout: page
-title: WBDV Library of Findings
+title: Test your skills
 ---
 
 ## Javascript
