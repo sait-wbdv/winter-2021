@@ -49,6 +49,15 @@ Lexical Environment
 Syntax Parser
 : A program that reads your code and determines what it does and if its grammar is valid
 
+Object
+: A collection of name/value pairs (in terms of Javascript)
+
+Property
+: A fancy term for a variable that lives inside an object and is most often accessed using dot notation
+
+Method
+: A fancy term for a function that lives inside an object and is most often accessed using dot notation
+
 ---
 
 ## 1. Hello Dobby
@@ -86,7 +95,7 @@ Syntax Parser
     - `<script>` in `<head>`
     - Embedded JS vs external
   - DOM and source order
-- Access the features of a [DOM Element](https://developer.mozilla.org/en-US/docs/Web/API/Element) using dot notation in the Console.
+- Access the features of a [DOM Element](https://developer.mozilla.org/en-US/docs/Web/API/Element) using [dot notation](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Operators/Property_accessors#dot_notation) in the Console.
   - Examples:
     - [`element.className`](https://developer.mozilla.org/en-US/docs/Web/API/Element/className)
     - [`element.classList`](https://developer.mozilla.org/en-US/docs/Web/API/Element/classList)
