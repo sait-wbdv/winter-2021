@@ -30,6 +30,8 @@ categories: cpnt262
 
 ## Morning reflection
 ### Housekeeping
+- Course agenda
+- Assignment Schedule
 - Poll: How's your Javascript?
 
 ---
