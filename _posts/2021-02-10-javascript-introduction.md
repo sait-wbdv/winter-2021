@@ -35,6 +35,20 @@ categories: cpnt262
 - Poll: How's your Javascript?
 
 ---
+## Terminology
+Global
+: All code that is not inside a function.
+
+Global Execution Context
+: The environment that is available everywhere in your app.
+
+Lexical Environment
+: Where something sits physically in the code you write. In Javascript, *where* you write your code is important
+
+Syntax Parser
+: A program that reads your code and determines what it does and if its grammar is valid
+
+---
 
 ## 1. Hello Dobby
 ### Learning Objectives
