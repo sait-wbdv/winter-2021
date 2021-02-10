@@ -28,10 +28,9 @@ categories: cpnt262
 
 ---
 
-{% comment %}
-
 ## Morning reflection
 ### Housekeeping
+- Poll: How's your Javascript?
 
 ---
 
@@ -46,7 +45,7 @@ categories: cpnt262
 - Locate and display the browser [Javascript Console](https://balsamiq.com/support/faqs/browserconsole/).
   - Identify syntax errors in the Javascript Console.
   - Log messages and values to the Console using `console.log()`.
-- Discuss common `window` object properties.
+- Discuss examples of `window` object properties.
   - `innerWidth` (aka. `window.innerHeight`)
   - `innerHeight` (aka. `window.innerWidth`)
 - Understand [Javascript coding conventions](https://www.w3schools.com/js/js_conventions.asp).
@@ -54,11 +53,11 @@ categories: cpnt262
 ### Materials
 - Firefox Console
 
-### Terminology
-API (Application Programming Interface)
-: 
-
 ### Key Takeaways
+- 90% of Javascript is using the DOM API. The rest is actually programming in JS.
+- `console.log()` and or the Console should be your first step when debugging your code.
+- Get used to looking up DOM objects in the MDN.
+- The Codepen console is a little clunky. Open your scripts in Debug Mode and open the normal Console from there.
 
 ---
 
@@ -81,29 +80,21 @@ API (Application Programming Interface)
 - Search: [window vs document vs dom](https://www.google.com/search?q=window+vs+document+vs+dom)
 - [Code Challenge - CSS Toggles with element.classList](http://browsertherapy.com/challenges/css-toggles-with-classlist/)
 
-### Terminology
-DOM Object
-: Pre-build Javascript objects that extend the functionality of Javascript by providing an interface for controlling the Document Object Model.
-
-Object property
-: A Javascript variable that exists inside an object.
-
-Object method
-: A Javascript function that exists inside an object.
-
 ### Key Takeaways
-
+- Pay attention to indentation. It tells you a lot about when and how JS code will execute.
+- The DOM needs to load before you can access its objects. For now, embed or link your code at the bottom of your page, just before the `</body>` tag. We'll eventually move your code to the `<head>` of you HTML documents.
+- Get used to seeing code you don't immediately understand. Start with the bits you _do_ understand; we'll cover the mystery bits as the course progresses.
 
 ---
 
 ## Open lab-time
+### Activities
+1. Free Code Camp exercise
+2. Read: [A first splash into Javascript](https://developer.mozilla.org/en-US/docs/Learn/JavaScript/First_steps/A_first_splash)
+3. Test your skills: [Variables](https://developer.mozilla.org/en-US/docs/Learn/JavaScript/First_steps/Test_your_skills:_variables)
+
 
 ---
-
-### Tony's goals for Lab-Time
-
----
-{% endcomment %}
 
 ## Dailies
 - Submit today's Codepen/repo/gist to the Dailies section (in Assessments) in Brightspace.
