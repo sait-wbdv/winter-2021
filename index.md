@@ -34,15 +34,15 @@ title: "Program Schedule"
 - M: CPNT 201 Day 6 - [Vector Editors](/winter-2021{% link _posts/2021-02-08-vector-editors.md %})
 - T: CPNT 201 Day 7 - [SVG Fundamentals](/winter-2021{% link _posts/2021-02-09-svg-fundamentals.md %})
 - W: CPNT 262 Day 1 - [Hello Dobby](/winter-2021{% link _posts/2021-02-10-javascript-introduction.md %})
-- R: CPNT 262 Day 2
-- F: CPNT 262 Day 3
+- R: CPNT 262 Day 2 - Variable declaration and assignment
+- F: CPNT 262 Day 3 - Checkboxes and bollean values
 
 ## Week 6: Feb 15-19
 - _M: Family Day_
-- T: CPNT 262 Day 4
-- W: CPNT 262 Day 5
-- R: CPNT 262 Day 6
-- F: CPNT 262 Day 7
+- T: CPNT 262 Day 4 - Operators and expressions
+- W: CPNT 262 Day 5 - Coersion and truthiness
+- R: CPNT 262 Day 6 - Comaprison operators and conditionals
+- F: CPNT 262 Day 7 - Web forms
 
 ## Week 7: Feb 22-26
 - M: CPNT 264 Day 1 - Career and Consulting Essentials
