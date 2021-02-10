@@ -115,9 +115,10 @@ Method
 
 ## Open lab-time
 ### Activities
-1. Free Code Camp exercise
+1. Free Code Camp exercises
 2. Read: [A first splash into Javascript](https://developer.mozilla.org/en-US/docs/Learn/JavaScript/First_steps/A_first_splash)
 3. Test your skills: [Variables](https://developer.mozilla.org/en-US/docs/Learn/JavaScript/First_steps/Test_your_skills:_variables)
+4. Level-up: [Try creating a Colour Slider](http://browsertherapy.com/challenges/colour-sliders-css-variables/)
 
 
 ---
