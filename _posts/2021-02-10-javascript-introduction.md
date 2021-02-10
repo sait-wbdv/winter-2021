@@ -32,6 +32,7 @@ categories: cpnt262
 ### Housekeeping
 - Course agenda
 - Assignment Schedule
+- Added Exercises to menu
 - Poll: How's your Javascript?
 
 ---
