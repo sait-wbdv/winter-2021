@@ -36,7 +36,8 @@ categories: cpnt262
 - Define the difference between [syntax vs logic errors](https://developer.mozilla.org/en-US/docs/Learn/JavaScript/First_steps/What_went_wrong).
 - Discuss the Creation and Execution phases in Javascript.
   - Define the global object.
-- Define the difference between variable declaration and assignment.
+- Compare and contrast the "strict" vs "sloppy" modes of Javascript.
+- Illustrate the difference between variable declaration and assignment.
   - Demonstrate the [assignment operator](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Operators/Assignment) (`=`).
   - Demonstrate the difference between [`let`](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Statements/let) and [`const`](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Statements/const) when declaring variables.
 - Define the primitive value types.
@@ -78,8 +79,16 @@ Mutable
 - Node console(!)
 
 ### Key Takeaways
-- When declaring variables, start with the `const` keyword and use `let` only when you need to reassign a variable. Avoid the use of `var`.
-- Variables defined with `const` are still mutable, they just can't be reassigned. In other words, you can create an array with the `const` keyword and the items in the array can still be changed.
+- Use strict mode whenever possible. It will make you a better (safer) coder:
+
+    At the top of your script, add:
+
+    ```js
+    'use strict';
+    ```
+
+- When declaring variables, start with the `const` keyword and use `let` only when you need to reassign a variable. Avoid the use of the older `var` keyword.
+- Variables defined with `const` are still mutable, they just can't be reassigned. In other words, you can create an array with the `const` keyword and the items in the array can still be changed. The same is true for objects (including HTML Elements).
 - Never explicitly assign a variable to `undefined`. When you need a variable to be "nothing" use `null` instead.
 
 ### Common assignment/declaration syntax errors
@@ -97,12 +106,24 @@ Mutable
     Uncaught TypeError: invalid assignment to const 'whatever'
     ```
 
-    You tried to reassign a constant. Try declaring with `let` if you need to reassign.
+    Or
+
+    ```
+    TypeError: Assignment to constant variable.
+    ```
+
+    You tried to reassign a constant variable. Try declaring with `let` if you need to reassign.
 
 3. Missing assignment on `const` variable:
 
     ```
     Uncaught SyntaxError: missing = in const declaration
+    ```
+
+    Or
+
+    ```
+    SyntaxError: Missing initializer in const declaration
     ```
 
     The `const` keyword requires that you assign the variable with a value at the time of creation. If you need to create a variable without assigning it, use `let`.
