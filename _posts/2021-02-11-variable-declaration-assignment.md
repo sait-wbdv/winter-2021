@@ -33,7 +33,7 @@ categories: cpnt262
 
 ## 1. Variable Declaration vs Assignment
 ### Learning Objectives
-- Define the difference between [syntax vs logic errors]((https://developer.mozilla.org/en-US/docs/Learn/JavaScript/First_steps/What_went_wrong)).
+- Define the difference between [syntax vs logic errors](https://developer.mozilla.org/en-US/docs/Learn/JavaScript/First_steps/What_went_wrong).
 - Discuss the Creation and Execution phases in Javascript.
   - Define the global object.
 - Define the difference between variable declaration and assignment.
