@@ -155,13 +155,10 @@ Addition Operator (`+`)
 ---
 
 ## Open lab-time
-1. Level-up exercises in [Adding Machine](https://gist.github.com/acidtone/41311f0c2ae259445de4e6ca3b400edc) activity.
-
----
-
-### Tony's goals for Lab-Time
+1. Read: [Web forms — Working with user data](https://developer.mozilla.org/en-US/docs/Learn/Forms)
+2. Level-up exercises in [Adding Machine](https://gist.github.com/acidtone/41311f0c2ae259445de4e6ca3b400edc) activity.
 
 ---
 
 ## Dailies
-- Submit today's Codepen/repo/gist to the Dailies section (in Assessments) in Brightspace.
+- Submit today's Adding Machine to the Dailies section (in Assessments) in Brightspace.
