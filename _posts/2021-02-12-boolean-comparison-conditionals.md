@@ -26,7 +26,7 @@ categories: cpnt262
 ### Terminology
 ### Materials
 ### Key Takeaways
-
+  
 ---
 
 ## 2. Lecture/Live-code
