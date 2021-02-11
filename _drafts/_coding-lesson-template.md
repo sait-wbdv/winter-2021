@@ -7,6 +7,7 @@ categories: cpnt262
 ## Homework
 
 ---
+{% comment %}
 
 ## Morning reflection
 ### Housekeeping
@@ -36,6 +37,7 @@ categories: cpnt262
 ### Tony's goals for Lab-Time
 
 ---
+{% endcomment %}
 
 ## Dailies
 - Submit today's Codepen/repo/gist to the Dailies section (in Assessments) in Brightspace.
