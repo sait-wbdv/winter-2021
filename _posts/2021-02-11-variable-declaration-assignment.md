@@ -23,9 +23,11 @@ categories: cpnt262
 
 
 ---
-{% comment %}
+
 ## Morning reflection
 ### Housekeeping
+- Added forms "homework"
+- Assignment 1 announced tomorrow.
 
 ---
 
@@ -67,7 +69,7 @@ Variable Declaration
 : Creating a variable name in memory (with or without a value). In Jascript ES6, this is accomplished with the `const` and `let` declaration keywords.
 
 Variable Assignment
-: When we give a variable name a value using the `=` asignment operator. We say we've "assigned a variable". If a variable hasn't been assigned, it's value will be `undefined`.
+: When we give a variable name a value using the `=` assignment operator. We say we've "assigned a variable". If a variable hasn't been assigned, it's value will be `undefined`.
 
 Mutable
 : Able to be changed. In Javascript, only arrays and objects (which include HTML Element variables) are mutable.
@@ -107,17 +109,18 @@ Mutable
 
 ---
 
-## 2. Numbers, arithmetic operators and forms
+## 2. Numbers, strings and the addition operator
 ### Learning Objectives
-- Define the `number` primitive type.
-- Define the `string` primitive type.
-- Define value coersion.
-- Arithmetically add two numbers and log the result to the console. 
-- Create a form element with two number fields and a submit button.
-- Add a `submit` event listener to a form that adds two number field values (and log the result to the console).
+- Primitive types
+  - Define the `number` primitive type.
+  - Define the `string` primitive type.
+- Addition Operator
+  - Arithmetically add two numbers and log the result to the console. 
+  - Define value coercion.
+  - Explore the relationship between addition and concatenation.
 
 ### Terminology
-Coersion
+Coercion
 : Converting a value from one type to another.
 
 Arithmetic operator
@@ -126,26 +129,39 @@ Arithmetic operator
 Addition Operator (`+`)
 : The addition operator produces the sum of numeric operands or string concatenation.
 
+### Key Takeaways
+- There are no "integers" in Javascript (except for the new-ish `BigInt` value, which we won't cover). If you need to guarantee that you're working with an integer, use tje `parseInt()` function.
+- Javascript is an "untyped" language, meaning JS will try it's best to convert one type to another to "help" you out.
+- The `+` operator adds values if they are numbers. It will concatenate values if one or more is a string.
+
+---
+
+## 3. Forms: Adding Machine
+### Learning Objectives
+- Forms
+  - Create a form element with two number fields and a submit button.
+  - Create a `form` HTML element variable using `document.querySelector()`. 
+  - Add a `submit` event listener to a `form`.
+  - Prevent a form from being submitted with `preventDefault()`.
+  - Add two numbers submitted from a form and log the `result` to the Console.
+
 ### Materials
 - [Adding Machine](https://gist.github.com/acidtone/41311f0c2ae259445de4e6ca3b400edc)
 
 ### Key Takeaways
-- Javascript is an "untyped" language, meaning JS will try it's best to convert one type to another to "help" you out.
-- The `+` operator adds values if they are numbers. It will concatenate values if one or more is a string.
 - Forms will try to submit to a server by default. Use `event.preventDefault` to stop this (the event must be passed as an argument in the event listener).
-- Forms will convert all input values to strings. Use `parseFloat` to convert a string into a number.
+- Forms will convert all input values to strings. Use `parseFloat()` to convert a string into a number.
 
 ---
 
 ## Open lab-time
-
+1. Level-up exercises in [Adding Machine](https://gist.github.com/acidtone/41311f0c2ae259445de4e6ca3b400edc) activity.
 
 ---
 
 ### Tony's goals for Lab-Time
 
 ---
-{% endcomment %}
 
 ## Dailies
 - Submit today's Codepen/repo/gist to the Dailies section (in Assessments) in Brightspace.
