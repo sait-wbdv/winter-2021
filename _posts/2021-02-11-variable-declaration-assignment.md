@@ -90,6 +90,7 @@ Mutable
 - When declaring variables, start with the `const` keyword and use `let` only when you need to reassign a variable. Avoid the use of the older `var` keyword.
 - Variables defined with `const` are still mutable, they just can't be reassigned. In other words, you can create an array with the `const` keyword and the items in the array can still be changed. The same is true for objects (including HTML Elements).
 - Never explicitly assign a variable to `undefined`. When you need a variable to be "nothing" use `null` instead.
+- When in doubt copy and paste your syntax error into Google.
 
 ### Common assignment/declaration syntax errors
 1. Calling a variable that hasn't been declared:
@@ -100,33 +101,37 @@ Mutable
 
     Probably the most common syntax error: trying to use a variable that doesn't exist. Best solution: declare the variable so it exists!
 
-2. Re-assigning a `const` variable:
+2. Missing assignment on `const` variable:
 
-    ```
-    Uncaught TypeError: invalid assignment to const 'whatever'
-    ```
-
-    Or
-
-    ```
-    TypeError: Assignment to constant variable.
-    ```
-
-    You tried to reassign a constant variable. Try declaring with `let` if you need to reassign.
-
-3. Missing assignment on `const` variable:
+    In Firefox:
 
     ```
     Uncaught SyntaxError: missing = in const declaration
     ```
 
-    Or
+    Or, in Chrome/Node
 
     ```
     SyntaxError: Missing initializer in const declaration
     ```
 
     The `const` keyword requires that you assign the variable with a value at the time of creation. If you need to create a variable without assigning it, use `let`.
+
+3. Re-assigning a `const` variable:
+
+    In Firefox:
+
+    ```
+    Uncaught TypeError: invalid assignment to const 'whatever'
+    ```
+
+    Or, in Chrome/Node
+
+    ```
+    TypeError: Assignment to constant variable.
+    ```
+
+    You tried to reassign a constant variable. Try declaring with `let` if you need to reassign.
 
 ---
 
@@ -135,7 +140,7 @@ Mutable
 - Primitive types
   - Define the `number` primitive type.
   - Define the `string` primitive type.
-- Addition Operator
+- [Addition Operator](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Operators/Addition)
   - Arithmetically add two numbers and log the result to the console. 
   - Define value coercion.
   - Explore the relationship between addition and concatenation.

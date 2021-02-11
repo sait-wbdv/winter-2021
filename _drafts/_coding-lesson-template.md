@@ -15,7 +15,7 @@ categories: cpnt262
 
 ## 1. Lecture/Live-code
 ### Learning Objectives
-### Terms
+### Terminology
 ### Materials
 ### Key Takeaways
 
@@ -23,7 +23,7 @@ categories: cpnt262
 
 ## 2. Lecture/Live-code
 ### Learning Objectives
-### Terms
+### Terminology
 ### Materials
 ### Key Takeaways
 
