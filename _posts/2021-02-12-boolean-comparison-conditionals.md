@@ -104,7 +104,7 @@ Truthy
 - Why does this expression evaluate to `false`?
 
     ```js
-    1 > 2 > 3
+    3 > 2 > 1
     ```
 
     **Hint**: Search "[js operator associatvity](https://www.google.com/search?q=js+operator+precedence+and+associativity)". Associativity is the order (left-to-right/right-to-left) that operators of the same precedence are performed.
