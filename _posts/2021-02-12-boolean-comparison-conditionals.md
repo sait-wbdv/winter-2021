@@ -15,9 +15,12 @@ categories: cpnt262
     - [`<select>`: The HTML Select element](https://developer.mozilla.org/en-US/docs/Web/HTML/Element/select)
 
 ---
-{% comment %}
 ## Morning reflection
 ### Housekeeping
+1. [Assignment 1: classList Toggle](https://github.com/sait-wbdv/assessments/tree/master/cpnt262/assignment-1)
+2. Poll: Which Gist format is better?
+    - One `index.html` page: [Adding Machine](https://gist.github.com/acidtone/41311f0c2ae259445de4e6ca3b400edc)
+    - Codepen style: [Hiding and Element](https://gist.github.com/acidtone/61ae09c7efb6a504010d17199e41510e)
 
 ---
 
@@ -43,7 +46,11 @@ Equality (`==`)
 Strict Equality (`===`)
 : When two values are equal _and_ they are of the same value type.
 
-Flasyy 
+Falsy
+: A value that is considered `false` when converted to a Boolean value.
+
+Truthy
+: A value that is considered `true` when converted to a Boolean value.
 
 ### Materials
 - Console!
@@ -51,19 +58,41 @@ Flasyy
 ### Key Takeaways
 - Use `===` when testing for equality (it's safer). Use `==` once you understand truthiness.
 - Any expression (code than returns a value) can be coerced to a boolean value.
-  
+- Some caveats when using `typeof`:
+
+  **Notice**: `typeof` is one of the oldest operators in JS. So old, it doesn't use camel case.
+  {:  .notice .notice--info}
+
+  **Warning**: `typeof` also has one of the oldest bugs in Javascript: `typeof null` returns `object`.
+  {:  .notice .notice--warning}
+
+[^2]: [JavaScript check if variable exists (is defined/initialized)](https://stackoverflow.com/questions/5113374/javascript-check-if-variable-exists-is-defined-initialized)
+
 ---
 
 ## 2. Conditional code blocks
 ### Learning Objectives
-- Explore the role of pseudocode in development.
-- Review @media queries 
+- Explore the role of pseudo-code in development.
+- Review `@media` queries and their relationship to Boolean values.
+- Demonstrate `if`, `else` and `else if`.
 
 
-### Terminology
 ### Materials
-### Key Takeaways
+- Review: [CPNT 260 Day 5 - Media queries](https://sait-wbdv.github.io/winter-2021/cpnt260/media-queries-icons/)
+- Spoilers: [Adding Machine](https://gist.github.com/acidtone/1b036a8d2f1e5b7f398462cc957f64dc) answer from yesterday
 
+### Key Takeaways
+- A common use case: checking if a variable is initialized with [^2]:
+    
+  ```js
+  if (typeof variable !== 'undefined') {
+    // the variable is defined
+  }
+  ```
+
+  **Notice**: `typeof` has the added benefit of not throwing a "Not Defined" error if the "variable" hasn't been declared.
+  {:  .notice .notice--info}
+  
 ---
 
 ## Open lab-time
@@ -84,9 +113,9 @@ Flasyy
 ---
 
 ### Tony's goals for Lab-Time
+- Create a dynamic 2x2 Grid that follows the cursor?
 
 ---
-{% endcomment %}
 
 ## Dailies
 - Submit today's Codepen/repo/gist to the Dailies section (in Assessments) in Brightspace.
