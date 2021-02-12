@@ -99,6 +99,9 @@ Truthy
 ---
 
 ## Open lab-time
+### Activities
+1. Try building a Greet form in HTML that uses the same logic as the [sample code](https://github.com/sait-wbdv/in-class/blob/main/w5f/js/greet.js) created in class.
+
 ### Deep dives
 - Read: [Operator Overview](https://www.oreilly.com/library/view/javascript-the-definitive/9781449393854/ch04s07.html) on O'Reilly. It's "The Definitive Guide" to operators.
   - Teach Tony: What the heck does "Shift left" and "Shift right with sign/zero extension" do?
