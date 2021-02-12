@@ -11,7 +11,9 @@ categories: cpnt262
     - [Making decisions in your code - conditionals](https://developer.mozilla.org/en-US/docs/Learn/JavaScript/Building_blocks/conditionals)
     - [Comparison operators](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Guide/Expressions_and_Operators#comparison_operators)
     - [Equality comparisons and sameness](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Equality_comparisons_and_sameness)
-3. Forms
+3. Logical operators
+    - [Logical NOT (`!`)](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Operators/Logical_NOT)
+4. Forms
     - [`<select>`: The HTML Select element](https://developer.mozilla.org/en-US/docs/Web/HTML/Element/select)
 
 ---
@@ -65,6 +67,7 @@ Truthy
 
   **Warning**: `typeof` also has one of the oldest bugs in Javascript: `typeof null` returns `object`.
   {:  .notice .notice--warning}
+
 
 [^2]: [JavaScript check if variable exists (is defined/initialized)](https://stackoverflow.com/questions/5113374/javascript-check-if-variable-exists-is-defined-initialized)
 
