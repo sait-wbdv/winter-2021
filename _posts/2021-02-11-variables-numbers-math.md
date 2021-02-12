@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Variable declaration and assignment
+title: Variables, Numbers and Math
 categories: cpnt262
 ---
 

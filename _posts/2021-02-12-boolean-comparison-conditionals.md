@@ -79,7 +79,7 @@ Truthy
 
 ### Materials
 - Review: [CPNT 260 Day 5 - Media queries](https://sait-wbdv.github.io/winter-2021/cpnt260/media-queries-icons/)
-- Spoilers: [Adding Machine](https://gist.github.com/acidtone/1b036a8d2f1e5b7f398462cc957f64dc) answer from yesterday
+- [Adding Machine](https://gist.github.com/acidtone/1b036a8d2f1e5b7f398462cc957f64dc) answer from yesterday
 
 ### Key Takeaways
 - A common use case: checking if a variable is initialized with [^2]:
