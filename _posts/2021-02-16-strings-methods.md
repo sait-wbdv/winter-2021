@@ -16,7 +16,6 @@ categories: cpnt262
     - Read: [Template literals](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Template_literals) on MDN
 
 ---
-{% comment %}
 
 ## Morning reflection
 ### Housekeeping
@@ -45,6 +44,7 @@ categories: cpnt262
     - Discuss the escaping of characters (quotes, newlines, spaces, tabs, etc).
 - Differentiate between calling the `String()` constructor as a function (useful) vs using the `new` keyword (rare).
 - Demonstrate the [`string.prototype.length`](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/String/length) property.
+    - Introduce the concept of Arrays, in terms of sting character indexes.
 
 ### Terminology
 String Literal
@@ -77,6 +77,7 @@ String Constructor
 - The `String()` constructor can be used in two ways!
     1. `new String('some string/value')` will create a String _object_ (you will do this rarely).
     2. Calling it as a function: `String('some value')` will convert that value to a string _primitive_ (you will do this more often).
+- Along with `string.length` string characters are also copied into an array; each character is given a number, starting at zero, in order of the characters. Each character can be accessed with [bracket notation](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Array#accessing_array_elements).
 
 ---
 
@@ -91,20 +92,30 @@ String Constructor
 - Demonstrate how to find the last character of a string.
 
 ### Materials
-
+- Codepen (currently empty): [Text area character counter](https://codepen.io/acidtone/pen/qBqrzGb)
 
 ### Key Takeaways
+- Best event for tracking `textarea` changes: 
+- Location of a string inside `textarea`: 
+- How to display the character limit from `textarea` attributes:
 
 ---
 
 ## Open lab-time
+### Activities
+1. Using the Codepen created in the morning session:
+    - Using conditionals, change the character colour to red when there are less than 25 (or whatever) characters left.
+    - Add a counter for how many _words_ have been typed;
+    - Add a Name field and join the `textarea` text with a "Hello [name]," introduction similar to how you'd write an email.
+    - Find any instances of hashtags (i.e. `#dogs`) and/or account usernames (i.e. `@acidtone`).
+2. Test your skills: [Strings](https://developer.mozilla.org/en-US/docs/Learn/JavaScript/First_steps/Test_your_skills:_Strings)
 
 ---
 
 ### Tony's goals for Lab-Time
+- Test your skills?
 
 ---
-{% endcomment %}
 
 ## Dailies
 - Submit today's Codepen/repo/gist to the Dailies section (in Assessments) in Brightspace.

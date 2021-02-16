@@ -39,17 +39,17 @@ title: "Program Schedule"
 
 ## Week 6: Feb 15-19
 - _M: Family Day_
-- T: CPNT 262 Day 4 - Operators and expressions
-- W: CPNT 262 Day 5 - Coercion and truthiness
-- R: CPNT 262 Day 6 - Comparison operators and conditionals
-- F: CPNT 262 Day 7 - Web forms
+- T: CPNT 262 Day 4 - [Strings and string methods](/winter-2021{% link _posts/2021-02-16-strings-methods.md %})
+- W: CPNT 262 Day 5 - Array literals and checkboxes
+- R: CPNT 262 Day 6 - Common array methods
+- F: CPNT 262 Day 7 - Object literals
 
 ## Week 7: Feb 22-26
 - M: CPNT 264 Day 1 - Career and Consulting Essentials
-- T: CPNT 262 Day 8
-- W: CPNT 262 Day 9
-- R: CPNT 262 Day 10
-- F: CPNT 262 Day 11
+- T: CPNT 262 Day 8 - Functions and callbacks
+- W: CPNT 262 Day 9 - `fetch()` and asynchronous operations
+- R: CPNT 262 Day 10 - Modules and `mjs` extensions
+- F: CPNT 262 Day 11 - WTF is `this`?
 
 ## Week 8: Mar 1-5
 - M: CPNT 264 Day 2 - Career and Consulting Essentials
