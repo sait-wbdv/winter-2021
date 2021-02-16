@@ -30,8 +30,8 @@ categories: cpnt262
     - Operator Associativity
     - Template literals
 3. Dailies highlights
-    - Patrick
-    - Swapna
+    - Swapna's Greet form
+    - Patrick's [To Do List](https://pteskey.github.io/in-class/12-02-2021/)
 
 ---
 
