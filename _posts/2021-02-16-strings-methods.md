@@ -29,6 +29,9 @@ categories: cpnt262
         - Coercing a type into a boolean value using `Boolean()`.
     - Operator Associativity
     - Template literals
+3. Dailies highlights
+    - Patrick
+    - Swapna
 
 ---
 
@@ -81,9 +84,10 @@ String Constructor
 
 ---
 
-## 2. Demo: String methods
+## 2. Demo: String methods and character counters
 ### Learning Objectives
 - Explore some [useful methods](https://developer.mozilla.org/en-US/docs/Learn/JavaScript/First_steps/Useful_string_methods) that are available for strings.
+    - Identify whether a method is an expression or not.
 - Use `string.length` to create a character counter for a [`textarea` form element](https://developer.mozilla.org/en-US/docs/Web/HTML/Element/textarea).
     - Pseudo-code: what's the best way to accomplish this?
         - How do we access the string inside a `textarea` element?
