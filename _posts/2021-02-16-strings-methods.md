@@ -109,9 +109,9 @@ String Constructor
 ### Activities
 1. Using the Codepen created in the morning session:
     - Using conditionals, change the character colour to red when there are less than 25 (or whatever) characters left.
-    - Add a counter for how many _words_ have been typed;
+    - Using a string method, add a counter for how many _words_ have been typed;
     - Add a Name field and join the `textarea` text with a "Hello [name]," introduction similar to how you'd write an email.
-    - Find any instances of hashtags (i.e. `#dogs`) and/or account usernames (i.e. `@acidtone`).
+    - "Advanced": Find any instances of hashtags (i.e. `#dogs`) and/or account usernames (i.e. `@acidtone`).
 2. Test your skills: [Strings](https://developer.mozilla.org/en-US/docs/Learn/JavaScript/First_steps/Test_your_skills:_Strings)
 
 ---
