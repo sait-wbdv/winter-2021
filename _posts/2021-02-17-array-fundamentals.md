@@ -15,6 +15,7 @@ categories: cpnt262
 
 ## Morning reflection
 ### Housekeeping
+- [Adian's Folley](https://ca.indeed.com/viewjob?jk=f6e99de1af586f54&from=tp-serp&tk=1euo7a665osi6800)
 - Dailies shoutouts
     - Pattern matching
         - [Vitaly](https://codepen.io/gvitaly87/full/oNYWzQG)
