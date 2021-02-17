@@ -74,7 +74,7 @@ Array item
 
 ### Key Takeaways
 - Random numbers in Javascript are a pain.
-- There are many ways to output HTML than `Element.innerHTML` but we'll stick with this one for most of this program. See [<template>: The Content Template element](https://developer.mozilla.org/en-US/docs/Web/HTML/Element/template) for a fancier way.
+- There are many ways to output HTML than `Element.innerHTML` but we'll stick with this one for most of this program. See [`<template>`: The Content Template element](https://developer.mozilla.org/en-US/docs/Web/HTML/Element/template) for a fancier way.
 
 ---
 
