@@ -15,14 +15,21 @@ categories: cpnt262
 
 ## Morning reflection
 ### Housekeeping
-
+- Dailies shoutouts
+    - Pattern matching
+        - [Vitaly](https://codepen.io/gvitaly87/full/oNYWzQG)
+        - [Swapna](https://swappnasama.github.io/string-examples/)
+        - [Norville](https://codepen.io/nozky/pen/gOLWMzm)
+    - Others
+        - Word Count: Aidan, Ash, Joel, Joe
+        - Red limit warning: Dustin
 
 ---
 
 ## 1. Array Overview
 ### Learning Objectives
 - Create an array using an array literal.
-- Add to the end of an array using `[]`.
+- Add to the end of an array using `array[array.length]`.
 - Access an item in an array using the item's index.
 - Re-assign an item in an array using the item's index.
 
@@ -92,7 +99,7 @@ Array glue
 ## Open lab-time
 ### Activities
 1. Create a list of `img` URLs from your projects and assets and create a "Random Image of the Day" page.
-2. Using the [`nouns.mjs`](https://github.com/sait-wbdv/sample-code/blob/master/assets/js/nouns.mjs) sample arrya, re-create a version of Tony's [Random Band Name Generator](https://acidtone.github.io/namor/).
+2. Using the [`nouns.mjs`](https://github.com/sait-wbdv/sample-code/blob/master/assets/js/nouns.mjs) sample array, re-create a version of Tony's [Random Band Name Generator](https://acidtone.github.io/namor/).
 
 ---
 
