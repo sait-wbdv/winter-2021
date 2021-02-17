@@ -100,7 +100,8 @@ Array glue
 ## Open lab-time
 ### Activities
 1. Create a list of `img` URLs from your projects and assets and create a "Random Image of the Day" page.
-2. Using the [`nouns.mjs`](https://github.com/sait-wbdv/sample-code/blob/master/assets/js/nouns.mjs) sample array, re-create a version of Tony's [Random Band Name Generator](https://acidtone.github.io/namor/).
+2. Create a semantically correct list of `nouns`: each separated by a comma and space (`, `) except the last item which is separated by ` and `. Capitalize the first noun and end the "sentence" with a period (`.`).
+3. Using the [`nouns.mjs`](https://github.com/sait-wbdv/sample-code/blob/master/assets/js/nouns.mjs) sample array, re-create a version of Tony's [Random Band Name Generator](https://acidtone.github.io/namor/).
 
 ---
 

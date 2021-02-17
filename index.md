@@ -41,7 +41,7 @@ title: "Program Schedule"
 - _M: Family Day_
 - T: CPNT 262 Day 4 - [Strings and string methods](/winter-2021{% link _posts/2021-02-16-strings-methods.md %})
 - W: CPNT 262 Day 5 - [Array fundamentals](/winter-2021{% link _posts/2021-02-17-array-fundamentals.md %})
-- R: CPNT 262 Day 6 - Array methods and checkboxes
+- R: CPNT 262 Day 6 - [Array methods and checkboxes](/winter-2021{% link _posts/2021-02-18-array-methods.md %})
 - F: CPNT 262 Day 7 - Object literals
 
 ## Week 7: Feb 22-26
