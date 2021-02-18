@@ -16,10 +16,18 @@ categories: cpnt262
     - Skim: [Introducing objects](https://developer.mozilla.org/en-US/docs/Learn/JavaScript/Objects)
 
 ---
-{% comment %}
 
 ## Morning reflection
 ### Housekeeping
+1. Dailies shoutouts
+    - [Joel's Drinking Game](https://kayej22.github.io/w6w/)
+    - [Makayla's Date Night Chooser](https://codepen.io/makaylamr/pen/MWbmPNE)
+    - [Aidan's Character Generator](https://codepen.io/Aidano/pen/vYymbBj)
+    - [Karen's "Which Kiyo are you today"](https://nerakmari.github.io/kiyo-generator/)
+    - [Swapna's Random on Hover](https://swappnasama.github.io/random-generator/) (with multi-dimensional array)
+    - [Patrick's Random Cat Generator](https://pteskey.github.io/in-class/17-02-2021/)
+    - [Norville's Random Word Speaker](https://cdpn.io/nozky/debug/ZEBKNLp/dXkqBaNyXPvM)
+2. Note for Dailies: include direct link to GH Pages.
 
 ---
 
@@ -122,6 +130,15 @@ Object Method
 ---
 
 ## Open lab-time
+1. Take one of your image URLs from yesterday and convert it to an object, adding a:
+    - title
+    - imgURL
+    - width
+    - height
+    - photoCredit
+2. Repeat with the rest of your image URLs and convert your array of strings into an array of objects.
+3. Refactor your random image code to use an object instead of just an image URL.
+4. Try paginating your list of images.
 
 ---
 
