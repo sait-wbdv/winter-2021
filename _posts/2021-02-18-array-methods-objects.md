@@ -145,7 +145,6 @@ Object Method
 ### Tony's goals for Lab-Time
 
 ---
-{% endcomment %}
 
 ## Dailies
 - Submit today's Codepen/repo/gist to the Dailies section (in Assessments) in Brightspace.
