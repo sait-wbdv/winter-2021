@@ -42,7 +42,7 @@ title: "Program Schedule"
 - T: CPNT 262 Day 4 - [Strings and string methods](/winter-2021{% link _posts/2021-02-16-strings-methods.md %})
 - W: CPNT 262 Day 5 - [Array fundamentals](/winter-2021{% link _posts/2021-02-17-array-fundamentals.md %})
 - R: CPNT 262 Day 6 - [Array methods and checkboxes](/winter-2021{% link _posts/2021-02-18-array-methods-objects.md %})
-- F: CPNT 262 Day 7 - Object literals
+- F: CPNT 262 Day 7 - [Objects and Review](/winter-2021{% link _posts/2021-02-18-objects-review.md %})
 
 ## Week 7: Feb 22-26
 - M: CPNT 264 Day 1 - Career and Consulting Essentials
