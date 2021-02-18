@@ -143,6 +143,10 @@ Object Method
 ---
 
 ### Tony's goals for Lab-Time
+- Add URL params to Random Name Generator
+- Gists!
+  - linking JS modules
+  - Pagination
 
 ---
 
