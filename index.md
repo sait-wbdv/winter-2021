@@ -47,8 +47,8 @@ title: "Program Schedule"
 ## Week 7: Feb 22-26
 - M: CPNT 264 Day 1 - Career and Consulting Essentials
 - T: CPNT 262 Day 8 - Functions and callbacks
-- W: CPNT 262 Day 9 - `fetch()` and asynchronous operations
-- R: CPNT 262 Day 10 - Modules and `mjs` extensions
+- W: CPNT 262 Day 9 - Loops
+- R: CPNT 262 Day 10 - `fetch()` and asynchronous operations
 - F: CPNT 262 Day 11 - WTF is `this`?
 
 ## Week 8: Mar 1-5
