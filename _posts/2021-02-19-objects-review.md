@@ -8,6 +8,11 @@ categories: cpnt262
 1. Objects
     - [Working_with_Objects](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Guide/Working_with_Objects)
 2. Review of _everything_ in 262 so far.
+3. Dailies shoutouts
+    - Vitaly: [Lorem Picsum Generator](https://codepen.io/gvitaly87/pen/qBqjYYN)
+    - Jess: [Tomorrow's mood](https://jluu38.github.io/W6W/)
+    - Swapna: [Image Slider](https://swappnasama.github.io/image-slider/)
+    - Patrick: [Quizzes!](https://pteskey.github.io/in-class/18-02-2021/)
 
 ---
 
