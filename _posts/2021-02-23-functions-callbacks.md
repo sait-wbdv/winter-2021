@@ -29,15 +29,45 @@ categories: cpnt262
 
 ---
 
-## 1. Lecture/Live-code
+## 1. Function fundamentals
 ### Learning Objectives
+- Define a function.
+
 ### Terminology
+Function 
+: A reusable set of statements that take an (optional) input and return an (optional) output.
+
+Function Definition
+: The creation of a function, either as a function declaration or a function expression.
+
+Function Invocation
+: Calling or running a function, using trailing parentheses `()`.
+
+Function Parameter
+: A named variable that a function accepts as (eventual) input. Parameters are defined when the function is created.
+
+Function Argument
+: The actual variable passed to a function when it is invoked.
+
+First-class Function
+: When a function is treated like any other variable. All functions in Javascript are considered first-class and can be passed as arguments to other functions.
+
+Callback Function
+: A function passed to another function as an argument, presumably to be invoked later.
+
 ### Materials
+- Gists: 
+  - [Defining Functions](https://gist.github.com/acidtone/e3ed5adfcb4f3c02f1b78f78c9c2bf8b)
+  - [Parameters vs arguments](https://gist.github.com/acidtone/977e697e38e389284e839e4b7543ee56)
+  - [Invocating a function](https://gist.github.com/acidtone/679b1b07dcaad4491e8696c871e36436)
+  - [Return values](https://gist.github.com/acidtone/6a3cedd619454c4eeb49f87e98a925d2)
+
 ### Key Takeaways
+See relevant Gists above.
 
 ---
 
-## 2. Lecture/Live-code
+## 2. Function examples
 ### Learning Objectives
 ### Terminology
 ### Materials
