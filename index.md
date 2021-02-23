@@ -46,17 +46,17 @@ title: "Program Schedule"
 
 ## Week 7: Feb 22-26
 - M: CPNT 264 Day 1 - Career and Consulting Essentials
-- T: CPNT 262 Day 8 - [Functions and callbacks](/winter-2021{% link _posts/2021-02-23-functions-callbacks.md %})
-- W: CPNT 262 Day 9 - Loops
-- R: CPNT 262 Day 10 - `fetch()` and asynchronous operations
-- F: CPNT 262 Day 11 - WTF is `this`?
+- T: CPNT 262 Day 8 - [Function fundamentals](/winter-2021{% link _posts/2021-02-23-function-fundamentals.md %})
+- W: CPNT 262 Day 9 - Scope and the execution stack
+- R: CPNT 262 Day 10 - Loops and callbacks
+- F: CPNT 262 Day 11 - `fetch()` and asynchronous operations
 
 ## Week 8: Mar 1-5
 - M: CPNT 264 Day 2 - Career and Consulting Essentials
 - T: CPNT 201 Day 8 - Build Tools
 - W: CPNT 201 Day 9
 - R: CPNT 262 Day 12 - Node/Express, MongoDB/Mongoose
-- F: CPNT 262 Day 13
+- F: CPNT 262 Day 13 - WTF is `this`?
 
 ## Week 9: Mar 8-12
 - M: CPNT 262 Day 14

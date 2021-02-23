@@ -68,7 +68,9 @@ Object Method
   - complex types
     - `array`
     - `object`
-  - structures
+  - coercion
+  - control structures
+    - comparison operators
     - conditional statements
 - Build a literal JS object of a thing of your choice. Incorporate each of the following data types:
   - `number`
