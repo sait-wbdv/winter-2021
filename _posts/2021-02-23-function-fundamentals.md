@@ -27,6 +27,8 @@ categories: cpnt262
 ### Housekeeping
 - Returned marks: CPNT 260 Assignment 4, CPNT 201 Assignment 2
 - Week 7 is function week.
+- Dailies Shoutouts
+  - Shivani: [Hamburger menu](https://shi-stack.github.io/cpnt262-a1/)
 
 ---
 
