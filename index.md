@@ -55,7 +55,7 @@ title: "Program Schedule"
 - M: CPNT 264 Day 2 - Career and Consulting Essentials
 - T: CPNT 201 Day 8 - Build Tools
 - W: CPNT 201 Day 9
-- R: CPNT 262 Day 12 - Node/Express, MongoDB/Mongoose
+- R: CPNT 262 Day 12 - Functions as object methods
 - F: CPNT 262 Day 13 - WTF is `this`?
 
 ## Week 9: Mar 8-12

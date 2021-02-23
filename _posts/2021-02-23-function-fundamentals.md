@@ -29,6 +29,8 @@ categories: cpnt262
 - Week 7 is function week.
 - Dailies Shoutouts
   - Shivani: [Hamburger menu](https://shi-stack.github.io/cpnt262-a1/)
+- Cool [app for visualizing Javascript](https://runjs.app/) that Erica found.
+- Aidan made a Discord server for WBDV! Check the Slack channel (from Monday the 22nd) for details.
 
 ---
 
@@ -63,7 +65,7 @@ Function Argument
 : The actual variable passed to a function when it is invoked.
 
 First-class Function
-: When a function is treated like any other variable. All functions in Javascript are considered first-class and can be passed as arguments to other functions.
+: When a function is treated like any other value. All functions in Javascript are considered first-class and can be passed as arguments to other functions.
 
 ### Materials
 - Gists: 
