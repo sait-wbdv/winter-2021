@@ -48,8 +48,8 @@ title: "Program Schedule"
 - M: CPNT 264 Day 1 - Career and Consulting Essentials
 - T: CPNT 262 Day 8 - [Function fundamentals](/winter-2021{% link _posts/2021-02-23-function-fundamentals.md %})
 - W: CPNT 262 Day 9 - [Callbacks and `Element.addEventListener()`](/winter-2021{% link _posts/2021-02-24-events-callbacks.md %})
-- R: CPNT 262 Day 10 - Loops with `Array.forEach()`
-- F: CPNT 262 Day 11 - `fetch()`, Promises and Asynchronous JS
+- R: CPNT 262 Day 10 - [Loops with `Array.forEach()`](/winter-2021{% link _posts/2021-02-25-array-loops.md %})
+- F: CPNT 262 Day 11 - [`fetch()`, Promises and Asynchronous JS](/winter-2021{% link _posts/2021-02-26-fetch-async.md %})
 
 ## Week 8: Mar 1-5
 - M: CPNT 264 Day 2 - Career and Consulting Essentials
