@@ -6,6 +6,7 @@ categories: cpnt262
 
 ## Homework
 1. Variable Handling
+    - Reference: [NaN](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/NaN)
     - Reference: [Default parameter values](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Functions/Default_parameters)
     - Reference: [Nullish coalescing operator (`??=`)](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Operators/Nullish_coalescing_operator)
     - Reference: [Logical OR assignment (`||=`)](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Operators/Logical_OR_assignment)
@@ -33,6 +34,7 @@ categories: cpnt262
 
 ### Materials
 - [Tip Calculator Starter](https://github.com/sait-wbdv/in-class/blob/main/w7w/tip-calculator/)
+- [Greeter Starter](https://github.com/sait-wbdv/in-class/blob/main/w7w/greeter/)
 
 ### Key Takeaways
 - The key goal is to fail gracefully and (among other things) avoid printing/using a variable that is `undefined`, `null` or empty.
