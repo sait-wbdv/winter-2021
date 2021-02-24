@@ -18,10 +18,9 @@ categories: cpnt262
     - Reference: [MDN Event Reference](https://developer.mozilla.org/en-US/docs/Web/Events)
 
 ---
-{% comment %}
-
 ## Morning reflection
 ### Housekeeping
+- Volunteers: function mentors
 
 ---
 
@@ -31,6 +30,9 @@ categories: cpnt262
 - Test for [`falsy`](https://developer.mozilla.org/en-US/docs/Glossary/Falsy) values with [logical OR assignment (||=)](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Operators/Logical_OR_assignment)
 - Test for `null` or `undefined` values with the [nullish coalescing operator (??)](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Operators/Nullish_coalescing_operator)
 - Test for `undefined` parameters [default parameter values](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Functions/Default_parameters).
+
+### Materials
+- [Tip Calculator Starter](https://github.com/sait-wbdv/in-class/blob/main/w7w/tip-calculator/)
 
 ### Key Takeaways
 - The key goal is to fail gracefully and (among other things) avoid printing/using a variable that is `undefined`, `null` or empty.
@@ -60,7 +62,9 @@ Anonymous Function
 : A function expression passed as a value with no name. This is how callback functions are often created.
 
 ### Materials
-
+- Gists:
+  - [Callback Functions](https://gist.github.com/acidtone/79cb54c90249b1d925dce3c2de45fdaf)
+  - Example: [`greet` callback function](https://gist.github.com/acidtone/cf53fd8eac01a7a41fce234b8e66d3d6)
 
 ### Key Takeaways
 - The callback function is a general programming _pattern_ that's possible with first-class functions. There are many use cases in JS such as event emitters, array/object sorting, looping, etc.
@@ -94,10 +98,10 @@ Anonymous Function
 ---
 
 ### Tony's goals for Lab-Time
-- More Gists and cleanup.
+- Convert tip calculator starter and finished to Gist
+- Create Gist for falsy/null/undefined testing
 
 ---
-{% endcomment %}
 
 ## Dailies
 - Submit today's Codepen/repo/gist to the Dailies section (in Assessments) in Brightspace.
