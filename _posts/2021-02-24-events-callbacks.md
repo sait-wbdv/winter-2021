@@ -27,8 +27,8 @@ categories: cpnt262
 ## 1. Demo: Tip Calculator
 ### Learning Objectives
 - Discuss the need to test for falsy, `undefined` and `null` values.
-- Test for [`falsy`](https://developer.mozilla.org/en-US/docs/Glossary/Falsy) values with [logical OR assignment (||=)](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Operators/Logical_OR_assignment)
-- Test for `null` or `undefined` values with the [nullish coalescing operator (??)](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Operators/Nullish_coalescing_operator)
+- Test for [`falsy`](https://developer.mozilla.org/en-US/docs/Glossary/Falsy) values with [logical OR assignment (`||=`)](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Operators/Logical_OR_assignment)
+- Test for `null` or `undefined` values with the [nullish coalescing operator (`??=`)](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Operators/Nullish_coalescing_operator)
 - Test for `undefined` parameters [default parameter values](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Functions/Default_parameters).
 
 ### Materials
