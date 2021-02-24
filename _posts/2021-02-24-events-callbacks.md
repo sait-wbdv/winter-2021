@@ -73,6 +73,9 @@ Anonymous Function
 - The callback function is a general programming _pattern_ that's possible with first-class functions. There are many use cases in JS such as event emitters, array/object sorting, looping, etc.
 - If a function is only passed as a value once in your code, it's often better to pass it as an anonymous function so that your code is in the same lexical location.
 
+### Activities
+1. Try stepping into the callback functions using the VS Code Debug panel. Let Tony know if you can get it work (or not).
+
 ---
 
 ## 3. Handling events and event objects
