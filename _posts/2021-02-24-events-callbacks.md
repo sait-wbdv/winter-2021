@@ -7,8 +7,8 @@ categories: cpnt262
 ## Homework
 1. Variable Handling
     - Reference: [Default parameter values](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Functions/Default_parameters)
-    - Reference: [Nullish coalescing operator (??)](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Operators/Nullish_coalescing_operator)
-    - Reference: [Logical OR assignment (||=)](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Operators/Logical_OR_assignment)
+    - Reference: [Nullish coalescing operator (`??=`)](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Operators/Nullish_coalescing_operator)
+    - Reference: [Logical OR assignment (`||=`)](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Operators/Logical_OR_assignment)
 2. Callback Functions
     - Read: [What are Callbacks in JS and How to Use Them](https://www.freecodecamp.org/news/javascript-callback-functions-what-are-callbacks-in-js-and-how-to-use-them/) by Free Code Camp
 3. Events and Listeners
@@ -43,6 +43,7 @@ categories: cpnt262
     - How to test for an empty array?
     - How to test for an empty object?
     - How do utility libraries like [Lodash](https://lodash.com/) or [underscore](https://underscorejs.org/) test for emptiness?
+2. Find a personal project, assignment or class example and try to break it with empty/falsy/`null`/`undefined` values. What's the best method for fixing them?
 
 ---
 
@@ -87,6 +88,7 @@ Anonymous Function
     - How are the events triggered?
     - What are common properties and methods common to each event? Which are different?
 2. Integrate an event you've never used before into a project. For example, can you modify a CSS Variable with the scroll wheel?
+3. Advanced: Using a personal project, assignment or class example, try capturing `click` (or similar) event from the target's container.
 
 ---
 
