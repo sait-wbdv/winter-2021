@@ -54,7 +54,8 @@ Iteration
 - You can optionally add the `index` (of the current iteration) as a second argument to the callback function.
 
 ### Activities
-1. Assignment 2
+1. Using the [`terminology.js`](https://github.com/sait-wbdv/sample-code/blob/master/assets/js/terminology.mjs) sample array, output an array of objects to an HTML definition list.
+2. Assignment 2
 
 ---
 
