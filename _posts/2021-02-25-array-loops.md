@@ -42,6 +42,9 @@ categories: cpnt262
 Iteration
 : The same procedure repeated multiple times.
 
+Append
+: Concatenate to the end of a thing. In this case add to the end of an existing string.
+
 ### Materials
 - [Sample Arrays](https://github.com/sait-wbdv/sample-code/tree/master/assets/js)
 - Gist: [Basic `.forEach()` loop](https://gist.github.com/acidtone/aca3574779b81c3ec6d19e3d075fb3ed)
@@ -54,7 +57,8 @@ Iteration
 - You can optionally add the `index` (of the current iteration) as a second argument to the callback function.
 
 ### Activities
-1. Assignment 2
+1. Using the [`terminology.js`](https://github.com/sait-wbdv/sample-code/blob/master/assets/js/terminology.mjs) sample array, output an array of objects to an HTML definition list.
+2. Assignment 2
 
 ---
 
