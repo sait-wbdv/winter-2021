@@ -49,14 +49,14 @@ title: "Program Schedule"
 - T: CPNT 262 Day 8 - [Function fundamentals](/winter-2021{% link _posts/2021-02-23-function-fundamentals.md %})
 - W: CPNT 262 Day 9 - [Callbacks and `Element.addEventListener()`](/winter-2021{% link _posts/2021-02-24-events-callbacks.md %})
 - R: CPNT 262 Day 10 - [Loops with `Array.forEach()`](/winter-2021{% link _posts/2021-02-25-array-loops.md %})
-- F: CPNT 262 Day 11 - [`fetch()`, Promises and Asynchronous JS](/winter-2021{% link _posts/2021-02-26-fetch-async.md %})
+- F: CPNT 262 Day 11 - [Functions as object methods](/winter-2021{% link _posts/2021-02-26-methods-review.md %})
 
 ## Week 8: Mar 1-5
 - M: CPNT 264 Day 2 - Career and Consulting Essentials
 - T: CPNT 201 Day 8 - Build Tools
-- W: CPNT 201 Day 9
-- R: CPNT 262 Day 12 - Functions as object methods
-- F: CPNT 262 Day 13 - WTF is `this`?
+- W: CPNT 201 Day 9 - 
+- R: CPNT 262 Day 12 - Scope and the Execution Stack
+- F: CPNT 262 Day 13 - `fetch()`, Promises and Asynchronous JS
 
 ## Week 9: Mar 8-12
 - M: CPNT 262 Day 14
