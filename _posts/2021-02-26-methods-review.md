@@ -1,6 +1,6 @@
 ---
 layout: post
-title: fetch() and Asynchronous JS
+title: Function as object methods
 categories: cpnt262
 ---
 
@@ -24,10 +24,11 @@ categories: cpnt262
     - [List of Public APIs](https://github.com/public-apis/public-apis)
 
 ---
-{% comment %}
 
 ## Morning reflection
 ### Housekeeping
+1. Assignment 3 Cancelled
+2. CPNT 262 Assignment Review
 
 ---
 
@@ -38,7 +39,7 @@ categories: cpnt262
 - Test if a value is an integer.
 
 ### Materials
-- Gist: [Print 1-to-100 with a for Loop](https://gist.github.com/acidtone/e87aa5564ae1b286beca66b07d52550f)
+- Gist starter: [Print 1-to-100 with a for Loop](https://gist.github.com/acidtone/e87aa5564ae1b286beca66b07d52550f)
 
 ### Key Takeaways
 - There are usually many ways to solve a problem.
@@ -48,9 +49,10 @@ categories: cpnt262
 ## 2. Functions as methods
 ### Learning Objectives
 - Review object literals and how to initialize objects.
-- Create an object method using an object literal and function expressions.
-- Create an object method using dot notation and function expressions.
-- Understand `this` in the context of objects.
+- Demonstrate `this` in the context of objects.
+- Refactor Tuesday's Greeter function into an object.
+  - Create an object method using an object literal and function expressions.
+  - Create an object method using dot notation and function expressions.
 
 ### Terminology
 Object
@@ -77,13 +79,14 @@ Object Method
 ---
 
 ## Open lab-time
+- Pick out a problem in the WBDV course website (that you think you can fix) and post an Issue about it. You will later fix this issue and create a Pull Request for CPNT 201 Assignment 4.
 
 ---
 
 ### Tony's goals for Lab-Time
+- Coding process gist for tomorrow's Hackathon.
 
 ---
-{% endcomment %}
 
 ## Dailies
 - Submit today's Codepen/repo/gist to the Dailies section (in Assessments) in Brightspace.
