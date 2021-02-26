@@ -31,19 +31,48 @@ categories: cpnt262
 
 ---
 
-## 1. Lecture/Live-code
+## 1. FizzBuzz walkthrough
 ### Learning Objectives
-### Terminology
+- Review conditional statements: `if`/`else`/`else if`.
+- Review arithmetic operators.
+- Test if a value is an integer.
+
 ### Materials
+- Gist: [Print 1-to-100 with a for Loop](https://gist.github.com/acidtone/e87aa5564ae1b286beca66b07d52550f)
+
 ### Key Takeaways
+- There are usually many ways to solve a problem.
 
 ---
 
-## 2. Lecture/Live-code
+## 2. Functions as methods
 ### Learning Objectives
+- Review object literals and how to initialize objects.
+- Create an object method using an object literal and function expressions.
+- Create an object method using dot notation and function expressions.
+- Understand `this` in the context of objects.
+
 ### Terminology
+Object
+: A collection of name/value pairs (in terms of Javascript)
+
+Object Literal
+: An object _literally_ coded using proper object notation.
+
+Object Property
+: A fancy term for a name/value pair where the _value_ is anything but a function.
+
+Object Method
+: A fancy term for name/value pair where the _value_ is a function.
+
+`this` (for methods)
+: When inside a method (a function that's the property of an object), `this` is a keyword that refers to the parent object.
+
 ### Materials
+- Starter: [Greeter](https://github.com/sait-wbdv/in-class/tree/main/w7f/1-greeter-starter)
+
 ### Key Takeaways
+- Avoid the use of `this` unless you're working within a method (and not even inside a function inside a method). Outside of a method, [`this` is a big bag of hurt](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Operators/this).
 
 ---
 
