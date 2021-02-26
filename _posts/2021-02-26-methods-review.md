@@ -84,7 +84,7 @@ Object Method
 ---
 
 ### Tony's goals for Lab-Time
-- Coding process gist for tomorrow's Hackathon.
+- Coding process gist for [tomorrow's Hackathon](https://www.meetup.com/Software-Developers-Learning-Together/events/276074166/).
 
 ---
 
