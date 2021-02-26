@@ -81,7 +81,7 @@ Increment
 - Gist: [1-to-100 with a `for` loop](https://gist.github.com/acidtone/e87aa5564ae1b286beca66b07d52550f)
 - Practical example: [Tony's Name Generator](https://acidtone.github.io/namor/)
   - [method call](https://github.com/acidtone/namor/blob/master/js/app.mjs#L16)
-  - [`for` loop code](https://github.com/acidtone/namor/blob/master/js/phraser.mjs#L11-13)
+  - [`for` loop code](https://github.com/acidtone/namor/blob/master/js/phraser.mjs#L11-L13)
 
 ### Key Takeaways
 **Danger**: It's possible to create an infinite loop if the `condition` always evaluates to `true`. This will probably crash/hang your browser.
