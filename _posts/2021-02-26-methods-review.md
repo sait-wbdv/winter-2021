@@ -12,6 +12,7 @@ categories: cpnt262
             - [Introducing asynchronous Javascript](https://developer.mozilla.org/en-US/docs/Learn/JavaScript/Asynchronous/Introducing)
             - [Cooperative asynchronous Javascript: Timeouts and intervals](https://developer.mozilla.org/en-US/docs/Learn/JavaScript/Asynchronous/Timeouts_and_intervals)
             - [Graceful asynchronous programming with Promises](https://developer.mozilla.org/en-US/docs/Learn/JavaScript/Asynchronous/Promises)
+    - [Asynchronous JavaScript in ~10 Minutes - Callbacks, Promises, and Async/Await](https://www.youtube.com/watch?v=670f71LTWpM) by James Quick
     - Optional Watch: [Asynchronous Callbacks](https://www.youtube.com/watch?v=Bv_5Zv5c-Ts&t=5855s) by Tony Alicea (you can stop at 1:48:00)
 2. JSON
     - Read: [Working with JSON data](https://developer.mozilla.org/en-US/docs/Learn/JavaScript/Objects/JSON)

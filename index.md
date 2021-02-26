@@ -53,15 +53,15 @@ title: "Program Schedule"
 
 ## Week 8: Mar 1-5
 - M: CPNT 264 Day 2 - Career and Consulting Essentials
-- T: CPNT 201 Day 8 - Build Tools
-- W: CPNT 201 Day 9 - 
+- T: CPNT 201 Day 8 - [Git and GitHub, Part 2](/winter-2021{% link _posts/2021-03-02-git-gh-part-2.md %})
+- W: CPNT 201 Day 9 - Sass and minification
 - R: CPNT 262 Day 12 - Scope and the Execution Stack
 - F: CPNT 262 Day 13 - `fetch()`, Promises and Asynchronous JS
 
 ## Week 9: Mar 8-12
-- M: CPNT 262 Day 14
-- T: CPNT 262 Day 15
-- W: CPNT 262 Day 16
+- M: CPNT 262 Day 14 - Builtin and Custom Node Modules
+- T: CPNT 262 Day 15 - npm Projects
+- W: CPNT 262 Day 16 - Express Fundamentals
 - R: CPNT 262 Day 17
 - F: CPNT 262 Day 18
 
