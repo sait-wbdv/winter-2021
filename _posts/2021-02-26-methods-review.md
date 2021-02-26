@@ -48,11 +48,10 @@ categories: cpnt262
 
 ## 2. Functions as methods
 ### Learning Objectives
-- Review object literals and how to initialize objects.
+- Review object literals and how to [initialize objects](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Operators/Object_initializer#creating_objects).
 - Demonstrate `this` in the context of objects.
 - Refactor Tuesday's Greeter function into an object.
   - Create an object method using an object literal and function expressions.
-  - Create an object method using dot notation and function expressions.
 
 ### Terminology
 Object
@@ -71,6 +70,7 @@ Object Method
 : When inside a method (a function that's the property of an object), `this` is a keyword that refers to the parent object.
 
 ### Materials
+- MDN: [Object Basics](https://developer.mozilla.org/en-US/docs/Learn/JavaScript/Objects/Basics)
 - Starter: [Greeter](https://github.com/sait-wbdv/in-class/tree/main/w7f/1-greeter-starter)
 
 ### Key Takeaways
