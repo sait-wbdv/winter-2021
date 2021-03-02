@@ -4,7 +4,7 @@ title: Flex Day 02
 categories: cpnt265
 ---
 
-## Skulls
+## Skulls!!!
 - Flywheel extensions: 1 Skull
   - Jina
   - Nhat
