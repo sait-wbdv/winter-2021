@@ -36,7 +36,7 @@ Absolute positioning demo?
 
 ## Activities
 1. Using media queries, build a menu that:
-  - is a horizontal flexbox on desktop;
+  - is a horizontal flexbox on desktop.
   - is replaced with a hamburger icon on mobile.
 2. Add a checkbox and label to the hamburger icon.
 3. Using the Stateful CSS Toggle covered in today's lesson, add a click handler to the checkbox so that the menu is displayed vertically (using either `flex-direction`, for example) when the hamgurger icon is clicked.
