@@ -5,46 +5,53 @@ categories: cpnt260
 ---
 
 ## Homework
+
 1. Review
-    - [Images in HTML](https://developer.mozilla.org/en-US/docs/Learn/HTML/Multimedia_and_embedding/Images_in_HTML)
+   - [Images in HTML](https://developer.mozilla.org/en-US/docs/Learn/HTML/Multimedia_and_embedding/Images_in_HTML)
 2. `figure` element
-    - Read: [The figure with optional caption element](https://developer.mozilla.org/en-US/docs/Web/HTML/Element/figure)
-    - Read: [Replaced elements](https://developer.mozilla.org/en-US/docs/Web/CSS/Replaced_element)
+   - Read: [The figure with optional caption element](https://developer.mozilla.org/en-US/docs/Web/HTML/Element/figure)
+   - Read: [Replaced elements](https://developer.mozilla.org/en-US/docs/Web/CSS/Replaced_element)
 3. Cards
-    - Read: [Card](https://developer.mozilla.org/en-US/docs/Web/CSS/Layout_cookbook/Card) from the [MDN Layout Cookbook](https://developer.mozilla.org/en-US/docs/Web/CSS/Layout_cookbook)
+   - Read: [Card](https://developer.mozilla.org/en-US/docs/Web/CSS/Layout_cookbook/Card) from the [MDN Layout Cookbook](https://developer.mozilla.org/en-US/docs/Web/CSS/Layout_cookbook)
 4. Preserving image aspect ratio
-    - Read: [Cropping Images in CSS With object-fit](https://www.digitalocean.com/community/tutorials/css-cropping-images-object-fit)
-    - Reference: 
-        - [`object-fit`](https://developer.mozilla.org/en-US/docs/Web/CSS/object-fit)
-        - [`background-size`](https://developer.mozilla.org/en-US/docs/Web/CSS/background-size)
+   - Read: [Cropping Images in CSS With object-fit](https://www.digitalocean.com/community/tutorials/css-cropping-images-object-fit)
+   - Reference:
+     - [`object-fit`](https://developer.mozilla.org/en-US/docs/Web/CSS/object-fit)
+     - [`background-size`](https://developer.mozilla.org/en-US/docs/Web/CSS/background-size)
 
 ---
 
 ## Morning reflection
+
 ### Housekeeping
+
 1. Tooltime
-    - VS Code: Split screen
+   - VS Code: Split screen
 2. Dailies feedback
-    - Types of errors
-        1. Syntax errors
-            - validate
-            - VS Code Extention: HTML Hint (v0.10)
-        2. Logic errors
-            - Inspect the element
-            - Is the problem html or css?
+   - Types of errors
+     1. Syntax errors
+        - validate
+        - VS Code Extension: HTML Hint (v0.10)
+     2. Logic errors
+        - Inspect the element
+        - Is the problem html or css?
 
 ---
 
 ## Tooltime: Evaluating VS Code extensions
- - HTMLHint vs HTMLLint vs another HTMLHint?
+
+- HTMLHint vs HTMLLint vs another HTMLHint?
 
 ### Learning objectives
+
 - Compare two things with VS Code split screen.
 - Evaluate extension search results.
-- Optional: install a VS Code extention.
+- Optional: install a VS Code extension.
 
 ### Activity: Extension window shopping
+
 In groups of 3 or 4, search, share and/or install useful VS Code extensions.
+
 - Who maintains the repo?
 - When was the last commit?
 - How many contributors are there?
@@ -52,6 +59,7 @@ In groups of 3 or 4, search, share and/or install useful VS Code extensions.
 - Do they accept/merge Pull Requests?
 
 ### Favourites
+
 - Bracket pair colourizer 2 (v0.2.0)
 - Code Spell Checker (v1.10.2)
 - ESLint (2.1.14)
@@ -62,12 +70,15 @@ In groups of 3 or 4, search, share and/or install useful VS Code extensions.
   - color highlight
 
 ## Lecture/Live code
+
 ### Learning Objectives
+
 - Define replaced elements.
-- Undertand the cause of broken aspect ratio on images (hint: it's probably `height`).
+- Understand the cause of broken aspect ratio on images (hint: it's probably `height`).
 - Learn the wonders of `cover` and `contain`.
 
 ### Terms
+
 Aspect ratio
 : `width` divided by `height` (usually).
 
@@ -78,92 +89,100 @@ Aspect ratio
 : Fit the longest axis (main axis) to the container. Extra space is transparent background?
 
 ### Materials
+
 - [Norville's sweet sandbox](https://nozky.github.io/playground/).
 - [Replaced elements](https://developer.mozilla.org/en-US/docs/Web/CSS/Replaced_element)
 - [The figure with optional caption element](https://developer.mozilla.org/en-US/docs/Web/HTML/Element/figure)
 - [Card](https://developer.mozilla.org/en-US/docs/Web/CSS/Layout_cookbook/Card) from the [MDN Layout Cookbook](https://developer.mozilla.org/en-US/docs/Web/CSS/Layout_cookbook)
 
 ### Key Takeaways
+
 - Defining both a `width` and `height` is often bad for `img` and `background-image` aspect ratio.
 - Popular fixes:
-    - remove the `height` (or `width` );
-    - Set `height` to `auto`;
-    - HTML images
 
-        ```css
-        img {
-          object-fit: cover; 
-          /* object-fit: contain; */
-        }
-        ```
+  - remove the `height` (or `width` );
+  - Set `height` to `auto`;
+  - HTML images
 
-    - CSS images
+    ```css
+    img {
+      object-fit: cover;
+      /* object-fit: contain; */
+    }
+    ```
 
-        ```css
-        div {
-          /* Some other bg properties might needed to get this to work. */
-          background-size: cover; 
-          /* background-size: contain; */
-        }
-        ```
+  - CSS images
 
---- 
+    ```css
+    div {
+      /* Some other bg properties might needed to get this to work. */
+      background-size: cover;
+      /* background-size: contain; */
+    }
+    ```
+
+---
 
 ## Friday reflection
+
 ### Learning Objectives
+
 - Walkthrough: [Tony's GH home page](https://acidtone.github.io/)
 - Practice process (see below).
 - Plan out some layout and cards.
 - Try out GH Projects for project documentation.
 
 ### Coding process
+
 1. Understand the problem
-    - Goal?
-      - Refactor home page for hackathon
-          - All about them, not me.
-          - mobile-first needed
-            - layout?
-      - Need new cards
-        - How to command line and git
-          - As body text under the hero
-      - Need new colour scheme. Switch to Flexbox default system? 
+   - Goal?
+     - Refactor home page for hackathon
+       - All about them, not me.
+       - mobile-first needed
+         - layout?
+     - Need new cards
+       - How to command line and git
+         - As body text under the hero
+     - Need new colour scheme. Switch to Flexbox default system?
 2. Plan it out
-    - split the problem (aka. divide and conquer)
-    - inside-out or outside-in?
-    - Sketch out a mobile layout.
-    - Re-think the card format.
-    - Alternatives to email address?
+   - split the problem (aka. divide and conquer)
+   - inside-out or outside-in?
+   - Sketch out a mobile layout.
+   - Re-think the card format.
+   - Alternatives to email address?
 3. Brute force a solution
-    - dirty code is great
-    - stay focused on the problem
-    - take breaks
-    - problem solved? `git commit`
+   - dirty code is great
+   - stay focused on the problem
+   - take breaks
+   - problem solved? `git commit`
 4. Walk-through
-    - `git status`
-    - what was the goal again?
-    - is it time to move?
-    - todo: add todos
-    - document side projects but stay on target
-    - `git commit`
+   - `git status`
+   - what was the goal again?
+   - is it time to move?
+   - todo: add todos
+   - document side projects but stay on target
+   - `git commit`
 5. Optimize
-    - Am I moving?
-    - label the todos that are "optimization"
-    - start with simple bits
+   - Am I moving?
+   - label the todos that are "optimization"
+   - start with simple bits
 6. Clean-up and prep
-    - `git commit`
-    - optional: `git push`
-    - Revisit Step 1, proceed to Step 2.
+   - `git commit`
+   - optional: `git push`
+   - Revisit Step 1, proceed to Step 2.
 
 ---
 
 ## Open lab-time
+
 1. Understand the problem
-2. What mode are you in? 
-    - Brute Force
-    - Walk-through
-    - Optimization
+2. What mode are you in?
+   - Brute Force
+   - Walk-through
+   - Optimization
 
 ---
 
 ## Dailies
+
 - Submit today's Codepen/repo/gist to the Dailies section (in Assessments) in Brightspace.
