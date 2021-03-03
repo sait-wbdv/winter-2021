@@ -57,13 +57,13 @@ Source: First three definitions from [Learn and Understand NodeJS](https://www.u
 
 ## 3. Installing production dependencies
 
-**Activity**: [Install momentjs in an existing project](https://github.com/sait-wbdv/sample-code/tree/master/backend/npm/hello-moment)
+**Activity**: [Install moments in an existing project](https://github.com/sait-wbdv/sample-code/tree/master/backend/npm/hello-moment)
 
 ---
 
 ## Activities
 - [Initialize a new project and install nodemon](https://github.com/sait-wbdv/sample-code/tree/master/backend/npm/hello-npm)
-- [Install momentjs in an existing project](https://github.com/sait-wbdv/sample-code/tree/master/backend/npm/hello-moment)
+- [Install moments in an existing project](https://github.com/sait-wbdv/sample-code/tree/master/backend/npm/hello-moment)
 - [Installing project dependencies from a cloned repo](https://github.com/sait-wbdv/sample-code/tree/master/backend/npm/hello-npm-install)
 
 ---
