@@ -54,7 +54,7 @@ categories: cpnt201
 
 ### Terminology
 Dependency
-: A software module/library/framework that your code needs installed before it can function. Sass is a dependency.
+: A software module/library/framework that your code needs to have  installed before it can function. Sass is a dependency.
 
 Build Tool/Process
 : Software that optimizes/prepares/packages your source files for deployment to a live server. Sass compilers and minifiers are dependencies.
