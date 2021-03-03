@@ -17,13 +17,13 @@ categories: cpnt201
 
 ## 1. Sass Basics
 - Configuration: Live Sass Compiler
-  - Open Extension Setttings -> `Live Sass Compile › Settings: Formats`
+  - Open Extension Settings -> `Live Sass Compile › Settings: Formats`
     - set `"savePath": "~/../css"`
 - `.sass` vs `.scss`
 - Nesting
 - The Ampersand
 - Variables
-- Extends and Placholders
+- Extends and Placeholders
 
 ---
 
