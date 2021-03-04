@@ -55,8 +55,8 @@ title: "Program Schedule"
 - M: CPNT 264 Day 2 - Career and Consulting Essentials
 - T: CPNT 201 Day 8 - [Git and GitHub, Part 2](/winter-2021{% link _posts/2021-03-02-git-gh-part-2.md %})
 - W: CPNT 201 Day 9 - [Sass and minification](/winter-2021{% link _posts/2021-03-03-sass-minification.md %})
-- R: CPNT 262 Day 12 - Scope and the Execution Stack
-- F: CPNT 262 Day 13 - `fetch()`, Promises and Asynchronous JS
+- R: CPNT 262 Day 12 - [Scope and the Execution Stack(/winter-2021{% link _posts/2021-03-04-scope-async.md %})
+- F: CPNT 262 Day 13 - [`fetch()`, Promises and Asynchronous JS(/winter-2021{% link _posts/2021-03-05-fetch-promises.md %})
 
 ## Week 9: Mar 8-12
 - M: CPNT 262 Day 14 - Builtin and Custom Node Modules

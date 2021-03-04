@@ -20,6 +20,8 @@ categories: cpnt262
 ## Morning reflection
 ### Housekeeping
 - Afternoon lecture?
+- Dailies Shoutouts
+  - Makayka and Shivani
 
 ---
 
