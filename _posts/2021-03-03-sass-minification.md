@@ -103,7 +103,10 @@ Minification
         - selectors -> nested rules
         - groups of rules -> mixins
         - vendor prefixes -> mixins
-2. Assignments!
+2. Mixin hunt!
+    - [Sass Parallax Example](https://codepen.io/scottkellum/pen/bHEcA?)     
+    - Anymore?   
+3. Assignments!
 
 ---
 
