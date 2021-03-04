@@ -113,7 +113,8 @@ Callback function
 ---
 
 ## Open lab-time
-- Repeat the function examples when the function(s) are defined as _object methods_
+- [43 Scope Exercises](https://gist.github.com/acidtone/f83d49d525d2916667b2812ecf516047)
+- Repeat today's function examples when the function(s) are defined as _object methods_
   - What is the value of `this` when a function is stand-alone vs when it's a method?
 - Friday homework
   - Using this [List of Public APIs](https://github.com/public-apis/public-apis), find an endpoint (a URL that returns a `json` object, not an HTML page) that returns an array of objects. You will use this for an activity tomorrow.
