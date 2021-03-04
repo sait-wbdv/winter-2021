@@ -70,10 +70,10 @@ Function Scope
 : All variables defined inside a function are only available inside that function.
 
 ### Materials
-Review: [Stacks and Queues](https://sait-wbdv.github.io/winter-2021/cpnt262/array-methods-objects/#terminology)
-Gists: 
-- [Function Scope](https://gist.github.com/acidtone/7acba1de8552628fb10936bd843fa99e)
-- [Funception](https://gist.github.com/acidtone/f3176c2da93f6813fd3c64f0bd8dfe4f)
+- Review: [Stacks and Queues](https://sait-wbdv.github.io/winter-2021/cpnt262/array-methods-objects/#terminology)
+- Gists: 
+  - [Function Scope](https://gist.github.com/acidtone/7acba1de8552628fb10936bd843fa99e)
+  - [Funception](https://gist.github.com/acidtone/f3176c2da93f6813fd3c64f0bd8dfe4f)
 
 ### Key Takeaways
 - Functions inherit variables based on where that function is _defined_ lexically in your code, not where the function is _invoked_ in your code.
