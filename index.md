@@ -59,8 +59,8 @@ title: "Program Schedule"
 - F: CPNT 262 Day 13 - [`fetch()`, Promises and Asynchronous JS](/winter-2021{% link _posts/2021-03-05-fetch-promises.md %})
 
 ## Week 9: Mar 8-12
-- M: CPNT 262 Day 14 - Builtin and Custom Node Modules
-- T: CPNT 262 Day 15 - npm Projects
+- M: CPNT 262 Day 14 - [Node and Node Modules](/winter-2021{% link _posts/2021-03-08-node-http.md %})
+- T: CPNT 262 Day 15 - npm
 - W: CPNT 262 Day 16 - Express Fundamentals
 - R: CPNT 262 Day 17
 - F: CPNT 262 Day 18
