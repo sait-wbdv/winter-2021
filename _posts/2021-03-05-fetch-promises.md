@@ -66,6 +66,7 @@ Endpoint
 - Summarize the most common JSON structures used online:
   - a single value
   - an array of values
+  - an object of values
 
 ### Terminology
 JSON
