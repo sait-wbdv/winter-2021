@@ -97,6 +97,7 @@ Promise
 ### Materials
 - MDN: [Using fetch](https://developer.mozilla.org/en-US/docs/Web/API/Fetch_API/Using_Fetch)
 - Gist: [fetch: Retrieving data asynchronously](https://gist.github.com/acidtone/33304c82f8d22e9a330003b19a147303)
+- In-class from W7R: [Definitions loop](https://github.com/sait-wbdv/in-class/tree/main/w7r/4-objects)
 
 ### Key Takeaways
 See the above Gist.
