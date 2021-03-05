@@ -20,6 +20,8 @@ categories: cpnt262
 ## Morning reflection
 ### Housekeeping
 - Afternoon lecture?
+- Dailies Shoutouts
+  - Makayka and Shivani
 
 ---
 
@@ -33,7 +35,7 @@ Scope
 : The current context of code, which determines the accessibility of variables to JavaScript. Global variables are those declared outside of a block. Local variables are those declared inside of a block.
 
 Code Block
-: Javascript that is surrounded by curly braces `{}` such as inside `if`/`else if`/`else`, loops and functions.
+: Javascript that is surrounded by curly braces `{}` such as inside `if` / `else if` / `else`, loops and functions.
 
 Block Scope
 : `let` and `const` variables that are declared inside a code block are only available within that block. In other words, they are local variables.
@@ -68,16 +70,17 @@ Function Scope
 : All variables defined inside a function are only available inside that function.
 
 ### Materials
-Gists: 
-- [Function Scope](https://gist.github.com/acidtone/7acba1de8552628fb10936bd843fa99e)
-- [Funception](https://gist.github.com/acidtone/f3176c2da93f6813fd3c64f0bd8dfe4f)
+- Review: [Stacks and Queues](https://sait-wbdv.github.io/winter-2021/cpnt262/array-methods-objects/#terminology)
+- Gists: 
+  - [Function Scope](https://gist.github.com/acidtone/7acba1de8552628fb10936bd843fa99e)
+  - [Funception](https://gist.github.com/acidtone/f3176c2da93f6813fd3c64f0bd8dfe4f)
 
 ### Key Takeaways
 - Functions inherit variables based on where that function is _defined_ lexically in your code, not where the function is _invoked_ in your code.
 
 ---
 
-## 2. Asynchronous callbacks
+## 3. Asynchronous callbacks
 ### Learning Objectives
 - Define single-threaded runtime environments.
 - Define synchronous and asynchronous execution.
@@ -88,10 +91,10 @@ Gists:
 Single threaded
 : One statement is executed at a time. Javascript is single threaded. Many other languages are not.
 
-Synchrounous
+Synchronous
 : One at a time. 
 
-Asynchrounous
+Asynchronous
 : More than one at a time.
 
 Callback function
@@ -110,7 +113,14 @@ Callback function
 ---
 
 ## Open lab-time
-- If we have time...
+- [43 Scope Exercises](https://gist.github.com/acidtone/f83d49d525d2916667b2812ecf516047)
+- Repeat today's function examples when the function(s) are defined as _object methods_
+  - What is the value of `this` when a function is stand-alone vs when it's a method?
+- Friday homework
+  - Using this [List of Public APIs](https://github.com/public-apis/public-apis), find an endpoint (a URL that returns a `json` object, not an HTML page) that returns an array of objects. You will use this for an activity tomorrow.
+  
+  Warning: Some of these APIs require authentication. Skip these for now.
+  {: .notice .notice--warning}
 
 ---
 
