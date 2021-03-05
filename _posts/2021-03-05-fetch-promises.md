@@ -75,6 +75,7 @@ JSON
 ### Materials
 - [List of Public APIs](https://github.com/public-apis/public-apis)
 - [Tony's Definitions JSON Endpoint](https://json-express.herokuapp.com/api/v0/definitions)
+  - For testing `.catch()`: [Same API with no CORS header](https://sait-wbdv-no-cors.herokuapp.com/api/v0/definitions)
 
 ### Key Takeaways
 - The primary purpose of JSON is to send data over HTTP.
