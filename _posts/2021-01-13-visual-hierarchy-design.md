@@ -65,7 +65,7 @@ Design
 ## 1. Web Conventions
 The general usability principles we covered yesterday overlap heavily with those of visual heirarchy. These also extend to the world of web design in the form of conventions and design patterns.
 
-> One of the best ways to make almost anything easier to grasp in a hurry is to follow the existingconventions—the widely used or standardized design patterns.
+> One of the best ways to make almost anything easier to grasp in a hurry is to follow the existing conventions—the widely used or standardized design patterns.
 
 ### Materials
 - Textbook Synopsis: [Don't make me think]({{site.baseurl}}/cheatsheets/web-conventions)
