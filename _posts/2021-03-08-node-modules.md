@@ -111,7 +111,14 @@ File CRUD
 ---
 
 ## Open lab-time
-- Refactor for `process.argv`.
+1. Refactor scripts for `process.argv`:
+    - [Adding Machine with command line arguments](https://gist.github.com/acidtone/99208821b9d7fbdc5b04ae2ddd4d04bc)
+    - [Greet from the command line with process.argv](https://gist.github.com/acidtone/4afa69e5521e4232ecf406cae79a0ad0)
+    - [Tip Calculator from the command line with `process.argv`](https://gist.github.com/acidtone/176e0755a3919f85d7faaea348abb383)
+2. Data Logger - Using `fs.writeFile()` and the `Date` object, build a logger into one of the above scripts so that, when it's run from the command line:
+    1. A log file `./logs/greet.txt` (or similar) is created if it doesn't exist;
+    2. Without overwriting the contents of the above log file, add a line to the end of the file with the date and time the script was run;
+    3. Bonus: include the command line arguments and response as part of the log.
 
 ---
 
