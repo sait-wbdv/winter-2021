@@ -67,13 +67,16 @@ categories: cpnt262
     - `path.basename()`
     - `path.extname()`
     - `path.dirname()`
+    - `path.isAbsolute()`
+    - `path.join()`
+    - `path.normalize()`
 
 ### Terminology
 Node Builtin Module
 : Modules that are included with the Node runtime environment. These modules need to be imported into your script but do not need to be installed with `npm`.
 
 ### Materials
-Gist: [Splitting filenames and directories with `path`](https://gist.github.com/acidtone/aa0302b5f6573d73cfd05fedb00fc708)
+Gist: [Manipulating filenames and directory paths with `path`](https://gist.github.com/acidtone/aa0302b5f6573d73cfd05fedb00fc708)
 
 ### Key Takeaways
 - Although builtin modules come pre-installed with Node, they still need to be imported into your script with `require()`.
