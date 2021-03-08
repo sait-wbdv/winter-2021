@@ -50,9 +50,12 @@ categories: cpnt262
 - Gists: 
   - [Default objects and properties](https://gist.github.com/acidtone/873e18b256e3feca52d36ead8b1d5318)
   - [List all Node builtin modules](https://gist.github.com/acidtone/67f06e065255915f41f92abde65d2e2c)
-  - Activity: [Adding Machine with command line arguments](https://gist.github.com/acidtone/99208821b9d7fbdc5b04ae2ddd4d04bc)
+  - Activities:
+    - [Adding Machine with command line arguments](https://gist.github.com/acidtone/99208821b9d7fbdc5b04ae2ddd4d04bc)
+    - [Greet from the command line with process.argv](https://gist.github.com/acidtone/4afa69e5521e4232ecf406cae79a0ad0)
 
 ### Key Takeaways
+- `__filename` and `__dirname` can be re-assigned, but please don't.
 - Builtin objects do not have to be imported as they are core Javascript functionality.
 - `process.argv` is just one of many properties and methods that come with the `process` object but it's the most useful. 
 
