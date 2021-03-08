@@ -49,7 +49,6 @@ categories: cpnt262
 ### Materials
 - Gists: 
   - [Default objects and properties](https://gist.github.com/acidtone/873e18b256e3feca52d36ead8b1d5318)
-  - [List all Node builtin modules](https://gist.github.com/acidtone/67f06e065255915f41f92abde65d2e2c)
   - Activities:
     - [Adding Machine with command line arguments](https://gist.github.com/acidtone/99208821b9d7fbdc5b04ae2ddd4d04bc)
     - [Greet from the command line with process.argv](https://gist.github.com/acidtone/4afa69e5521e4232ecf406cae79a0ad0)
@@ -80,7 +79,9 @@ Node Builtin Module
 : Modules that are included with the Node runtime environment. These modules need to be imported into your script but do not need to be installed with `npm`.
 
 ### Materials
-Gist: [Manipulating filenames and directory paths with `path`](https://gist.github.com/acidtone/aa0302b5f6573d73cfd05fedb00fc708)
+Gists:
+  - [List all Node builtin modules](https://gist.github.com/acidtone/67f06e065255915f41f92abde65d2e2c) 
+  - [Manipulating filenames and directory paths with `path`](https://gist.github.com/acidtone/aa0302b5f6573d73cfd05fedb00fc708)
 
 ### Key Takeaways
 - Although builtin modules come pre-installed with Node, they still need to be imported into your script with `require()`.
