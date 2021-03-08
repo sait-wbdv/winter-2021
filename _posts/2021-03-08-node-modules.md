@@ -53,6 +53,7 @@ categories: cpnt262
   - Activities:
     - [Adding Machine with command line arguments](https://gist.github.com/acidtone/99208821b9d7fbdc5b04ae2ddd4d04bc)
     - [Greet from the command line with process.argv](https://gist.github.com/acidtone/4afa69e5521e4232ecf406cae79a0ad0)
+    - [Tip Calculator from the command line with `process.argv`](https://gist.github.com/acidtone/176e0755a3919f85d7faaea348abb383)
 
 ### Key Takeaways
 - `__filename` and `__dirname` can be re-assigned, but please don't.
