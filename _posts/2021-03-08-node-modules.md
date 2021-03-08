@@ -23,7 +23,6 @@ categories: cpnt262
         - [`fs`](https://nodejs.org/docs/latest/api/fs.html)
 
 ---
-{% comment %}
 
 ## Morning reflection
 ### Housekeeping
@@ -36,9 +35,11 @@ categories: cpnt262
 ### Learning Objectives
 - Understand the similarities and differences between the Node environment and the browser environment.
 - Demonstrate a Javascript core module such as `Math`.
-- Log core Node constants to the console:
+- Log core Node objects to the console:
   - `__dirname`
   - `__filename`
+  - `this`
+  - `global`
 - Log command line arguments to the console with `process.argv`.
 
 ### Terminology
@@ -48,9 +49,12 @@ categories: cpnt262
 ### Materials
 - Gists: 
   - [Default objects and properties](https://gist.github.com/acidtone/873e18b256e3feca52d36ead8b1d5318)
+  - [List all Node builtin modules](https://gist.github.com/acidtone/67f06e065255915f41f92abde65d2e2c)
   - Activity: [Adding Machine with command line arguments](https://gist.github.com/acidtone/99208821b9d7fbdc5b04ae2ddd4d04bc)
 
 ### Key Takeaways
+- Builtin objects do not have to be imported as they are core Javascript functionality.
+- `process.argv` is just one of many properties and methods that come with the `process` object but it's the most useful. 
 
 ---
 
@@ -72,6 +76,7 @@ Node Builtin Module
 Gist: [Splitting filenames and directories with `path`](https://gist.github.com/acidtone/aa0302b5f6573d73cfd05fedb00fc708)
 
 ### Key Takeaways
+- Although builtin modules come pre-installed with Node, they still need to be imported into your script with `require()`.
 
 ---
 
@@ -98,14 +103,13 @@ File CRUD
 ---
 
 ## Open lab-time
-- 
+- Refactor for `process.argv`.
 
 ---
 
 ### Tony's goals for Lab-Time
 
 ---
-{% endcomment %}
 
 ## Dailies
 - Submit today's Codepen/repo/gist to the Dailies section (in Assessments) in Brightspace.
