@@ -116,7 +116,29 @@ categories: cpnt262
     3. Install `dayjs` as a dependency;
     4. Load `dayjs` into the `http` script;
     5. Add a fancy date to the "Hello World" message sent by the server.
-3. Prep for tomorrow: create a new `npm` project and install `express` as a dependency.
+3. Practice downloading dependencies:
+    1. Complete the above activity and create an `http` server with `dayjs` as a dependency.
+    2. Delete your `node_modules` directory.
+    3. Try starting your server. You should get the following error:
+
+        ```
+        Module not found
+        ```
+    
+    4. Download your dependencies:
+        
+        ```
+        $ npm install
+        ```
+
+    5. Try starting the server again and everything should be amazing.
+4. Confirm you are ignoring the `node_modules` in Git:
+    1. Create a new `npm` project with an installed dependency of your choice.
+    2. Initialize a new git repo.
+    3. Create a remote repo for this project on GitHub.
+    4. Push your local code to the remote.
+    5. Confirm that the remote repo _does not_ have a `node_modules` directory.
+5. Prep for tomorrow: create a new `npm` project and install `express` as a dependency.
 
 ---
 
