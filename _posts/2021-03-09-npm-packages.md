@@ -78,9 +78,7 @@ categories: cpnt262
 
 ### Materials
 - [Anatomy of a `package.json` file]((https://www.digitalocean.com/community/tutorials/nodejs-package-json))
-- Gists: 
-  - [`npm` summary](https://gist.github.com/acidtone/01ce4933169a17011659c525233442b5)
-  - [`npm` - Getting started](https://gist.github.com/acidtone/d57f41d7c18d0d198263c7bc3ab230e3)
+- Gists: [`npm` - Getting started](https://gist.github.com/acidtone/d57f41d7c18d0d198263c7bc3ab230e3)
 
 ### Key Takeaways
 - `npm` projects are usually in the same root directory as a `git` repository.
