@@ -122,7 +122,7 @@ categories: cpnt262
     3. Try starting your server. You should get the following error:
 
         ```
-        Module not found
+        Error: Cannot find module 'module-name'
         ```
     
     4. Download your dependencies:
@@ -132,7 +132,7 @@ categories: cpnt262
         ```
 
     5. Try starting the server again and everything should be amazing.
-4. Confirm you are ignoring the `node_modules` in Git:
+4. Confirm you are [ignoring the `node_modules` directory](https://docs.github.com/en/github/using-git/ignoring-files) in Git:
     1. Create a new `npm` project with an installed dependency of your choice.
     2. Initialize a new git repo.
     3. Create a remote repo for this project on GitHub.
