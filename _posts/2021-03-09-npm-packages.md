@@ -43,6 +43,7 @@ categories: cpnt262
 - Gist: [Create a local `http` server](https://gist.github.com/acidtone/4f96eefab57e9ab8d2ec4e21f6029be3)
 
 ### Key Takeaways
+- You have to restart the server before it loads new changes.
 - The `http` module allows us to create servers without installing dependencies but it requires a lot of work to setup the features that a production server requires (`404` handling, reading HTML files from the file system, etc).
 - Starting tomorrow, we'll use `npm` to install the `express` framework, which simplifies the creation and management of web servers.
 
@@ -77,7 +78,7 @@ categories: cpnt262
 - Initialize a new `npm` project
 
 ### Materials
-- [Anatomy of a `package.json` file]((https://www.digitalocean.com/community/tutorials/nodejs-package-json))
+- [Anatomy of a `package.json` file](https://www.digitalocean.com/community/tutorials/nodejs-package-json)
 - Gists: [`npm` - Getting started](https://gist.github.com/acidtone/d57f41d7c18d0d198263c7bc3ab230e3)
 
 ### Key Takeaways
