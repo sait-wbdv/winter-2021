@@ -49,11 +49,13 @@ nav.primary a:active {
 .site-name {
   font-size: 2rem;
   margin: 0;
+  text-decoration: underline;
 }
 
 .tagline {
   font-size: 1.5rem;
   margin: 0;
+  text-decoration: underline;
 }
 
 img.sait-logo {
