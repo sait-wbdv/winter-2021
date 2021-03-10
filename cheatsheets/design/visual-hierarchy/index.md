@@ -21,7 +21,7 @@ The primary goal of creating visual hierarchies is to make content more scannabl
     <li>Things are "<strong>nested</strong>" visually to show what's <strong>part of</strong> what.</li>
   </ol>
   <address>
-  Source: Steve Krug, Don't Make Me Think; p.33
+  Source: Steve Krug, Don't Make Me Think; p.33.
   </address>
 </blockquote>
 

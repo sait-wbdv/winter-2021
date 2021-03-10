@@ -6,7 +6,7 @@ layout: page
 ## Terms
 
 Command Line Interface (CLI)
-: An alternative to Graphical User Interfaces (GUI) that are based on mouse clicks. Terminal apps come in a few flavours; in this course you can use a unix terminal of your choice.</dd>
+: An alternative to Graphical User Interfaces (GUI) that are based on mouse clicks. Terminal apps come in a few flavours; In this course you can use a unix terminal of your choice.</dd>
 
 The Terminal
 : A nickname for an application that understands one or more Command Line Interfaces (CLIs).
