@@ -46,7 +46,7 @@ Most of the command line tools we will be using in this course (like Git, [Node]
   - `$ cd ..` (moves up one directory level)
   - `$ cd ../../some-directory` (moves up two directories and into "some-directory")
 - `find`: find a file within the filesystem. Specify the parent directory to search from
-  - `# find / -name filename` (will search for the filename in every directory under root. NOTE: you can specify other parent directories to search within)
+  - `$ find / -name filename` (will search for the filename in every directory under root. NOTE: you can specify other parent directories to search within)
 - `less`: show contents of a file in the terminal. Useful for quickly checking through a file without having to open it in your text editor
   - `$ less filename` (write out full filename. If the file is in a different directory from your current working directory, remember to include the path)
 
