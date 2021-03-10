@@ -4,7 +4,7 @@ title: Responsive Web
 categories: dsgn270
 ---
 
-## Housekeeping
+## Housekeeping!!!
 1. Poll: iOS vs Android
 2. Homework for Week 2
 
@@ -44,9 +44,9 @@ Native App vs Web App Screen Time
 You will work in groups of 3 or 4 for this activity. 
 
 Beyond the obvious difference in screen size, discuss how mobile is different than desktop:
-- What hardware features do mobile phones have compared to traditional desktop systems?
+- What hardware features do mobile phones have compared to traditional desktop systems??
 - Do users have the same goals when browsing on a phone vs browsing on a laptop or desktop? If not, what's different?
-- What problems are mobile users often trying to solve?
+- What problems are mobile users often trying to solve??
 
 Post your phone make and model in `#winter-2021`
 
