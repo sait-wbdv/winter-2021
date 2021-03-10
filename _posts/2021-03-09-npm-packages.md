@@ -24,7 +24,7 @@ categories: cpnt262
 
 ## Morning reflection
 ### Housekeeping
-1. Tomorrow: 
+1. Announced tomorrow: 
     - Draft - Assignments 4 & 5
     - Draft - Final Project
     - Groups for Final Project
