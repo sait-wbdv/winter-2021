@@ -57,7 +57,7 @@ Route
 
 ### Key Takeaways
 - Server requests are [fulfilled on a first-come-first-served basis](https://stackoverflow.com/questions/32603818/order-of-router-precedence-in-express-js), so the order of your route handlers and middleware matter.
-- If a route sends a request, the connection is closed and downstream routes are not invoked.
+- If a route sends a `response`, the connection is closed and downstream routes are not invoked.
 
 ---
 
@@ -105,6 +105,8 @@ Middleware
   - A port number defined with `process.env.PORT` so that Heroku can override it with the standard port.
   - Sometimes (often?) Heroku will return an internal server error due to a misconfiguration. You can access the server logs from the admin panel menu in the top right: 
     - "More" -> "View logs"
+    - You can also install the Heroku CLI (command line interface) to pull the logs from your terminal.
+      - See: [Getting Started on Heroku with Node.js](https://devcenter.heroku.com/articles/getting-started-with-nodejs)
 
 ---
 
