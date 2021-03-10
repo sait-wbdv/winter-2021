@@ -37,13 +37,16 @@ Most of the command line tools we will be using in this course (like Git, [Node]
     - `$ ls -l` (lists full directory information)
     - `$ ls -a` (lists hidden files)
     - `$ ls -la` (lists full information plus hidden files)
+    - `$ ls -lh` (lists full information plus formatted file sizes)
 - `cd`: changes your directory based on the path you provide after the command (separated by a space). Examples:
   - `$ cd Documents/sait`
   - `$ cd /` (moves to the top root folder)
   - `$ cd` (moves to user home folder)
+  - `$ cd -` (moves to the last directory)
   - `$ cd ..` (moves up one directory level)
   - `$ cd ../../some-directory` (moves up two directories and into "some-directory")
-
+- `find`: find a file within the filesystem. Specify the parent directory to search from
+- `# find / -name filename` (will search for the filename in every directory under root. NOTE: you can specify other parent directories to search within)
 **Notice**: Below are _Pro-tips_ that will give you some hints on how the pros do things. In this case, there are some _quality of life_ tips that will reduce the grind if using the command line. 
 {: .notice .notice--info}
 
