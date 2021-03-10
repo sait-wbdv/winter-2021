@@ -83,7 +83,7 @@ Low Frequency Imagery
 
 ### Activity 1: Squooshing high-frequency images with WebP (Lossy)
 Optimize an image file size using [Squoosh.app](https://squoosh.app/):
-1. Pick a high frequency image (try [jank](https://github.com/sait-wbdv/assets/blob/main/images/source/jank.png) and upload it to Squoosh.
+1. Pick a high frequency image (try [jank](https://github.com/sait-wbdv/assets/blob/main/images/misc/jank.png) and upload it to Squoosh.
 2. Zoom the image to the size it will be on the web page (and resist the urge to zoom).
     - To account for high resolution displays, take the native size of your image and zoom out so it's about 50% of its original size.
 3. Choose `WebP` encoder under "Compress".
