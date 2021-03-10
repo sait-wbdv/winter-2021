@@ -28,8 +28,8 @@ categories: cpnt262
     - Feel free to not upload the entire `winter-2021` repo.
     - Upload a README with links to your Issue and Pull Request.
 2. Announced after lunch:
-    - Assignment 4
-    - Final Project scenario
+    - Assignment 4: [JSON gallery endpoint with `fetch`](https://github.com/sait-wbdv/assessments/tree/master/cpnt262/assignment-4)
+    - DRAFT: [Final Project](https://github.com/sait-wbdv/assessments/tree/master/cpnt262/final)
 
 ---
 
