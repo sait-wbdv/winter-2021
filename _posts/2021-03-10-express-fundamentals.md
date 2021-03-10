@@ -115,9 +115,5 @@ Middleware
 
 ---
 
-### Tony's goals for Lab-Time
-
----
-
 ## Dailies
 - Submit today's Codepen/repo/gist to the Dailies section (in Assessments) in Brightspace.
