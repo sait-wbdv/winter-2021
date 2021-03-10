@@ -6,6 +6,9 @@ line47
 * - **Identify the  strengths and weaknesses of each technology.**
 
 
+[Winter 2021 issue](https://github.com/sait-wbdv/winter-2021/issues/40)
+
+
 
 
 
