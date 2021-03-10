@@ -43,6 +43,7 @@ categories: cpnt262
 - Gist: [Create a local `http` server](https://gist.github.com/acidtone/4f96eefab57e9ab8d2ec4e21f6029be3)
 
 ### Key Takeaways
+- You have to restart the server before it loads new changes.
 - The `http` module allows us to create servers without installing dependencies but it requires a lot of work to setup the features that a production server requires (`404` handling, reading HTML files from the file system, etc).
 - Starting tomorrow, we'll use `npm` to install the `express` framework, which simplifies the creation and management of web servers.
 
@@ -77,10 +78,8 @@ categories: cpnt262
 - Initialize a new `npm` project
 
 ### Materials
-- [Anatomy of a `package.json` file]((https://www.digitalocean.com/community/tutorials/nodejs-package-json))
-- Gists: 
-  - [`npm` summary](https://gist.github.com/acidtone/01ce4933169a17011659c525233442b5)
-  - [`npm` - Getting started](https://gist.github.com/acidtone/d57f41d7c18d0d198263c7bc3ab230e3)
+- [Anatomy of a `package.json` file](https://www.digitalocean.com/community/tutorials/nodejs-package-json)
+- Gists: [`npm` - Getting started](https://gist.github.com/acidtone/d57f41d7c18d0d198263c7bc3ab230e3)
 
 ### Key Takeaways
 - `npm` projects are usually in the same root directory as a `git` repository.
@@ -117,7 +116,29 @@ categories: cpnt262
     3. Install `dayjs` as a dependency;
     4. Load `dayjs` into the `http` script;
     5. Add a fancy date to the "Hello World" message sent by the server.
-3. Prep for tomorrow: create a new `npm` project and install `express` as a dependency.
+3. Practice downloading dependencies:
+    1. Complete the above activity and create an `http` server with `dayjs` as a dependency.
+    2. Delete your `node_modules` directory.
+    3. Try starting your server. You should get the following error:
+
+        ```
+        Error: Cannot find module 'module-name'
+        ```
+    
+    4. Download your dependencies:
+        
+        ```
+        $ npm install
+        ```
+
+    5. Try starting the server again and everything should be amazing.
+4. Confirm you are [ignoring the `node_modules` directory](https://docs.github.com/en/github/using-git/ignoring-files) in Git:
+    1. Create a new `npm` project with an installed dependency of your choice.
+    2. Initialize a new git repo.
+    3. Create a remote repo for this project on GitHub.
+    4. Push your local code to the remote.
+    5. Confirm that the remote repo _does not_ have a `node_modules` directory.
+5. Prep for tomorrow: create a new `npm` project and install `express` as a dependency.
 
 ---
 
