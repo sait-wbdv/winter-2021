@@ -28,6 +28,8 @@ categories: cpnt262
     - [Norville's Ultimate Chatroom](https://ultimate-chatroom.herokuapp.com/)
 2. Poll: Mentor pit
     - NOT anonymous!
+3. Changes to afternoon Goals
+4. Double-check 260 marks.
 
 ---
 
