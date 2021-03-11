@@ -97,13 +97,13 @@ CommonJS Module
 
 ### Terminology
 Route parameter
-: A named URL segment (i.e. between or after a `/`) that is used to capture values based on their position in a URL. Example: in `/api/image/:id`, `:id` is a route parameter.
+: A named URL segment (i.e. between or after a `/`) that is used to capture values based on their position in a URL. Example: in `/api/image/:id`, route parameter is `:id`.
 
 ### Materials
 - Starter: [Definition list](https://github.com/sait-wbdv/in-class/tree/main/w9r/1-definition-starter)
 - Gist: [fetch GET: Retrieving data asynchronously](https://gist.github.com/acidtone/33304c82f8d22e9a330003b19a147303)
 
-### Key Takeaways
+### Bonus Takeaways
 - Route parameters are stored in `request.params`.
 - Route parameter paths are usually placed _after_ static routes to prevent them from "stealing" requests.
 
