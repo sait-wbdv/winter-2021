@@ -104,7 +104,7 @@ Live code: Upgraded `greet` module
 
 ---
 
-## Acitivites
+## Activites
 1. Create eight new Node modules. Each one should export a different value type that we've covered in this course:
     - `undefined`
     - `boolean`

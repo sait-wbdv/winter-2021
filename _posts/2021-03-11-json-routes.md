@@ -28,18 +28,69 @@ categories: cpnt262
 
 ---
 
-## 1. Lecture/Live-code
+## 1. Sending JSON data
 ### Learning Objectives
-### Terminology
+- Summarize the purpose of the `Content-Type` HTTP header and how they relate to MIME Type.
+- Understand the [difference between `response.json()`, `response.send()` and `response.end()`](https://blog.fullstacktraining.com/res-json-vs-res-send-vs-res-end-in-express/).
+
 ### Materials
-### Key Takeaways
+- Article [res.json() vs res.send() vs res.end() in Express](https://blog.fullstacktraining.com/res-json-vs-res-send-vs-res-end-in-express/)
+- MDN: [Common MIME types](https://developer.mozilla.org/en-US/docs/Web/HTTP/Basics_of_HTTP/MIME_types/Common_types)
+
+## Key Takeaways
+- When in doubt, use `.send()`. It dynamically sets `Content-Type` headers to match the data it sends.
+- When sending JSON, you can either use `.json()` uses `.send()`.
+  - `.json()` is arguably less confusing
+  - `.json()` uses `.send()` under the hood so the resulting HTTP headers are the same. 
+- `.json()` has JSON formatting options ([`replacer`](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/JSON/stringify#the_replacer_parameter) and [`space`](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/JSON/stringify#the_space_argument)) that you'll probably never need.
+- Only use `.end()` when you need to end the `response` without providing data. 
+  - `.send()`/`.json()` will end the `response` after they send data anyway.
 
 ---
 
-## 2. Lecture/Live-code
+## 2. Custom modules with CommonJS
 ### Learning Objectives
+- Summarize the difference between CommonJS and ES Modules in Node.
+  - See: [Node Modules at War: Why CommonJS and ES Modules Can’t Get Along](https://redfin.engineering/node-modules-at-war-why-commonjs-and-es-modules-cant-get-along-9617135eeca1)
+- Create a custom (local) module.
+  - Turn a file into a module: assign a value to using `module.exports`.
+  - Load a module using `require()`.
+- Demonstrate a module's protected variable environment.
+
 ### Terminology
+Module
+: A reusable block of code whose existence does not accidentally impact other code (Javascript didn't have this before).
+
+CommonJS Module
+: An agreed upon standard for how code modules should be structured. Because modules are a relatively new feature of Javascript, there are competing standards: ES Modules are used in the browser but CommonJS Modules are most common in Node.js (which supports both standards).
+
 ### Materials
+- Gists:
+  - [Node: Local modules](https://gist.github.com/acidtone/4dd61a189ef934a76df8efde14738dfe)
+  - Example: [Node: 3 stages of greet](https://gist.github.com/acidtone/7ab0bd9d11f8d85a39fe185d2fb0a065)
+  - Activity: [Create custom modules](https://gist.github.com/acidtone/ebdc01c9fe3516f6d34fd3ff1249349c)
+
+### Key Takeaways
+- You must prefix local module paths with `./`.
+- `module.exports` is an empty object by default.
+- You can assign any value to `module.exports` to expose it to the outer environment.
+- `require()` returns the value that is assigned to a module's `module.exports`. All other variables will be private to the module. 
+
+---
+
+## 3. Route parameters
+### Learning Objectives
+- Define route parameter.
+- Demonstrate a route parameter using `app.get()`.
+- 
+
+### Terminology
+Route parameter
+: A named URL segment (i.e. between or after a `/`) that is used to capture values based on their position in a URL. Example: in `/api/image/:id`, `:id` is a route parameter.
+
+### Materials
+
+
 ### Key Takeaways
 
 ---
