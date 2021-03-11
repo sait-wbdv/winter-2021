@@ -41,6 +41,7 @@ categories: cpnt262
 ### Materials
 - Article [res.json() vs res.send() vs res.end() in Express](https://blog.fullstacktraining.com/res-json-vs-res-send-vs-res-end-in-express/)
 - MDN: [Common MIME types](https://developer.mozilla.org/en-US/docs/Web/HTTP/Basics_of_HTTP/MIME_types/Common_types)
+- Gist: [`res.send()` vs `res.json()` vs `res.end()`](https://gist.github.com/acidtone/df91c6276e69ae3726e3f8b39223ceec)
 
 ## Key Takeaways
 - When in doubt, use `.send()`. It dynamically sets `Content-Type` headers to match the data it sends.
