@@ -97,7 +97,7 @@ CommonJS Module
 
 ### Terminology
 Route parameter
-: A named URL segment (i.e. between or after a `/`) that is used to capture values based on their position in a URL. Example: in `/api/image/:id`, route parameter is `:id`.
+: A named URL segment (i.e. between or after a `/`) that is used to capture values based on their position in a URL. Example: in `/api/image/:id`, the route parameter is `:id`.
 
 ### Materials
 - Starter: [Definition list](https://github.com/sait-wbdv/in-class/tree/main/w9r/1-definition-starter)
@@ -114,8 +114,8 @@ Route parameter
 1. [Create custom modules](https://gist.github.com/acidtone/ebdc01c9fe3516f6d34fd3ff1249349c)
 2. Refactor your Assignment 2 gallery to use your own custom JSON endpoint using `app.get()`.
     1. `GET /api/v0/images` -> json array of objects
-    3. Create a custom module for your data using `require()` and `module.exports`.
-    4. Bonus: Add support for single images.
+    2. Create a custom module for your data using `require()` and `module.exports`.
+    3. Bonus: Add support for single images.
         - `GET /api/v0/images/:id` -> single object
 
 ### Demo
