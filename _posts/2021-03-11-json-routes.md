@@ -1,6 +1,6 @@
 ---
 layout: post
-title: [title here]
+title: JSON Routes and Custom Modules
 categories: cpnt262
 ---
 
@@ -16,6 +16,10 @@ categories: cpnt262
     - Read: [Express Routes](https://expressjs.com/en/guide/routing.html) in the ExpressJS Documentation
 3. Postman
     - Watch: [The Basics of Using Postman for API Testing](https://youtu.be/t5n07Ybz7yI)
+4. Custom Modules
+    - Read: [Export a Module in Node.js](https://www.tutorialsteacher.com/nodejs/nodejs-module-exports) by Tutorials Teacher
+    - Watch: 15:22 - 33:00 of [Node.js Tutorial for Beginners](https://www.youtube.com/watch?v=TlB_eWDSMt4&t=922s) by Mosh Hamedani
+    - Watch: [Creating a Module in Node.js](https://youtu.be/Cxo4UKpHv5s) by Mosh Hamedani
 
 ---
 {% comment %}
