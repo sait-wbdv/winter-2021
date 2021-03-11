@@ -63,13 +63,13 @@ title: "Program Schedule"
 - T: CPNT 262 Day 15 - [npm](/winter-2021{% link _posts/2021-03-09-npm-packages.md %})
 - W: CPNT 262 Day 16 - [Express Fundamentals](/winter-2021{% link _posts/2021-03-10-express-fundamentals.md %})
 - R: CPNT 262 Day 17 - [JSON Routes](/winter-2021{% link _posts/2021-03-11-json-routes.md %})
-- F: CPNT 262 Day 18
+- F: CPNT 262 Day 18 - [`nodemon` and `express.Router`](/winter-2021{% link _posts/2021-03-12-nodemon-express-router.md %})
 
 ## Week 10: Mar 15-19
-- M: CPNT 262 Day 19
-- T: CPNT 262 Day 20
-- W: CPNT 262 Day 21 
-- R: CPNT 262 Day 22
+- M: CPNT 262 Day 19 - View Engines and EJS
+- T: CPNT 262 Day 20 - Route Parameters
+- W: CPNT 262 Day 21 - Mongoose
+- R: CPNT 262 Day 22 - MongoDB Atlas
 - F: CPNT 264 Day 3 - Career and Consulting Essentials
 
 ## Week 11: Mar 22-26
