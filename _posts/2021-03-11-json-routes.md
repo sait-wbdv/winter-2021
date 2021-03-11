@@ -21,10 +21,11 @@ categories: cpnt262
     - Watch: 15:22 - 33:00 of [Node.js Tutorial for Beginners](https://www.youtube.com/watch?v=TlB_eWDSMt4&t=922s) by Mosh Hamedani
 
 ---
-{% comment %}
 
 ## Morning reflection
 ### Housekeeping
+1. Dailies shoutouts
+    - [Norville's Ultimate Chatroom](https://ultimate-chatroom.herokuapp.com/)
 
 ---
 
@@ -56,6 +57,7 @@ categories: cpnt262
   - Turn a file into a module: assign a value to using `module.exports`.
   - Load a module using `require()`.
 - Demonstrate a module's protected variable environment.
+- Load an array of objects using a custom module 
 
 ### Terminology
 Module
@@ -81,28 +83,39 @@ CommonJS Module
 ## 3. Route parameters
 ### Learning Objectives
 - Define route parameter.
-- Demonstrate a route parameter using `app.get()`.
-- 
+- Create a JSON endpoint using `app.get()` and custom modules.
+  - Return an array of objects to `GET /api/v0/definitions`.
+- Demonstrate a route parameter using `app.get()` and `:slug`.
+  - Return a single of object to `GET /api/v0/definitions/:slug`.
+- Review: 
+  - Requesting data using `fetch()`.
 
 ### Terminology
 Route parameter
 : A named URL segment (i.e. between or after a `/`) that is used to capture values based on their position in a URL. Example: in `/api/image/:id`, `:id` is a route parameter.
 
 ### Materials
-
+- Starter: [Definition list](https://github.com/sait-wbdv/in-class/tree/main/w9r/1-definition-starter)
 
 ### Key Takeaways
+- Route parameters are stored in `request.params`.
+- Route parameter paths are usually placed _after_ static routes to prevent them from "stealing" requests.
 
 ---
 
 ## Open lab-time
+### Activities
+1. [Create custom modules](https://gist.github.com/acidtone/ebdc01c9fe3516f6d34fd3ff1249349c)
+2. Refactor your Assignment 2 gallery to use your own custom JSON endpoint using `app.get()`.
+    1. `GET /api/v0/images` -> json array of objects
+    3. Create a custom module for your data using `require()` and `module.exports`.
+    4. Bonus: Add support for single images.
+        - `GET /api/v0/images/:id` -> single object
+
+### Demo
+1. Data logger as a module. 
 
 ---
-
-### Tony's goals for Lab-Time
-
----
-{% endcomment %}
 
 ## Dailies
 - Submit today's Codepen/repo/gist to the Dailies section (in Assessments) in Brightspace.
