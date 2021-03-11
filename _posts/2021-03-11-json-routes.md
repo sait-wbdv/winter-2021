@@ -90,10 +90,10 @@ CommonJS Module
 - Define route parameter.
 - Create a JSON endpoint using `app.get()` and custom modules.
   - Return an array of objects to `GET /api/v0/definitions`.
-- Demonstrate a route parameter using `app.get()` and `:slug`.
-  - Return a single of object to `GET /api/v0/definitions/:slug`.
 - Review: 
   - Requesting data using `fetch()`.
+- Bonus: Demonstrate a route parameter using `app.get()` and `:slug`.
+  - Return a single of object to `GET /api/v0/definitions/:slug`.
 
 ### Terminology
 Route parameter
@@ -101,6 +101,7 @@ Route parameter
 
 ### Materials
 - Starter: [Definition list](https://github.com/sait-wbdv/in-class/tree/main/w9r/1-definition-starter)
+- Gist: [fetch GET: Retrieving data asynchronously](https://gist.github.com/acidtone/33304c82f8d22e9a330003b19a147303)
 
 ### Key Takeaways
 - Route parameters are stored in `request.params`.
