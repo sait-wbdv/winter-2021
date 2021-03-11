@@ -85,7 +85,7 @@ CommonJS Module
 
 ---
 
-## 3. Route parameters
+## 3. JSON routes
 ### Learning Objectives
 - Define route parameter.
 - Create a JSON endpoint using `app.get()` and custom modules.
