@@ -62,7 +62,7 @@ title: "Program Schedule"
 - M: CPNT 262 Day 14 - [Node and Node Modules](/winter-2021{% link _posts/2021-03-08-node-modules.md %})
 - T: CPNT 262 Day 15 - [npm](/winter-2021{% link _posts/2021-03-09-npm-packages.md %})
 - W: CPNT 262 Day 16 - [Express Fundamentals](/winter-2021{% link _posts/2021-03-10-express-fundamentals.md %})
-- R: CPNT 262 Day 17 - [JSON Routes](/winter-2021{% link _posts/2021-03-10-express-fundamentals.md %})
+- R: CPNT 262 Day 17 - [JSON Routes](/winter-2021{% link _posts/2021-03-11-json-routes.md %})
 - F: CPNT 262 Day 18
 
 ## Week 10: Mar 15-19
