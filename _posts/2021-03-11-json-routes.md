@@ -26,6 +26,8 @@ categories: cpnt262
 ### Housekeeping
 1. Dailies shoutouts
     - [Norville's Ultimate Chatroom](https://ultimate-chatroom.herokuapp.com/)
+2. Poll: Mentor pit
+    - NOT anonymous!
 
 ---
 
