@@ -21,7 +21,7 @@ categories: cpnt262
 
 ## Morning reflection
 ### Housekeeping
-- Modifications to Assignment 4
+- [Modifications to Assignment 4](https://github.com/sait-wbdv/assessments/commit/557caf4dc2ef6a1f55cbe42e60b44871aed49b51)
 
 ---
 
