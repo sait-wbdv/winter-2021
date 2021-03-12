@@ -87,7 +87,7 @@ Environment Variable
     app.use('/api/v0', v0);
     ```
 
-    In `/routes/v0.js`:
+    In `/routes/api/v0.js`:
 
     ```js
     router.get('/definitions', callback);
