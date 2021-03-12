@@ -28,10 +28,10 @@ categories: cpnt262
 ## 1. `nodemon` and `dotenv`
 ### Learning Objectives
 - Understand the purpose of development dependencies
-  - Install `nodemon` as a develment dependency.
+  - Install `nodemon` as a development dependency.
   - Add a `dev: "nodemon server.js"` script to `package.json`.
   - Start a server using `nodemon`.
-- Understand the purpose of envronment variables.
+- Understand the purpose of environment variables.
   - Install `dotenv` as a dependency.
   - Assign a `PORT` environment variable.
   - Load a `.env` file into a Node server.
