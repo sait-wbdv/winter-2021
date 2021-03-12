@@ -39,6 +39,7 @@ categories: cpnt262
 ### Terminology
 Development Dependency
 : Packages that are only needed for local development and testing.
+
 Environment Variable
 : Configuration variables that are set to different values based on the environment you run your app in.
 
