@@ -97,8 +97,8 @@ Environment Variable
 ---
 
 ## 3. Assignment 5, Final project and group assignments
-- DRAFT: Assignment 5
-- DRAFT: Final Project
+- DRAFT: [Assignment 5](https://github.com/sait-wbdv/assessments/tree/master/cpnt262/assignment-5)
+- DRAFT: [Final Project](https://github.com/sait-wbdv/assessments/tree/master/cpnt262/final)
 - You will be assigned to your Final Project groups during lab time.
 
 ---
