@@ -18,7 +18,6 @@ categories: cpnt262
     - Reference: [Express Routes - `express.Router`](https://expressjs.com/en/guide/routing.html#express-router)
 
 ---
-{% comment %}
 
 ## Morning reflection
 ### Housekeeping
@@ -44,6 +43,10 @@ Environment Variable
 : Configuration variables that are set to different values based on the environment you run your app in.
 
 ### Materials
+- npm
+  - [`nodemon` documentation](https://www.npmjs.com/package/nodemon)
+  - [`dotenv` documentation](https://www.npmjs.com/package/dotenv)
+
 ### Key Takeaways
 - Install development dependencies with the `--save-dev` or `-D` flags:
     
@@ -56,8 +59,10 @@ Environment Variable
     ```
     $ npm install nodemon -D
     ```
-- Development dependencies are installed when you run `npm install`. To prevent this you instead run `npm install --production`.
 
+- Development dependencies are installed when you run `npm install`. To prevent this you instead run `npm install --production`.
+- Installing a dependency globally is not recommended for production dependencies (you're locked to one version of `express`, for example) but global dev dependencies are usually fine.
+- Permissions issues sometimes happen with global packages depending on the system.
 
 ---
 
@@ -69,21 +74,22 @@ Environment Variable
 - Load a route using `app.use()`.
 
 ### Materials
-
+- [Sample data](https://github.com/sait-wbdv/sample-code/tree/master/assets/js)
 
 ### Key Takeaways
 - Router modules still need to load `express` with `require()`.
+- Router methods (i.e. `router.get()`) behave largely the same as the parent express methods (i.e. `app.get()`).
 - Route modules append their endpoint paths to the path specified in the `app.use()` that loaded it. Together, these paths are joined to create the complete route path (i.e. `/api/v0/definitions`).
 
     In `server.js`:
 
-    ```
+    ```js
     app.use('/api/v0', v0);
     ```
 
     In `/routes/v0.js`:
 
-    ```
+    ```js
     router.get('/definitions', callback);
     ```
 
@@ -92,15 +98,16 @@ Environment Variable
 ## 3. Assignment 5, Final project and group assignments
 - DRAFT: Assignment 5
 - DRAFT: Final Project
-- You will be assigned to your groups during the Breakout session.
+- You will be assigned to your Final Project groups during lab time.
 
 ---
 
 ## Open lab-time
+- Group hangs
+  - Team names!
 - Mentor orientation
 
 ---
-{% endcomment %}
 
 ## Dailies
 - Submit today's Codepen/repo/gist to the Dailies section (in Assessments) in Brightspace.
