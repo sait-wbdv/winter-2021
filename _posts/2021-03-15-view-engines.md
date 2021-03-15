@@ -91,6 +91,24 @@ See Takeaways in [EJS Getting Started](https://github.com/sait-wbdv/sample-code/
 ## Open lab-time
 1. Using today's activity try converting one or more of your current/past projects.
 2. Final Project Groups. Begin your Group Charter if you haven't already.
+3. Level-up: Generate navigation for your views dynamically:
+    1. Create a local module that exports an object that describes the information needed for your nav links:
+        - `linkURL`
+        - `linkText`
+    2. Load this module with `require()`.
+    3. Pass the nav object to `res.locals`.
+    4. Using EJS, use `<% %>` tags to loop this object and generate your nav menu. The code should look something like this:
+
+        ```html
+        <ul>
+        <% products.forEach(function(product) { %>
+            <li>
+                <strong><%= product.name %></strong>: 
+                <em><%= product.price %></em>
+            </li>
+        <% }); %>
+        </ul>
+        ```
 
 ---
 
