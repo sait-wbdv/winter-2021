@@ -67,8 +67,8 @@ title: "Program Schedule"
 
 ## Week 10: Mar 15-19
 - M: CPNT 262 Day 19 - [View Engines and EJS](/winter-2021{% link _posts/2021-03-15-view-engines.md %})
-- W: CPNT 262 Day 21 - Mongoose and MongoDB Atlas
-- T: CPNT 262 Day 20 - Route Parameters
+- T: CPNT 262 Day 20 - [Route Parameters](/winter-2021{% link _posts/2021-03-16-view-route-parameters.md %})
+- W: CPNT 262 Day 21 - [Mongoose and MongoDB Atlas](/winter-2021{% link _posts/2021-03-17-mongoose-atlas.md %})
 - R: CPNT 262 Day 22 - POST requests
 - F: CPNT 264 Day 3 - Career and Consulting Essentials
 
