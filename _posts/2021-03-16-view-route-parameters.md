@@ -17,7 +17,6 @@ categories: cpnt262
     - Reference: [`req.params`](https://expressjs.com/en/4x/api.html#req.params)
 
 ---
-{% comment %}
 
 ## Morning reflection
 - As of Express 4, an optional (recommended?) way to send bare `404` errors:
@@ -117,7 +116,6 @@ categories: cpnt262
 3. Work on assignments and such.
 
 ---
-{% endcomment %}
 
 ## Dailies
 - Submit today's Codepen/repo/gist to the Dailies section (in Assessments) in Brightspace.
