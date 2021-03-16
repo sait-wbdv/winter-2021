@@ -42,6 +42,16 @@ categories: cpnt262
 - Summarize the characteristics of a REST API.
 - Identify common convensions for REST APIs.
 
+### Terminology
+Endpoint segment
+: The bits of a URL located between the slashes `/` in a URL. In `GET /posts/latest/comments`: `posts`, `latest` and `comments` are endpoint segments.
+
+Route parameter
+: A named endpoint segment in a route handler. Example: `GET /users/:id`.
+
+Search/URL parameter
+: The name/value pairs that are included after the `?` in a URL. Example: `GET /users?sort=asc` where `sort` is the name and `asc` is the value.
+
 ### Materials
 - [Best practices for REST API design](https://stackoverflow.blog/2020/03/02/best-practices-for-rest-api-design/)
 
