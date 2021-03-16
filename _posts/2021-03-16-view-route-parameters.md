@@ -34,6 +34,7 @@ categories: cpnt262
     ```
 
 ### Housekeeping
+1. Create [MongoDB Atlas](https://www.mongodb.com/cloud/atlas) account.
 
 ---
 
@@ -81,13 +82,27 @@ categories: cpnt262
 - Create a RESTful `item` endpoint with route parameters and EJS.
 
 ### Materials
-- Activity: [Create a RESTful `list` endpoint](https://github.com/sait-wbdv/sample-code/tree/master/backend/express/route-params/1-create-list-route)
+- Activity: [Create a RESTful `item` endpoint](https://github.com/sait-wbdv/sample-code/tree/master/backend/express/route-params/1-create-list-route)
 
 ### Key Takeaways
 - Route parameters are created by placing a colon `:` before a path segment in an endpoint:
   - `GET /users/:id`
 - The label after the `:` becomes the name of the variable when it's passed to the route handler.
 - In express, route parameter name/value pairs are assigned to the `request.params` object.
+
+---
+
+## 4. Testing GET endpoints in Postman
+### Learning Objectives
+- Import a Collection into Postman.
+- Test the basic health of a server with Postman unit tests.
+
+### Materials
+- [Sample Postman Unit Tests](https://github.com/sait-wbdv/sample-code/tree/master/tools/postman)
+
+### Takeaways
+- You can find the test of each endpoint under `Tests`.
+- The tests query `localhost:3000` so you'll need to start a Node project before starting tests.
 
 ---
 
