@@ -107,10 +107,10 @@ Search/URL/Query parameter
 ### Learning Objectives
 - Import a Collection into Postman.
 - Test the basic health of a server with Postman unit tests.
-- Reference: [Express error handling](https://expressjs.com/en/guide/error-handling.html)
 
 ### Materials
 - [Sample Postman Unit Tests](https://github.com/sait-wbdv/sample-code/tree/master/tools/postman)
+- Reference: [Express error handling](https://expressjs.com/en/guide/error-handling.html)
 
 ### Takeaways
 - You can find the test of each endpoint under `Tests`.
