@@ -92,6 +92,8 @@ Search/URL/Query parameter
 
 ### Materials
 - Activity: [Create a RESTful `item` endpoint](https://github.com/sait-wbdv/sample-code/tree/master/backend/express/route-params/1-create-list-route)
+- StackOverflow: [Finding an object in an array of objects](https://stackoverflow.com/questions/7364150/find-object-by-id-in-an-array-of-javascript-objects)
+- Reference: [`Array.prototype.find()`](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Array/find)
 
 ### Key Takeaways
 - Route parameters are created by placing a colon `:` before a path segment in an endpoint:
@@ -105,6 +107,7 @@ Search/URL/Query parameter
 ### Learning Objectives
 - Import a Collection into Postman.
 - Test the basic health of a server with Postman unit tests.
+- Reference: [Express error handling](https://expressjs.com/en/guide/error-handling.html)
 
 ### Materials
 - [Sample Postman Unit Tests](https://github.com/sait-wbdv/sample-code/tree/master/tools/postman)
@@ -123,6 +126,11 @@ Search/URL/Query parameter
         - `GET /images?filter=random`
     - Add a `sort` filter that... sorts your list:
         - `GET /images?sort=asc`
+    - Handy array methods
+        - [`Array.prototype.find()`](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Array/find)
+        - [`Array.prototype.sort()`](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Array/sort)
+        - [`Array.prototype.filter()`](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Array/filter)
+        - [`Array.prototype.map()`](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Array/map)
 3. Work on assignments and such.
 
 ---
