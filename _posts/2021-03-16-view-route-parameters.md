@@ -49,7 +49,7 @@ Endpoint segment
 Route parameter
 : A named endpoint segment in a route handler. Example: `GET /users/:id`.
 
-Search/URL parameter
+Search/URL/Query parameter
 : The name/value pairs that are included after the `?` in a URL. Example: `GET /users?sort=asc` where `sort` is the name and `asc` is the value.
 
 ### Materials
