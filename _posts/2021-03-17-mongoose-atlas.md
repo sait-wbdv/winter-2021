@@ -7,7 +7,6 @@ categories: cpnt262
 ## Homework
 1. Review
     - [Create, read, update and delete](https://en.wikipedia.org/wiki/Create,_read,_update_and_delete) on Wikipedia
-    - [What Is a REST API?](https://www.sitepoint.com/developers-rest-api/) on SitePoint
     - [MVC](https://developer.mozilla.org/en-US/docs/Glossary/MVC) definition on MDN
     - [Model-view-controller](https://en.wikipedia.org/wiki/Model%E2%80%93view%E2%80%93controller)
     - [Using dotenv package to create environment variables](https://medium.com/@thejasonfile/using-dotenv-package-to-create-environment-variables-33da4ac4ea8f)
@@ -30,23 +29,83 @@ categories: cpnt262
 
 ---
 
-## 1. Lecture/Live-code
+## 1. NoSQL vs SQL
 ### Learning Objectives
+- Understand the difference between 
+
 ### Terminology
+Document Database
+: A type of NoSQL (Not-only SQL) database that stores its data as documents on the file system. MongoDB is a `json` document database.
+
+Database
+: Holds one or more collections.
+
+Collection
+: A collection of documents (i.e. a fancy folder). Collections are analogous to tables in relational databases.
+
+Document
+: MongoDB stores data in the form of `json` Documents (technically BSON documents). Each document is analagous to a row in a relational database.
+
 ### Materials
+- [What is NoSQL?](https://www.mongodb.com/nosql-explained)
+- [NoSQL vs SQL Databases](https://www.mongodb.com/nosql-explained/nosql-vs-sql)
+
 ### Key Takeaways
+- MongoDB is a file database engine. It literally stores its data as a folder (i.e. Collection) of `json` files (i.e. Documents).
+- Working with MongoDB is a little messy so we use the `mongoose` package to:
+  - use a simpler syntax;
+  - ensure the documents in a collection have the same structure;
+  - hide the gritty details like promises and asynchronous things.
 
 ---
 
-## 2. Lecture/Live-code
+## 2. Configuring MongoDB Atlas
 ### Learning Objectives
-### Terminology
+- Create a MongoDB Atlas account.
+- Configure Atlas for outside connections.
+- Connect to Atlas with Mongoose.
+
 ### Materials
+- [MongoDB Atlas Cheatsheet](https://github.com/sait-wbdv/sample-code/tree/master/backend/mongoose)
+- [Setting up MongoDB Atlas](https://github.com/sait-wbdv/sample-code/tree/master/backend/mongoose/1-atlas-getting-started)
+
 ### Key Takeaways
+- The main error you will run into when connecting is `Authentication Failed`. Try the following:
+  - Confirm you've set the correct username/password in your connection string. You can reset the password in the Atlas control panel.
+  - Confirm you've changed the database in your connection string to `winter-2021` or similar.
+  - Confirm you've whitelisted all IPs in Atlas. 
+
+---
+
+## 3. Kitten models
+### Learning Objectives
+- Understand the difference between Mongoose Schemas, Models and Instances.
+- Create a Mongoose Schema.
+- Compile a Mongoose Model from a Schema.
+- Load data into a model from Atlas to create an Instance.
+
+### Terminology
+Schema
+: A Javascript object that describes/defines the structure of a `json` document.
+
+Model
+: A compiled Schema that facilitates communication with a MongdDB server.
+
+Instance
+: A model that contains actual data, either assigned in your script or pulled from a MongoDB database.
+
+### Materials
+- [Mongoose Getting Started](https://mongoosejs.com/docs/)
+
+### Key Takeaways
+- 
 
 ---
 
 ## Open lab-time
+### Importing data into Atlas.
+#### Option 1: Use tony's import script
+- []()
 
 ---
 
