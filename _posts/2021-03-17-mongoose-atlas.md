@@ -22,10 +22,14 @@ categories: cpnt262
             - We will be connecting to Mongoose a little differently that what is shown in this article.
 
 ---
-{% comment %}
 
 ## Morning reflection
 ### Housekeeping
+- `json` enpoint review this afternoon
+- No Dailies today (we're only connecting with local code today)
+- Goals for the day
+    1. Connect successfully to MongoDB Atlas
+    2. Import your gallery data into Atlas.
 
 ---
 
@@ -98,21 +102,21 @@ Instance
 - [Mongoose Getting Started](https://mongoosejs.com/docs/)
 
 ### Key Takeaways
-- 
+- Defining your model is the first step to using `mongoose` (after you have successfully connected).
+  - Example: This [animal model](https://github.com/sait-wbdv/sample-code/blob/master/backend/mongoose/2-sample-import/models/animal.js) describes this [animal data](https://github.com/sait-wbdv/sample-code/blob/master/backend/mongoose/2-sample-import/seeds/animals.js).
 
 ---
 
 ## Open lab-time
-### Importing data into Atlas.
-#### Option 1: Use tony's import script
-- []()
+### Activities
+1. [Importing data into Atlas](https://github.com/sait-wbdv/sample-code/tree/master/backend/mongoose/2-sample-import)
 
 ---
 
-### Tony's goals for Lab-Time
+### Review Session: `json` API endpoints
+- 
 
 ---
-{% endcomment %}
 
 ## Dailies
-- Submit today's Codepen/repo/gist to the Dailies section (in Assessments) in Brightspace.
+- None today.
