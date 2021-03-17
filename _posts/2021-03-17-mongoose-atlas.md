@@ -115,7 +115,10 @@ Instance
 1. [Importing data into Atlas](https://github.com/sait-wbdv/sample-code/tree/master/backend/mongoose/2-sample-import)
     - [Converting Javascript objects into `json` files](https://gist.github.com/acidtone/9ba1c784d5f78fdc9dc4df9c6f26bcf8)
 
-        Warning: `json` files are for data only. Don't include Javascript logic like `=`, `const`, etc. Stick to arrays and object values.
+        **Note**: `json` files are for data only. Don't include Javascript logic like `=`, `const`, etc. Stick to arrays and object values.
+        {: .notice }
+
+        Warning: MongoDB (and `mongoose`) assume you'll be importing an _array of objects_. Any other data types will lead to unexpected results.
         {: .notice .notice--warning}
 
 ---
