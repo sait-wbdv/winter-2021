@@ -35,7 +35,9 @@ categories: cpnt262
 
 ## 1. NoSQL vs SQL
 ### Learning Objectives
-- Understand the difference between 
+- Understand the difference between NoSQL and SQL (relational) databases.
+- Define document databases and their terminology.
+- Summarize the pros and cons to document databases and MongoDB in general.
 
 ### Terminology
 Document Database
