@@ -1,6 +1,6 @@
 ---
 layout: post
-title: [title here]
+title: Mongoose CRUD and Heroku/Atlas Config
 categories: cpnt262
 ---
 
