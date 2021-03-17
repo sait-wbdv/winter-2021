@@ -14,6 +14,8 @@ categories: cpnt262
     - Reference: [Mongoose Queries](https://mongoosejs.com/docs/queries.html) in the mongoose documentation.
         - [`Model.find()`](https://mongoosejs.com/docs/api.html#model_Model.find)
         - [`Model.findOne()`](https://mongoosejs.com/docs/api.html#model_Model.findOne)
+3. POST Requests in Express
+    - Read: [Handle GET and POST Request in Express](https://codeforgeek.com/handle-get-post-request-express-4/)
 3. MongoDB Atlas
     - [How to host a RESTful Node.js server with MongoDB Atlas database on Heroku](https://dev.to/cpclark360/how-to-host-a-restful-node-js-server-with-mongodb-atlas-database-on-heroku-1opl)
 
