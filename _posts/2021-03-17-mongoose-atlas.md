@@ -74,6 +74,7 @@ Document
 ### Materials
 - [MongoDB Atlas Cheatsheet](https://github.com/sait-wbdv/sample-code/tree/master/backend/mongoose)
 - [Setting up MongoDB Atlas](https://github.com/sait-wbdv/sample-code/tree/master/backend/mongoose/1-atlas-getting-started)
+- [hello-atlas](https://github.com/sait-wbdv/hello-atlas)
 
 ### Key Takeaways
 - The main error you will run into when connecting is `Authentication Failed`. Try the following:
