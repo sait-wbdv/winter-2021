@@ -74,7 +74,7 @@ categories: cpnt262
 
 ### Materials
 - [Handle GET and POST Request in Express](https://codeforgeek.com/handle-get-post-request-express-4/)
-- Starter: Finished Definitions App from above
+- Starter: [Atlas Definitions Sample Code](https://github.com/sait-wbdv/sample-code/tree/master/backend/mongoose/3-definitions-atlas)
 - Gist: [Mongoose - Create document from form data in Express](https://gist.github.com/acidtone/c69a20727a1e11c58fcc9ff0503b1471)
 
 ### Key Takeaways
