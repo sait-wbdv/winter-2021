@@ -24,10 +24,11 @@ categories: cpnt262
 
 ## Morning reflection
 ### Housekeeping
+- Assignment 4 extension?
 
 ---
 
-## 1. Lecture/Live-code
+## 1. CRUD Operations with Mongoose
 ### Learning Objectives
 ### Terminology
 ### Materials
