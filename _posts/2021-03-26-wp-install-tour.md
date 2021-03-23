@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Environment Setup and PHP Primer
+title: Wordpress Install (the classic way) and Feature Tour
 categories: cpnt200
 ---
 
