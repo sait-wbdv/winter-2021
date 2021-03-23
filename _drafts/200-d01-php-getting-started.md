@@ -12,7 +12,7 @@ categories: cpnt200
     - Read: [Getting Started with PHP](https://www.codecademy.com/learn/learn-php/modules/getting-started-with-php/cheatsheet) on Code Academy
     - Watch: [PHP Tutorial #3: Your First PHP File](https://www.youtube.com/watch?v=ABcXbZLm5G8) by Net Ninja
         - Optional: Browse the [Net Ninja PHP Tutorial Playlist](https://www.youtube.com/watch?v=pWG7ajC_OVo&list=PL4cUxeGkcC9gksOX3Kd9KPo-O68ncT05o)
-    - Search: "[php tutorials](https://www.google.com/search?q=php+tutorial)" to find a turorial that's right for you
+    - Search: "[php tutorials](https://www.google.com/search?q=php+tutorial)" to find a tutorial that's right for you
 
 ## Terminology
 <dl>

@@ -75,13 +75,13 @@ title: "Program Schedule"
 ## Week 11: Mar 22-26
 - M: CPLN 240 - Guest Speaker Day 
 - T: CPNT 264 Day 4 - Career and Consulting Essentials
-- W: CPNT 200 Day 1 - Content Management Systems
-- R: CPNT 200 Day 2
-- F: CPNT 200 Day 3
+- W: CPNT 200 Day 1 - [Getting Started with PHP](/winter-2021{% link _posts/2021-03-24-xampp-php.md %})
+- R: CPNT 200 Day 2 - [MySQL and phpMyAdmin](/winter-2021{% link _posts/2021-03-25-mysql-phpmyadmin.md %})
+- F: CPNT 200 Day 3 - [Introduction to Wordpress](/winter-2021{% link _posts/2021-03-26-wp-install-tour.md %})
 
 ## Week 12: Mar 29 - Apr 2
-- M: CPNT 200 Day 4
-- T: CPNT 200 Day 5
+- M: CPNT 200 Day 4 - Wordpress with Elementor
+- T: CPNT 200 Day 5 
 - W: CPNT 200 Day 6
 - R: CPNT 200 Day 7
 - _F: Good Friday_
