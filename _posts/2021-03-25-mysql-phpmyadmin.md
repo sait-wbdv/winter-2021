@@ -1,6 +1,6 @@
 ---
 layout: post
-title: MySQL and phpMyAdmin
+title: MySQL, SQL and phpMyAdmin
 categories: cpnt200
 ---
 
@@ -14,6 +14,7 @@ categories: cpnt200
         - [SQL ORDER BY Keyword](https://www.w3schools.com/sql/sql_orderby.asp)
         - [SQL UPDATE Statement](https://www.w3schools.com/sql/sql_update.asp)
         - [SQL DELETE Statement](https://www.w3schools.com/sql/sql_delete.asp)
+        - [SQL INNER JOINS](https://www.w3schools.com/sql/sql_join_inner.asp)
 2. Relational Databases
     - Read: [Summary - Relational Database Model](https://dev.to/lmolivera/everything-you-need-to-know-about-relational-databases-3ejl)
     - Read: [MariaDB vs MySQL](https://www.guru99.com/mariadb-vs-mysql.html)
@@ -32,10 +33,15 @@ categories: cpnt200
         - [mysqli](https://www.php.net/manual/en/class.mysqli.php)
 
 ---
-{% comment %}
 
 ## Morning reflection
+- Initial comments on 262 Assignment 4
+  - frontend vs backend javascript
+  - HTML vs JSON endpoints
+  - simplifying routes
+
 ### Housekeeping
+- [CPNT 200 Assignment breakdown](https://github.com/sait-wbdv/assessments/tree/master/cpnt200)
 
 ---
 
@@ -106,14 +112,10 @@ categories: cpnt200
 ---
 
 ## Open lab-time
-
-
----
-
-### Tony's goals for Lab-Time
+### SQL Queries
+- Exercises posted after lunch
 
 ---
-{% endcomment %}
 
 ## Dailies
 - Submit today's Codepen/repo/gist to the Dailies section (in Assessments) in Brightspace.
