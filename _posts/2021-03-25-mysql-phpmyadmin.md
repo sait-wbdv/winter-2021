@@ -39,23 +39,74 @@ categories: cpnt200
 
 ---
 
-## 1. Lecture/Live-code
+## 1. Relational Data Models
 ### Learning Objectives
-### Terminology
+- Define the features of a relational data model.
+- Understand how to read and diagram a data model using and Entity Relationship Diagram (ERD).
+- Demonstrate common relationships found in relational data models:
+  - One-to-many
+  - Many-to-many
+- Define [normalization](https://www.guru99.com/database-normalization.html)
+- Summarize the similarities and differences between MySQL and MariaDB.
+
 ### Materials
+- [Relational Terminology](https://github.com/sait-wbdv/php-sample-code/tree/main/mysql)
+- [ERD Diagrams](https://www.lucidchart.com/pages/er-diagrams)
+- [ERD Symbols](https://www.lucidchart.com/pages/ER-diagram-symbols-and-meaning)
+- [`aviano-db` source repo](https://github.com/hurshd0/aviano-db)
+
 ### Key Takeaways
+- Naming convensions for database tables:
+  - lowercase
+  - spaces replaced with underscores
+  - no numbers
+  - valid, descriptive names no longer than 64 characters
 
 ---
 
-## 2. Lecture/Live-code
+## 2. `phpMyAdmin` Tour
 ### Learning Objectives
+- Perform common operations using the `phpMyAdmin` control panel:
+  - Create a database.
+  - Define a table.
+  - Insert data into a table.
+  - Perform SQL queries against a database.
+
+### Materials
+- [Activity: Create an `animals` database](https://github.com/sait-wbdv/php-sample-code/blob/main/mysql/phpmyadmin.md)
+
+### Key Takeaways
+- Changing the structure of a database can be difficult after you insert data. Getting it right the first (or second) time can be difficult and the reason NoSQL databases are popular.
+- It's important to not forget your constraints. A key concept of relational data models is maintaining data integrity.
+
+---
+
+## 3. SQL Queries
+### Learning Objectives
+- Understand the syntax of common SQL queries.
+- Perform common CRUD operations on a database using SQL.
+  - Create a record with `INSERT`.
+  - Retrieve a record with `SELECT`.
+    - Filter results with `WHERE` conditions.
+    - Sort results with an `ORDER` clause.
+  - Update a record with `UPDATE`.
+    - Target records with `WHERE` conditions.
+  - Combine the results from two tables with `INNER JOIN`.
+- Define a `mysql` function.
+
 ### Terminology
 ### Materials
+- [SQL Syntax Basics](https://github.com/sait-wbdv/php-sample-code/blob/main/mysql/sql-syntax.md)
+- [18 Useful SQL Functions](https://learnsql.com/blog/18-important-sql-functions-learn-2018/)
+
 ### Key Takeaways
+- Inserting data using `phpMyAdmin` can be a pain. You will often create an import script instead. This can be done with your language of choice.
+- We rarely delete records in industry. Instead, there will usually be an `active` field (or similar) that is set to `yes` or `no`.
 
 ---
 
 ## Open lab-time
+
 
 ---
 
