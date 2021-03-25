@@ -106,6 +106,7 @@ categories: cpnt200
 - [18 Useful SQL Functions](https://learnsql.com/blog/18-important-sql-functions-learn-2018/)
 
 ### Key Takeaways
+- Comparisons use `=`, not `==` or `===`.
 - Inserting data using `phpMyAdmin` can be a pain. You will often create an import script instead. This can be done with your language of choice.
 - We rarely delete records in industry. Instead, there will usually be an `active` field (or similar) that is set to `yes` or `no`.
 
@@ -113,7 +114,11 @@ categories: cpnt200
 
 ## Open lab-time
 ### SQL Queries
-- Exercises posted after lunch
+- Find:
+    - All customers over the age of 30.
+    - The `id` of Kass Humphris.
+    - The number of vehicles in the database. Hint: there's a COUNT() function.
+- [Activity: Create an `animals` database](https://github.com/sait-wbdv/php-sample-code/blob/main/mysql/phpmyadmin.md)
 
 ---
 
