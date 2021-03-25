@@ -62,7 +62,7 @@ categories: cpnt200
 - [`aviano-db` source repo](https://github.com/hurshd0/aviano-db)
 
 ### Key Takeaways
-- Naming convensions for database tables:
+- Naming convensions for database tables and columns:
   - lowercase
   - spaces replaced with underscores
   - no numbers
