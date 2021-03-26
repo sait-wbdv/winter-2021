@@ -51,12 +51,31 @@ categories: cpnt200
 - [Administration Screens](https://wordpress.org/support/article/administration-screens/)
 
 ### Key Takeaways
-1. Plugins
+1. The `wp-content` is the only directory you usually need to deal with for most projects. It's safe to ignore `wp-admin` and `wp-includes`.
+
+    ```
+    project-root
+      ├─ wp-admin
+      ├─ wp-content    
+        ├─ plugins
+        ├─ themes
+            ├─ theme-1
+            ├─ theme-2
+            └─ theme-3
+        └─ uploads
+      └─ wp-includes
+    ```
+
+    - `plugins` contains all the (you guessed it) plugins you install from the Admin panel. Elementor (covered next week) is a theme-builder that will be installed as a plugin.
+    - `themes` is the closest thing WP has to a `views` folder. This is where any installed themes are located.
+    - `uploads` contains all the Media files you upload in the Admin panel.
+
+2. Plugins
     - The number one source of blog bloat:
         - Beware of client projects that have more than 20 plugins;
         - Beware of plugins that are more than a major version out of date;
         - Beware of plugins that are no longer maintained.
-2. Posts - great for content that:
+3. Posts - great for content that:
     - has an author(s);
     - has a category;
         - See Codex: [Post Categories](https://en.support.wordpress.com/posts/categories/)
@@ -69,7 +88,7 @@ categories: cpnt200
         - See Codex: [Post Templates](https://developer.wordpress.org/themes/template-files-section/post-template-files/)
     - don't support custom templates
     - can be customized by setting a [Post Format](https://developer.wordpress.org/themes/functionality/post-formats/) (the theme must explicitly support this)
-3. Pages - great for content that:
+4. Pages - great for content that:
     - is important enough to be in the primary navigation;
     - doesn't change often;
     - requires structured layouts
