@@ -45,8 +45,11 @@ categories: cpnt200
     2. Make your `wp-content` folder writable:
 
         ```
-        $ chmod -R 755 wp-content
+        $ chmod -R 777 wp-content
         ```
+        
+        **Warning**: DON'T do this on a hosted website.
+        {: .notice notice--danger}
 
 - This method of installation is a last resort but is sometimes needed. We'll use more modern methods next week but keep this installation as a code reference.
 - **Pro-tip**: On the "Information needed" page that asks for an account username, DON'T use `admin` on production websites (it's fine for today). That's honey for hack bots. 
