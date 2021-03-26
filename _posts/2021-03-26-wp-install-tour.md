@@ -17,10 +17,10 @@ categories: cpnt200
     - [13 Useful WordPress SQL Queries You Wish You Knew Earlier](https://onextrapixel.com/13-useful-wordpress-sql-queries-you-wish-you-knew-earlier/)
 
 ---
-{% comment %}
 
 ## Morning reflection
 ### Housekeeping
+- This afternoon: Review session and A4 answer key
 
 ---
 
@@ -30,7 +30,7 @@ categories: cpnt200
 2. Locate the `wp-config.php` file in a WP installation.
 
 ### Materials
-- [How Tony used to walk uphill both ways](https://wordpress.org/support/article/how-to-install-wordpress/)
+- [Installing WP the classic way](https://wordpress.org/support/article/how-to-install-wordpress/)
 
 ### Key Takeaways
 - This method of installation is a last resort but is sometimes needed. We'll use more modern methods next week but keep this installation as a code reference.
@@ -77,18 +77,14 @@ categories: cpnt200
             - [Page Templates](https://developer.wordpress.org/themes/template-files-section/page-template-files/)
                 - [Custom Templates](https://developer.wordpress.org/themes/template-files-section/page-template-files/#creating-a-custom-page-template-for-one-specific-page)
                 - [Template Partials](https://developer.wordpress.org/themes/template-files-section/partial-and-miscellaneous-template-files/#content-slug-php)
-            - Note: Template pages overide custom pages
+            - Note: Template pages override custom pages
 
 ---
 
-## Open lab-time
+## Review and Assignment 4 Answer Key
+- Tony needs an example project from Assignment 3. Post your Heroku link and GH repo in the chat if you'd like Tony to make an example of you.
 
 ---
-
-### Tony's goals for Lab-Time
-
----
-{% endcomment %}
 
 ## Dailies
-- Submit today's Codepen/repo/gist to the Dailies section (in Assessments) in Brightspace.
+- No Daily for today.
