@@ -24,19 +24,60 @@ categories: cpnt200
 
 ---
 
-## 1. Lecture/Live-code
+## 1. Install WP
 ### Learning Objectives
-### Terminology
+1. Install a vanilla version of WP on your system.
+2. Locate the `wp-config.php` file in a WP installation.
+
 ### Materials
+- [How Tony used to walk uphill both ways](https://wordpress.org/support/article/how-to-install-wordpress/)
+
 ### Key Takeaways
+- This method of installation is a last resort but is sometimes needed. We'll use more modern methods next week but keep this installation as a code reference.
+- **Pro-tip**: On the "Information needed" page that asks for an account username, DON'T use `admin` on production websites (it's fine for today). That's honey for hack bots. 
 
 ---
 
-## 2. Lecture/Live-code
+## 2. WP Tour
 ### Learning Objectives
-### Terminology
+1. Summarize the major features of the Wordpress Admin panel.
+2. Locate the `wp-content` directory in a WP installation.
+3. Understand the purpose of `wp-content` and the directories inside it.
+4. Locate the database fields referenced in [13 Useful WordPress SQL Queries You Wish You Knew Earlier](https://onextrapixel.com/13-useful-wordpress-sql-queries-you-wish-you-knew-earlier/).
+
 ### Materials
+- [WordPress Codex](https://codex.wordpress.org/) (Developer Documentation)
+- [Basic Usage](https://wordpress.org/support/category/basic-usage/)
+- [Administration Screens](https://wordpress.org/support/article/administration-screens/)
+
 ### Key Takeaways
+1. Plugins
+    - The number one source of blog bloat:
+        - Beware of client projects that have more than 20 plugins;
+        - Beware of plugins that are more than a major version out of date;
+        - Beware of plugins that are no longer maintained.
+2. Posts - great for content that:
+    - has an author(s);
+    - has a category;
+        - See Codex: [Post Categories](https://en.support.wordpress.com/posts/categories/)
+    - can be tagged;
+        - See Codex: [Post Tags](https://en.support.wordpress.com/posts/tags/)
+    - has a date:
+        - is organized by date;
+        - needs to be scheduled.
+    - each post type can be assigned a page template
+        - See Codex: [Post Templates](https://developer.wordpress.org/themes/template-files-section/post-template-files/)
+    - don't support custom templates
+    - can be customized by setting a [Post Format](https://developer.wordpress.org/themes/functionality/post-formats/) (the theme must explicitly support this)
+3. Pages - great for content that:
+    - is important enough to be in the primary navigation;
+    - doesn't change often;
+    - requires structured layouts
+        - See Codex: 
+            - [Page Templates](https://developer.wordpress.org/themes/template-files-section/page-template-files/)
+                - [Custom Templates](https://developer.wordpress.org/themes/template-files-section/page-template-files/#creating-a-custom-page-template-for-one-specific-page)
+                - [Template Partials](https://developer.wordpress.org/themes/template-files-section/partial-and-miscellaneous-template-files/#content-slug-php)
+            - Note: Template pages overide custom pages
 
 ---
 
