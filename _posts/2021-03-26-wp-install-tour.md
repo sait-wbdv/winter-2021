@@ -33,6 +33,21 @@ categories: cpnt200
 - [Installing WP the classic way](https://wordpress.org/support/article/how-to-install-wordpress/)
 
 ### Key Takeaways
+- File permissions for Mac. In order to install themes and upload Media, WP needs write access to your `wp-content` directory:
+
+    1. Navigate to your WP root directory (Tony's location):
+
+        ```
+        $ cd /Users/tony/.bitnami/stackman/machines/xampp/volumes/root/htdocs/blog
+        ```
+
+
+    2. Make your `wp-content` folder writable:
+
+        ```
+        $ chmod -R 755 wp-content
+        ```
+
 - This method of installation is a last resort but is sometimes needed. We'll use more modern methods next week but keep this installation as a code reference.
 - **Pro-tip**: On the "Information needed" page that asks for an account username, DON'T use `admin` on production websites (it's fine for today). That's honey for hack bots. 
 
