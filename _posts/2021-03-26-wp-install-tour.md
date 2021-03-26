@@ -20,7 +20,7 @@ categories: cpnt200
 
 ## Morning reflection
 ### Housekeeping
-- This afternoon: Review session and A4 answer key
+- This afternoon: Review session and A3/A4 answer keys
 
 ---
 
@@ -100,7 +100,7 @@ categories: cpnt200
 
 ---
 
-## Review and Assignment 4 Answer Key
+## Review and Assignment 3 & 4 Answer Keys
 - Tony needs an example project from Assignment 3. Post your Heroku link and GH repo in the chat if you'd like Tony to make an example of you.
 
 ---
