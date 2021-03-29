@@ -13,37 +13,38 @@ categories: cpnt200
     - Watch: The first 15 minutes of [The ULTIMATE Elementor Compendium](https://www.youtube.com/watch?v=HCzCO451F_c.)
 
 ---
-{% comment %}
 
 ## Morning reflection
 ### Housekeeping
 
 ---
 
-## 1. Lecture/Live-code
+## 1. Flywheel and Local
 ### Learning Objectives
-### Terminology
+- Setting up/installing a brand new WordPress site
+
 ### Materials
-### Key Takeaways
+- [Elementor 101](https://drive.google.com/file/d/1FNoAwaOKjnprzOv2v90VWp3DCGW4kJkd/view)
 
 ---
 
-## 2. Lecture/Live-code
+## 2. Hello Elementor
 ### Learning Objectives
-### Terminology
-### Materials
-### Key Takeaways
+- What is Elementor?
+- Install and set up Elementor, Hello theme, and Hello child theme
+
+---
+
+## 3. Build a home page
+### Learning Objectives
+- Understanding the Elementor dashboard, sections, and columns
+
 
 ---
 
 ## Open lab-time
 
 ---
-
-### Tony's goals for Lab-Time
-
----
-{% endcomment %}
 
 ## Dailies
 - Submit today's Codepen/repo/gist to the Dailies section (in Assessments) in Brightspace.

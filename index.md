@@ -80,10 +80,10 @@ title: "Program Schedule"
 - F: CPNT 200 Day 3 - [Introduction to Wordpress](/winter-2021{% link _posts/2021-03-26-wp-install-tour.md %})
 
 ## Week 12: Mar 29 - Apr 2
-- M: CPNT 200 Day 4 - [What is Elementor?(/winter-2021{% link _posts/2021-03-29-what-is-elementor.md %})
-- T: CPNT 200 Day 5 
-- W: CPNT 200 Day 6
-- R: CPNT 200 Day 7
+- M: CPNT 200 Day 4 - [What is Elementor?](/winter-2021{% link _posts/2021-03-29-what-is-elementor.md %})
+- T: CPNT 200 Day 5 - Widgets and Design Systems
+- W: CPNT 200 Day 6 - Mobile Responsive Editing
+- R: CPNT 200 Day 7 - Final Exam, Lab-time
 - _F: Good Friday_
 
 ## Week 13: Apr 5-9
