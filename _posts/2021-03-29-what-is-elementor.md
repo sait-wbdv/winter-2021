@@ -16,6 +16,7 @@ categories: cpnt200
 
 ## Morning reflection
 ### Housekeeping
+1. [DRAFT - Final Group Project](https://github.com/sait-wbdv/assessments/tree/master/cpnt200/final)
 
 ---
 
