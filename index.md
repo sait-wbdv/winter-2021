@@ -83,7 +83,7 @@ title: "Program Schedule"
 - M: CPNT 200 Day 4 - [What is Elementor?](/winter-2021{% link _posts/2021-03-29-what-is-elementor.md %})
 - T: CPNT 200 Day 5 - Widgets and Design Systems
 - W: CPNT 200 Day 6 - Mobile Responsive Editing
-- R: CPNT 200 Day 7 - Final Exam, Lab-time
+- R: CPNT 200 Day 7 - [Final Exam, Lab-time](/winter-2021{% link _posts/2021-04-01-final-exam-review.md %})
 - _F: Good Friday_
 
 ## Week 13: Apr 5-9
