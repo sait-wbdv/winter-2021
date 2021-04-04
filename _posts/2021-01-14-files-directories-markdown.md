@@ -31,7 +31,7 @@ CPNT 201 is all about the tools that we use to support our (soon to be) coding a
 3. **Feb 8**: Vector Image software (i.e. Illustrator, in the before times)
 4. **Mar 2**: Build Tools (Sass, minification)
 
-Today we'll be covering the core skills we'll need to use Git and GH effectively: File management and core command line skillz.
+Today we'll be covering the core skills we'll need to use Git and GH effectively: File management and core command line skills.
 
 
 ## Pre-requisites
