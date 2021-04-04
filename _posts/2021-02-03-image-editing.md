@@ -150,7 +150,7 @@ We need some sample images to play with on Friday. Using the your source images 
 This course will require small, medium and large versions of multiple images. These will be used in mobile, tablet and desktop screen widths using the `srcset` attribute.
 
 
-**Warning**: It's important that the smal, medium and large sizes of an individual image is the same aspect ratio. Otherwise, the images will be distorted at some screen sizes. 
+**Warning**: It's important that the small, medium and large sizes of an individual image is the same aspect ratio. Otherwise, the images will be distorted at some screen sizes. 
 {: .notice .notice--warning}
 
 ### Session Goals
