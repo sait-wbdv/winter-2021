@@ -61,13 +61,13 @@ Operand
 : The values that operators act on. For example, in `1 + 2`, the `1` and `2` are operands.
 
 Primitive Value Types
-: Data types that exist at the lowest level of the Javascript implmentation. There are seven primitive values in JS; this course will cover these five: [`undefined`](https://developer.mozilla.org/en-US/docs/Glossary/undefined), [`null`](https://developer.mozilla.org/en-US/docs/Glossary/Null), [`boolean`](https://developer.mozilla.org/en-US/docs/Glossary/Boolean),[`string`](https://developer.mozilla.org/en-US/docs/Glossary/String), [`number`](https://developer.mozilla.org/en-US/docs/Glossary/Number)
+: Data types that exist at the lowest level of the Javascript implementation. There are seven primitive values in JS; this course will cover these five: [`undefined`](https://developer.mozilla.org/en-US/docs/Glossary/undefined), [`null`](https://developer.mozilla.org/en-US/docs/Glossary/Null), [`boolean`](https://developer.mozilla.org/en-US/docs/Glossary/Boolean),[`string`](https://developer.mozilla.org/en-US/docs/Glossary/String), [`number`](https://developer.mozilla.org/en-US/docs/Glossary/Number)
 
 Expression
 : A piece of code that returns a value.
 
 Variable Declaration
-: Creating a variable name in memory (with or without a value). In Jascript ES6, this is accomplished with the `const` and `let` declaration keywords.
+: Creating a variable name in memory (with or without a value). In Javascript ES6, this is accomplished with the `const` and `let` declaration keywords.
 
 Variable Assignment
 : When we give a variable name a value using the `=` assignment operator. We say we've "assigned a variable". If a variable hasn't been assigned, it's value will be `undefined`.
