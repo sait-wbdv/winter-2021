@@ -70,7 +70,7 @@ Array item
     - To use the above arrays, either:
         1. Copy/paste _after_ `export`, OR;
         2. `import` the `mjs` file using [ES Modules](https://hacks.mozilla.org/2018/03/es-modules-a-cartoon-deep-dive/)
-- In-class: [Outputing a random array item to HTML](https://codepen.io/acidtone/pen/ExNmROE)
+- In-class: [Outputting a random array item to HTML](https://codepen.io/acidtone/pen/ExNmROE)
 
 ### Key Takeaways
 - Random numbers in Javascript are a pain.
@@ -90,7 +90,7 @@ Array glue
 : A string that is added when joining elements of an array.
 
 ### Materials
-- In-class: [Outputing an HTML list from an array](https://codepen.io/acidtone/pen/PobmaeM)
+- In-class: [Outputting an HTML list from an array](https://codepen.io/acidtone/pen/PobmaeM)
 
 ### Key Takeaways
 - The array glue for an HTML list is most often `</li><li>`, which is then surrounded by `<ul><li>` and `</li></ul>`.
