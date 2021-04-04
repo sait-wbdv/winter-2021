@@ -13,7 +13,7 @@ categories: dsgn270
             - All assignments should be zipped, even if it's just one file; text files sometimes get mangled by Brightspace.
         - Late penalties: 10% deducted per day late to a maximum of three days late.
         - Extensions will not be given the day an assignment is due.
-        - There is a fine line between open source development and plagarism.
+        - There is a fine line between open source development and plagiarism.
             - If you are using work that you found online (and it's openly licensed), list the original source (with a link to the code) as an Attribution in a README.md file included with your assignment. It's expected that you refactor the code to match your own (variable names, indentation, etc).
             - If you solved a problem with a classmate, Attribute them in a README.md file. The student that helps their classmates the most will be eligible for Class MVP at the end of the program (worth bragging rights, not marks).
             - While you are encouraged to help your classmates, this is not an invitation to copy and paste solutions. This will be considered possible Academic Misconduct. Fair warning: Git is really good at finding identical code between files...
