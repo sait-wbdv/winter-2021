@@ -4,18 +4,27 @@ title: WBDV Library of Findings
 ---
 
 ## Tools and Assets
+
 - [Openly Licensed Assets]({{site.baseurl}}/cheatsheets/copyright/open-assets)
 
 ---
 
+## Tony's Gists
+
+- [Gist: Sample Code](https://gist.github.com/acidtone)
+
+---
+
 ## Javascript
+
 ### Recommended Resources
+
 - [Javascript: the Weird Parts](https://www.youtube.com/watch?v=Bv_5Zv5c-Ts)
   - This is the first 3.5 hours of a 12 hour Udemy course by Tony Alicea. It's and oldie but a goodie. Your instructor learned Javascript from this course. There's a discount link in the video description.
 - MDN: [Getting Started with Javascript](https://developer.mozilla.org/en-US/docs/Learn/Getting_started_with_the_web/Javascript_basics)
 
-
 ### MDN Textbook
+
 - [Javascript - Dynamic client-side scripting](https://developer.mozilla.org/en-US/docs/Learn/JavaScript)
   - [Javascript first steps](https://developer.mozilla.org/en-US/docs/Learn/JavaScript/First_steps)
     - [What is Javascript](https://developer.mozilla.org/en-US/docs/Learn/JavaScript/First_steps/What_is_JavaScript)
@@ -56,6 +65,7 @@ title: WBDV Library of Findings
 ---
 
 ## Getting Started
+
 - [Getting started with Web Development](https://developer.mozilla.org/en-US/docs/Learn/Getting_started_with_the_web)
 - [HTML basics](https://developer.mozilla.org/en-US/docs/Learn/Getting_started_with_the_web/HTML_basics)
 - [CSS basics](https://developer.mozilla.org/en-US/docs/Learn/Getting_started_with_the_web/CSS_basics)
@@ -64,6 +74,7 @@ title: WBDV Library of Findings
 ---
 
 ## Common questions
+
 - Video: [Why is CSS So Weird?](https://www.youtube.com/watch?v=aHUtMbJw8iA)
 - [HTML questions](https://developer.mozilla.org/en-US/docs/Learn/HTML/Howto)
 - [CSS questions](https://developer.mozilla.org/en-US/docs/Learn/CSS/Howto)
@@ -75,11 +86,14 @@ title: WBDV Library of Findings
 ---
 
 ## HTML
+
 ### Recommended Courses
+
 - Basics
   - Free Code Camp: [Introduction to Basic HTML & HTML5](https://www.freecodecamp.org/learn/responsive-web-design/basic-html-and-html5/)
 
 ### MDN
+
 - [Structuring the web with HTML](https://developer.mozilla.org/en-US/docs/Learn/HTML)
 - [Introduction to HTML](https://developer.mozilla.org/en-US/docs/Learn/HTML/Introduction_to_HTML)
 - [What's in the head? Metadata in HTML](https://developer.mozilla.org/en-US/docs/Learn/HTML/Introduction_to_HTML/The_head_metadata_in_HTML)
@@ -93,7 +107,9 @@ title: WBDV Library of Findings
 ---
 
 ## CSS
+
 ### Recommended Courses
+
 - Basics
   - Free Code Camp: [Introduction to CSS](https://www.freecodecamp.org/learn/responsive-web-design/basic-css/)
 - Flexbox
@@ -104,6 +120,7 @@ title: WBDV Library of Findings
   - Game: [CSS Grid Garden](https://cssgridgarden.com/)
 
 ### MDN
+
 - [CSS First Steps](https://developer.mozilla.org/en-US/docs/Learn/CSS/First_steps)
   - [What is CSS](https://developer.mozilla.org/en-US/docs/Learn/CSS/First_steps/What_is_CSS)
   - [Getting started with CSS](https://developer.mozilla.org/en-US/docs/Learn/CSS/First_steps/Getting_started)
@@ -144,4 +161,3 @@ title: WBDV Library of Findings
   - [Supporting older browsers](https://developer.mozilla.org/en-US/docs/Learn/CSS/CSS_layout/Supporting_Older_Browsers)
 
 ---
-
