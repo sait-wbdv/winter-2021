@@ -2,6 +2,12 @@
 /* Navigation */
 /**************/
 
+/* adding background color */
+nav.primary{
+  background-color: hsl(0, 6%, 72%);
+}
+
+
 nav.primary ul {
   display: flex;
 }
