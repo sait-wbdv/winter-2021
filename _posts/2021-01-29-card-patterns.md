@@ -41,7 +41,7 @@ categories: cpnt260
 ### Learning objectives
 - Compare two things with VS Code split screen.
 - Evaluate extension search results.
-- Optional: install a VS Code extention.
+- Optional: install a VS Code extension.
 
 ### Activity: Extension window shopping
 In groups of 3 or 4, search, share and/or install useful VS Code extensions.
@@ -64,7 +64,7 @@ In groups of 3 or 4, search, share and/or install useful VS Code extensions.
 ## Lecture/Live code
 ### Learning Objectives
 - Define replaced elements.
-- Undertand the cause of broken aspect ratio on images (hint: it's probably `height`).
+- Understand the cause of broken aspect ratio on images (hint: it's probably `height`).
 - Learn the wonders of `cover` and `contain`.
 
 ### Terms
