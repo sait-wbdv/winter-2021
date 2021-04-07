@@ -3,20 +3,16 @@ layout: page
 title: Principles of Social Collaboration
 ---
 ## Terminology
-<dl>
-  <dt>Social capital</dt>
-  <dd>The effective functioning of social groups through:
-    <ul>
-      <li>interpersonal relationships</li>
-      <li>a shared sense of identity</li>
-      <li>a shared understanding</li>
-      <li>shared norms and values</li>
-      <li>trust, cooperation, and reciprocity</li>  
-    </ul>
-  </dd>
-  <dt>Community of practice</dt>
-  <dd>A group of people who share a craft or a profession.</dd>
-</dl>
+Social capital
+: The effective functioning of social groups through:
+    - interpersonal relationships
+    - a shared sense of identity
+    - a shared understanding
+    - shared norms and values
+    - trust, cooperation, and reciprocity  
+
+Community of practice
+: A group of people who share a craft or a profession.
 
 ## Key Takeaways
 - A small minority of users are responsible for the majority of the content.

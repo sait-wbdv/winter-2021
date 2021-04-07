@@ -4,24 +4,30 @@ title: Small World Theory of Networks
 ---
 
 ## Terminology
-<dl>
-  <dt>Node</dt>
-  <dd>Individual actors, people, or things within the network.</dd>
-  <dt>Connection</dt>
-  <dd>Relationships or interactions that connect nodes. Also called ties, edges, or links.</dd>
-  <dt>Homophily</dt>
-  <dd>the natural tendency for people to interact with others who are similar to themselves based on almost any dimension. </dd>
-  <dt>Induced Homophily</dt>
-  <dd>Groups created as a result of outside forces such as age, socioeconomic status.</dd>
-  <dt>Choice Homophily</dt>
-  <dd>Individuals will find others similar to themselves regardless of the group setting.</dd>
-</dl>
+Node
+: Individual actors, people, or things within the network.
+
+Connection
+: Relationships or interactions that connect nodes. Also called ties, edges, or links.
+
+Homophily
+: the natural tendency for people to interact with others who are similar to themselves based on almost any dimension. 
+
+Induced Homophily
+: Groups created as a result of outside forces such as age, socioeconomic status.
+
+Choice Homophily
+: Individuals will find others similar to themselves regardless of the group setting.
+
+---
 
 ## Network Growth
 Metcalf's Law states that "the effect of a telecommunications network is proportional to the square of the number of connected users of the system (n<sup>2</sup>)"
 
 ![Infographic illustrating network diagrams at 2, 5 and 12 nodes](../assets/metcalfs-law.jpg)
 Figure 1: Connections grow exponentially with network size ([Source](https://medium.com/@embrkbusiness/knowledge-and-metcalfes-law-f0bc13a33db3))
+
+---
 
 ## Monkey Spheres
 First referenced by David Wong, editor of cracked.com). [source](https://www.cracked.com/article_14990_what-monkeysphere.html)
@@ -30,7 +36,9 @@ There is a cognitive limit to the number of people with whom one can maintain st
 
 Social scientists refer to this limit as [Dunbar's number](https://en.wikipedia.org/wiki/Dunbar%27s_number).
 
-### "Small World" Theory of Networks
+---
+
+## "Small World" Theory of Networks
 Social network analysis studies the human social patterns in a world where we have limited cognitive resources for maintaining social ties. 
 
 Studies show that a few people account for a disproportionate amount of the connectivity. These "connectors" maintain many weak ties to a larger collection of tighter groups with stronger ties.
