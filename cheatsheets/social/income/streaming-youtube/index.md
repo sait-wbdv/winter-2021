@@ -2,17 +2,19 @@
 layout: page
 title: Streaming and Income on Youtube 
 ---
+
+## Video Synopsis: How Many YouTubers Actually Make a Living Doing This?
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/L7e0tkXPOjA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+by Simon Whistler (and Danny) on Apr 8, 2020
+
+---
+
 ## Terminology
 CPM (Cost per thousand)
 : A.K.A. Cost per Mille. The price of 1,000 advertisement impressions on one web page or video.
 
 ---
-
-## Streaming on Youtube
-### Video Synopsis: How Many YouTubers Actually Make a Living Doing This?
-by Simon Whistler (and Danny) on Apr 8, 2020
-
-<iframe width="560" height="315" src="https://www.youtube.com/embed/L7e0tkXPOjA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 - "[Half my money comes from Google AdSense, the rest comes from Sponsorships](https://youtu.be/L7e0tkXPOjA?t=216)"
   - Best guess: "27,493 Youtubers are making a living from the platform". Actually, the estimate is 9,000 - 45,000.
