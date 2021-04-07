@@ -25,7 +25,7 @@ categories: dsgn270
 ### Housekeeping
 - 262 Assignment 5 marks returned
 - [DSGN 270 Assignment 3](https://github.com/sait-wbdv/assessments/tree/master/dsgn270/social/assignment-3)
-  - Due Friday @ 11:59
+  - Due Friday @ 11:59pm
   - 25% of Final Mark
 
 ---
