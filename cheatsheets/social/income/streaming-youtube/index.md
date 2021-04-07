@@ -2,10 +2,11 @@
 layout: page
 title: Streaming and Income on Youtube 
 ---
-<dl>
-  <dt>CPM (Cost per thousand)</dt>
-  <dd>A.K.A. Cost per Mille. The price of 1,000 advertisement impressions on one web page or video.</dd>
-</dl>
+## Terminology
+CPM (Cost per thousand)
+: A.K.A. Cost per Mille. The price of 1,000 advertisement impressions on one web page or video.
+
+---
 
 ## Streaming on Youtube
 ### [How Many YouTubers Actually Make a Living Doing This?](https://youtu.be/L7e0tkXPOjA)

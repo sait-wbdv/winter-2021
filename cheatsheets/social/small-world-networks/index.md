@@ -45,8 +45,12 @@ Studies show that a few people account for a disproportionate amount of the conn
 
 Scientists refer to this as the [Small World Theory of Networks](https://en.wikipedia.org/wiki/Small-world_network). We call it [6 Degrees of Kevin Bacon](https://www.google.com/search?q=6+degrees+of+kevin+bacon).
 
+---
+
 ![Summary of Graph Theory Terminolgy](../assets/graph-theory.jpg)
 Figure 2: Graph Theory Clusters ([Source](https://sciences.ucf.edu/psychology/lighthalllab/dr-lighthall-contributes-to-new-systematic-review-of-graph-theory/))
+
+---
 
 ### The Small World Effect on Social Media
 - Twitter: [10% of users are create 80% of tweets](https://www.searchenginejournal.com/10-of-twitter-users-are-creating-80-of-tweets/305101/)

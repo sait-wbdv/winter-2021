@@ -2,22 +2,22 @@
 layout: page
 title: Streaming and Copyright 
 ---
-## Youtube
-### [Copyright claim vs Copyright strike](https://vidiq.com/blog/post/monetize-youtube-channel-copyright-claim/)
-<dl>
-  <dt>Copyright claim</dt>
-  <dd>"When you receive a copyright claim, YouTube, as a third party, is basically saying that you the creator, can use the copyright owner’s content, but the owner of that copyrighted content has the right to place adverts on your video and earn income from it."</dd>
-  <dt>Copyright strike</dt>
-  <dd>"If the owner asserts their rights to their own content, your video will be removed from your channel and you will also receive a copyright strike. Three copyright strikes and your channel will be terminated. In extreme cases, you could find yourself in legal hot water and have to defend yourself in court."</dd>
-</dl>
+## Youtube Terminology
+Source: [Copyright claim vs Copyright strike](https://vidiq.com/blog/post/monetize-youtube-channel-copyright-claim/)
+
+Copyright claim
+: "When you receive a copyright claim, YouTube, as a third party, is basically saying that you the creator, can use the copyright owner’s content, but the owner of that copyrighted content has the right to place adverts on your video and earn income from it."</dd>
+
+Copyright strike
+: "If the owner asserts their rights to their own content, your video will be removed from your channel and you will also receive a copyright strike. Three copyright strikes and your channel will be terminated. In extreme cases, you could find yourself in legal hot water and have to defend yourself in court."
 
 ---
 
-**Tony is not a lawyer**, but we watches them on Youtube
+_Tony is not a lawyer_, but we watches them on Youtube
 
 ---
 
-### [YouTuber Extortion? MxR Plays v. Jukin](https://youtu.be/5A_i-sB9H0Q) 
+## [YouTuber Extortion? MxR Plays v. Jukin](https://youtu.be/5A_i-sB9H0Q) 
 by Legal Eagle
 - [Summary of the situation](https://youtu.be/5A_i-sB9H0Q?t=78)
 - [Summary of American copyright law](https://youtu.be/5A_i-sB9H0Q?t=340)
@@ -56,8 +56,7 @@ by Legal Eagle
 
 ---
 
-## Streaming Music
-### [Twitch is in serious trouble](https://youtu.be/E7wnROhHBH4) 
+## [Twitch is in serious trouble](https://youtu.be/E7wnROhHBH4) 
 by Hoeg Law
 - [Don't stream music on Twitch](https://youtu.be/E7wnROhHBH4?t=932)
 - [How to avoid DMCA notifications](https://youtu.be/E7wnROhHBH4?t=1253)
@@ -70,3 +69,5 @@ by Hoeg Law
     - to use music in a public setting, a **public performance license** is required;
     - for music used in a video setting such as an advertisment, film or _recorded livestream_, a **synchonization license** is required.
   - _Allegedly_, Twitch has not paid for synchonization licenses (the most expensive of the bunch).
+
+### Key Takeaways

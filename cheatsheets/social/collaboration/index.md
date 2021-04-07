@@ -14,15 +14,19 @@ Social capital
 Community of practice
 : A group of people who share a craft or a profession.
 
+---
+
 ## Key Takeaways
 - A small minority of users are responsible for the majority of the content.
 - Social collaboration in software is very effective. See: [Steve Bomber on Open Source](https://youtu.be/sPQViNNOAkw?t=758)
 - Social tools are value agnostic. See [Pro-Ana](https://youtu.be/sPQViNNOAkw?t=1032).
 
+---
+
 ## Broadcast vs Communications Media
 Classic media production falls under two broad classifications:
-- **Broadcast media**: One-to-many messaging. Examples include books, newspapers, radio, television, move theatres.
-- **Communication media**: One-to-one conversations. Examples include: telegraph, phone, snail mail.
+- _Broadcast media_: One-to-many messaging. Examples include books, newspapers, radio, television, move theatres.
+- _Communication media_: One-to-one conversations. Examples include: telegraph, phone, snail mail.
 
 Social tools are like walkie-talkies: they do both.
 
@@ -35,6 +39,9 @@ Filtering is Google's primary business model.
 
 But how do we filter unlimited information?
 
+---
+
+## Filters
 ### Classic filters
 - **Time**: *when* the content is relevant. Example: evening time-slots in television.
 - **Location**: *where* the content is relevant. This filter was removed when we began remote delivery of this program.
@@ -44,6 +51,8 @@ But how do we filter unlimited information?
 - **likes**: *who* likes the content.
 - **up/down vote**: *who* thinks the content is credible.
 
+---
+
 ## Mass amateurization of communities of practice
 Use of these tools has resulted in the "mass amateurization" of classically professional media industries:
 - journalism --> blogging, Titter
@@ -51,6 +60,8 @@ Use of these tools has resulted in the "mass amateurization" of classically prof
 - television --> YouTube, Twitch
 
 This has also enabled the evolution of micro-niche learning communities that are no longer limited by geography and access to a means of production. Not always a good thing: See [Institutions vs Collaboration](https://youtu.be/sPQViNNOAkw?t=1032) @ 17:00 regarding Pro-Ana.
+
+---
 
 ## Collective Action
 Collective volunteer effort toward a common goal can be categorized into three groups of increasing difficulty:
