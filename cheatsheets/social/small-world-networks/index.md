@@ -11,7 +11,7 @@ Connection
 : Relationships or interactions that connect nodes. Also called ties, edges, or links.
 
 Homophily
-: the natural tendency for people to interact with others who are similar to themselves based on almost any dimension. 
+: The natural tendency for people to interact with others who are similar to themselves based on almost any dimension. 
 
 Induced Homophily
 : Groups created as a result of outside forces such as age, socioeconomic status.
@@ -53,6 +53,6 @@ Figure 2: Graph Theory Clusters ([Source](https://sciences.ucf.edu/psychology/li
 ---
 
 ### The Small World Effect on Social Media
-- Twitter: [10% of users are create 80% of tweets](https://www.searchenginejournal.com/10-of-twitter-users-are-creating-80-of-tweets/305101/)
+- Twitter: [10% of users create 80% of the tweets](https://www.searchenginejournal.com/10-of-twitter-users-are-creating-80-of-tweets/305101/)
 - Facebook: [3.57 degrees of friends](https://www.bbc.com/news/newsbeat-35500398)
 - Wikipedia: [5% of users contribute 80% of the content](https://www.nature.com/articles/srep01783)

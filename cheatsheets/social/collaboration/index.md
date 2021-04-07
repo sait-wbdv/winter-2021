@@ -3,13 +3,19 @@ layout: page
 title: Principles of Social Collaboration
 ---
 ## Terminology
-Social capital
+Social Capital
 : The effective functioning of social groups through:
     - interpersonal relationships
     - a shared sense of identity
     - a shared understanding
     - shared norms and values
     - trust, cooperation, and reciprocity  
+
+Bonding Social Captial
+: A type of social capital that describes connections _within_ a group or community.
+
+Bridging Social Captial
+: A type of social capital that describes connections between groups.
 
 Community of practice
 : A group of people who share a craft or a profession.
@@ -48,8 +54,9 @@ But how do we filter unlimited information?
 - **Classification**: *what* the content is. Tagging is a cooperative implementation of classification (kind of).
 
 ### Social filters
-- **likes**: *who* likes the content.
-- **up/down vote**: *who* thinks the content is credible.
+- **likes**: *who* likes the content and/or thinks it's relevant to them.
+- **up/down vote ratio**: *who* thinks the content is credible.
+- **comments**: *who* has taken the effort to create content themselves.
 
 ---
 
@@ -65,6 +72,6 @@ This has also enabled the evolution of micro-niche learning communities that are
 
 ## Collective Action
 Collective volunteer effort toward a common goal can be categorized into three groups of increasing difficulty:
-1. **Sharing**: the easiest form of effort because social tools allow us to share for free and there's often no oversight.
-2. **Cooperation**: more difficult because it requires a change in behaviour to synchronize participants. Conversation is the first step toward cooperation and the creation of a group identity.
-3. **Collaborative production**: the most difficult scenario happens when no one person can take credit for what gets created and the project could not happen without the participation of many.
+1. _Sharing_: the easiest form of effort because social tools allow us to share for free and there's often no oversight.
+2. _Cooperation_: more difficult because it requires a change in behaviour to synchronize participants. Conversation is the first step toward cooperation and the creation of a group identity.
+3. _Collaborative production_: the most difficult scenario happens when no one person can take credit for what gets created and the project could not happen without the participation of many.
