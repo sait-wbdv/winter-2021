@@ -90,7 +90,7 @@ title: "Program Schedule"
 - _M: Easter Monday_
 - T: CPNT 264 Day 5 - Career and Consulting Essentials
 - W: DSGN 270 Day 5 - [Social Collaboration](/winter-2021{% link _posts/2021-04-07-social-collaboration.md %})
-- R: DSGN 270 Day 6 - [Copyright, Metric and Income](/winter-2021{% link _posts/2021-04-08-metrics-income-copyright.md %})
+- R: DSGN 270 Day 6 - [Metrics and Income](/winter-2021{% link _posts/2021-04-08-metrics-income-copyright.md %})
 - F: DSGN 270 Day 7 - API Authentication
 
 ## Week 14: Apr 12-16
