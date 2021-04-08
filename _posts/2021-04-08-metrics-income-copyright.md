@@ -33,6 +33,9 @@ categories: dsgn270
 
 ### Housekeeping
 - DRAFT: [Assignment 4: Pirate Metrics](https://github.com/sait-wbdv/assessments/tree/master/dsgn270/social/assignment-4)
+  - Due Monday
+  - 25% of Final mark
+- 9am start for tomorrow!
 
 ---
 
