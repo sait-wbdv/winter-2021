@@ -41,37 +41,35 @@ categories: dsgn270
 4. Any mini-lectures?
 
 ---
-{% comment %}
 
 ## Morning reflection
 ### Housekeeping
+- 262 Final Project marks returned
+- Pull Request leftovers
+- Guest speakers?
 
 ---
 
-## 1. Lecture/Live-code
-### Learning Objectives
-### Terminology
-### Materials
-### Key Takeaways
+## 1. CPNT 265 Overview
+- DRAFT: [CPNT 265 Assessments](https://github.com/sait-wbdv/assessments/tree/master/cpnt265)
 
 ---
 
-## 2. Lecture/Live-code
-### Learning Objectives
-### Terminology
-### Materials
-### Key Takeaways
+## 2. Final Presentation Overview
+- [Fall 2020 Showcase](https://sait-wbdv.github.io/showcase/)
+- [Fall 2020 Presentation Schedule](https://sait-wbdv.github.io/finals/)
+
+---
+
+## 3. Week 14 Schedule
+- Planned Lectures
+    - Lean Canvas
+    - API Authentication
+- Requested lectures
+    - E-commerce
+    - Proposals
 
 ---
 
 ## Open lab-time
-
----
-
-### Tony's goals for Lab-Time
-
----
-{% endcomment %}
-
-## Dailies
-- Submit today's Codepen/repo/gist to the Dailies section (in Assessments) in Brightspace.
+- Early Dismissal
