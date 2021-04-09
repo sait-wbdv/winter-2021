@@ -94,11 +94,11 @@ title: "Program Schedule"
 - F: DSGN 270 Day 7 - [Prep for 265](/winter-2021{% link _posts/2021-04-09-finals-initial-prep.md %})
 
 ## Week 14: Apr 12-16
-- M: CPNT 265 Day 1 - Business of Web Development
-- T: CPNT 265 Day 2
-- W: CPNT 265 Day 3
-- R: CPNT 265 Day 4
-- F: CPNT 265 Day 5
+- M: CPNT 265 - [Flex Day 1](/winter-2021{% link _posts/2021-04-12-flex-day-1.md %}) 
+- T: CPNT 265 - [Flex Day 2](/winter-2021{% link _posts/2021-04-13-flex-day-2.md %}) 
+- W: CPNT 265 - [Flex Day 3](/winter-2021{% link _posts/2021-04-14-flex-day-3.md %})
+- R: CPNT 265 - [Flex Day 4](/winter-2021{% link _posts/2021-04-15-flex-day-4.md %})
+- F: CPNT 265 - [Flex Day 5](/winter-2021{% link _posts/2021-04-16-flex-day-5.md %})
 
 ## Week 15: Apr 19-23
 - M: CPNT 265 Day 6
