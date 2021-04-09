@@ -91,7 +91,7 @@ title: "Program Schedule"
 - T: CPNT 264 Day 5 - Career and Consulting Essentials
 - W: DSGN 270 Day 5 - [Social Collaboration](/winter-2021{% link _posts/2021-04-07-social-collaboration.md %})
 - R: DSGN 270 Day 6 - [Metrics and Income](/winter-2021{% link _posts/2021-04-08-metrics-income-copyright.md %})
-- F: DSGN 270 Day 7 - API Authentication
+- F: DSGN 270 Day 7 - [Prep for 265](/winter-2021{% link _posts/2021-04-09-finals-initial-prep.md %})
 
 ## Week 14: Apr 12-16
 - M: CPNT 265 Day 1 - Business of Web Development
