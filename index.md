@@ -101,8 +101,8 @@ title: "Program Schedule"
 - F: CPNT 265 - [Flex Day 5](/winter-2021{% link _posts/2021-04-16-flex-day-5.md %})
 
 ## Week 15: Apr 19-23
-- M: CPNT 265 Day 6
-- T: CPNT 265 Day 7
-- W: CPNT 265 Day 8
-- R: CPNT 265 Day 9
+- M: CPNT 265 - [Flex Day 6](/winter-2021{% link _posts/2021-04-12-flex-day-6.md %})
+- T: CPNT 265 - [Flex Day 7](/winter-2021{% link _posts/2021-04-12-flex-day-7.md %})
+- W: CPNT 265 - [Flex Day 8](/winter-2021{% link _posts/2021-04-12-flex-day-8.md %})
+- R: CPNT 265 - [Flex Day 9](/winter-2021{% link _posts/2021-04-12-flex-day-9.md %})
 - F: Final Presentations
